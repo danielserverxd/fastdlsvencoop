@@ -19,7 +19,7 @@ CCVar@ g_StartMoney;
 //fall back for map_script
 const int MaxMoney = 16000;
 const int MoneyPerScore = 10;
-const int StartMoney = 0;
+const int StartMoney = 800;
 
 final class BuyMenuCVARS
 {
@@ -202,12 +202,12 @@ final class BuyMenuCVARS
 				{
 					if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) <= 0 )
 					{
-						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 					}
 
 					else if( pPlayer.HasNamedPlayerItem( szItemName ) !is null )
 					{
-						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] You already have this weapon: " + szItemName + "\n" );
+						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Ya tienes esta arma: " + szItemName + "\n" );
 					}
 					else
 					{ 
@@ -218,7 +218,7 @@ final class BuyMenuCVARS
 							pPlayer.GiveNamedItem( szItemName );
 						}
 						else
-							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 					}
 				}
 				else
@@ -274,13 +274,13 @@ final class BuyMenuCVARS
 					{
 						if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) <= 0 )
 						{
-							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 						}
 						//Very tedious check to see if the player already has max ammo for a exhaustible weapon
 						else if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) >= uiCost && pPlayer.HasNamedPlayerItem( szClassname ).iFlags() & ITEM_FLAG_EXHAUSTIBLE != 0 &&
 							pPlayer.m_rgAmmo( pPlayer.HasNamedPlayerItem( szClassname ).GetWeaponPtr().m_iPrimaryAmmoType ) == pPlayer.GetMaxAmmo( szClassname ) )
 						{
-							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Exhaustible weapon already at max ammo\n" );
+							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Arma agotable ya está con munición máxima\n" );
 						}
 						else
 						{ 
@@ -293,7 +293,7 @@ final class BuyMenuCVARS
 							}
 							else
 							{
-								g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+								g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 							}
 						}
 					}
@@ -351,11 +351,11 @@ final class BuyMenuCVARS
 				{
 					if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) <= 0 )
 					{
-						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 					}
 					else if( pPlayer.HasNamedPlayerItem( szItemName ) !is null )
 					{
-						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 BUYMENU] You already have this weapon: " + szItemName + "\n" );
+						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 Tienda] Ya tienes esta arma: " + szItemName + "\n" );
 					}
 					else
 					{ 
@@ -366,7 +366,7 @@ final class BuyMenuCVARS
 							pPlayer.GiveNamedItem( szItemName );
 						}
 						else
-							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 					}
 				}
 				else
@@ -421,7 +421,7 @@ final class BuyMenuCVARS
 					{
 						if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) <= 0 )
 						{
-							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 						}
 						//Very tedious check to see if the player already has max ammo for a exhaustible weapon
 						else if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) >= uiCost && pPlayer.HasNamedPlayerItem( szClassname ).iFlags() & ITEM_FLAG_EXHAUSTIBLE != 0 &&
@@ -440,7 +440,7 @@ final class BuyMenuCVARS
 							}
 							else
 							{
-								g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 BUYMENU] Not enough money to buy: " + szItemName + " - Cost: $" + uiCost + "\n" );
+								g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCONSOLE, "[CS16 Tienda] No hay suficiente dinero para comprar: " + szItemName + " - Costo: $" + uiCost + "\n" );
 							}
 						}
 					}
@@ -566,7 +566,7 @@ final class BuyableItem
 	{
 		if( uint(BuyPoints[g_CS16MenuHooks.PlayerID( pPlayer )]) < m_uiCost )
 		{
-			g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Not enough money to buy: " + m_szEntityName + " - Cost: $" +  m_uiCost + "\n" );
+			g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] No hay suficiente dinero para comprar: " + m_szEntityName + " - Costo: $" +  m_uiCost + "\n" );
 			return;
 		}
 
@@ -579,17 +579,17 @@ final class BuyableItem
 				{
 					//pPlayer.HasNamedPlayerItem( m_szEntityName ).CheckRespawn();
 					//pPlayer.HasNamedPlayerItem( m_szEntityName ).AttachToPlayer( pPlayer );
-					g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] You bought ammo for: " + m_szEntityName + "\n" );
+					g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Compraste municion para: " + m_szEntityName + "\n" );
 				}
 				else
 				{
-					g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] You already have max ammo for this item!\n" );
+					g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Ya tienes munición máxima para esta arma!\n" );
 					return;
 				}
 			}
 			else
 			{
-				g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] You already have that item!\n" );
+				g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Ya tienes ese articulo!\n" );
 				return;
 			}
 			//KernCore end
@@ -606,7 +606,7 @@ final class BuyableItem
 		}
 		else
 		{
-			g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Not enough money - Cost: $" + m_uiCost + "\n");
+			g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Dinero insuficiente - Costo: $" + m_uiCost + "\n");
 			return;
 		}
 	}
