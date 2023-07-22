@@ -41,13 +41,13 @@ void DelayedCheck( CBasePlayer@ pPlayer )
     {
         if( !TrackPlayers.exists( string( g_EngineFuncs.GetPlayerAuthId( pPlayer.edict() ) ) ) )
         {
-            g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "Survival mode is active. No more respawning allowed for connected players.\n" );
+            g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "Modo de Supervivencia activado. No se permiten mas reapariciones para los jugadores conectados.\n" );
             g_PlayerFuncs.RespawnPlayer(pPlayer, true, true);
             TrackPlayers[ string( g_EngineFuncs.GetPlayerAuthId( pPlayer.edict() ) ) ] = 'Joined';
         }
         else
         {
-            g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "You have been respawned before, no respawning allowed for rejoining.\n" );
+            g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "Has reaparecido antes, no se permite reaparecer al volver a unirte.\n" );
         }
     }
 }

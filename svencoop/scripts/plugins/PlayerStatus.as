@@ -273,7 +273,7 @@ void update_player_status() {
 		if (lastPacket > disconnect_message_time) {
 			if (state.lag_state == LAG_NONE) {
 				state.lag_state = LAG_SEVERE_MSG;
-				g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " lost connection to the server.\n");
+				g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " perdio la conexion con el servidor.\n");
 				if (!shouldSuppressLagsound)
 					play_sound(plr, dial_snd, 0.3f, dial_loop_dur);
 
@@ -345,9 +345,10 @@ void update_player_status() {
 				state.lag_state = LAG_NONE;
 				int dur = state.lag_spike_duration;
 				string a_or_an = (dur == 8 || dur == 11) ? "an " : "a ";
-				g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " recovered from " + a_or_an + dur + " second lag spike.\n");
-				g_Game.AlertMessage(at_console, "[LagLog] " + plr.pev.netname + " recovered from " + a_or_an + dur + " second lag spike.\n");
-				g_Game.AlertMessage(at_logged, "[LagLog] " + plr.pev.netname + " recovered from " + a_or_an + dur + " second lag spike.\n");
+				g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " se recupero de pico de lag de " + dur + " segundos.\n");
+				g_Game.AlertMessage(at_console, "[LagLog] " + plr.pev.netname + " se recupero de pico de lag de " + dur + " segundos.\n");
+				g_Game.AlertMessage(at_logged, "[LagLog] " + plr.pev.netname + " se recupero de pico de lag de " + dur + " segundos.\n");
+				//g_Game.AlertMessage(at_logged, "[LagLog] " + plr.pev.netname + " se recupero de pico de lag de " + a_or_an + dur + " segundos.\n");
 			}
 			
 			if (state.rendermode_applied) {
@@ -426,9 +427,9 @@ void update_player_status() {
 					g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " is AFK for the " + state.afk_count + suffix + " time.\n");
 				}
 				else if (state.afk_count > 1) {
-					g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " is AFK again.\n");
+					g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " esta AFK de nuevo.\n");
 				} else {
-					g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " is AFK.\n");
+					g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " esta AFK.\n");
 				}
 			}
 		}
@@ -627,7 +628,7 @@ void update_cross_plugin_state() {
 
 HookReturnCode ClientConnect(edict_t@ eEdict, const string &in sNick, const string &in sIp, bool &out bNoJoin, string &out sReason)
 {
-	g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, sNick + " is connecting.\n");
+	g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, sNick + " se esta conectando.\n");
 	return HOOK_CONTINUE;
 }
 
@@ -722,7 +723,7 @@ void return_from_afk_message(CBasePlayer@ plr) {
 	if (g_player_states[idx].lag_state == LAG_JOINING) {
 		int loadTime = int((g_Engine.time - g_player_states[idx].connection_time) + 0.5f);		
 		string plural = loadTime != 1 ? "s" : "";
-		g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " is now playing.\n");
+		g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " termino de conectarse.\n");
 		g_player_states[idx].lag_state = LAG_NONE;
 		g_player_states[idx].last_not_afk = g_Engine.time;
 		g_player_states[idx].fully_load_time = g_Engine.time;

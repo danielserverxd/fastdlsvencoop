@@ -42,6 +42,8 @@ void MapInit()
         g_Game.PrecacheModel( "models/player/LT_uganda/LT_uganda.mdl" );
         g_Game.PrecacheModel( "models/player/LT_Urresti/LT_Urresti.mdl" );
         g_Game.PrecacheModel( "models/player/LT_Wendy/LT_Wendy.mdl" );
+        g_Game.PrecacheGeneric( "models/player/31Minutos_Juan/31Minutos_Juan.bmp" );
+        g_Game.PrecacheModel( "models/player/31Minutos_Juan/31Minutos_Juan.mdl" );
        // g_Game.PrecacheGeneric( "models/player/LT_amongus/LT_amongus.mdl" );
        // g_Game.PrecacheGeneric( "models/player/" + g_PlayerModelList[i] + "/" + g_PlayerModelList[i] + ".mdl" );
 }
