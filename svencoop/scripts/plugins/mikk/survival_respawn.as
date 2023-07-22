@@ -30,7 +30,7 @@ HookReturnCode ClientPutInServer( CBasePlayer@ pPlayer )
 {
     if( pPlayer !is null )
     {
-        g_Scheduler.SetTimeout( "DelayedCheck", 2.5f, @pPlayer );
+        g_Scheduler.SetTimeout( "DelayedCheck", 1.0f, @pPlayer );
     }
     return HOOK_CONTINUE;
 }

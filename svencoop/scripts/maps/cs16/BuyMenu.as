@@ -47,7 +47,8 @@ final class BuyMenuCVARS
 		NumDisplayParams.channel = 0;
 		NumDisplayParams.flags = HUD_ELEM_ABSOLUTE_X | HUD_ELEM_ABSOLUTE_Y | HUD_ELEM_DYNAMIC_ALPHA | HUD_ELEM_EFFECT_ONCE;
 		NumDisplayParams.x = 5;
-		NumDisplayParams.y = -35;
+		//NumDisplayParams.y = -35;
+		NumDisplayParams.y = -75;
 		NumDisplayParams.spritename = MoneySignSpr;
 		NumDisplayParams.defdigits = 0;
 		NumDisplayParams.maxdigits = 5;
