@@ -19,7 +19,7 @@ CCVar@ g_StartMoney;
 //fall back for map_script
 const int MaxMoney = 16000;
 const int MoneyPerScore = 10;
-const int StartMoney = 800;
+const int StartMoney = 120;
 
 final class BuyMenuCVARS
 {

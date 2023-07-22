@@ -1,0 +1,3 @@
+vuela gaa/vuela.wav
+f gaa/f.wav
+ez gaa/ez.wav
