@@ -1,0 +1,43 @@
+TOON RUN 2 CLASSIC
+by koelzk (E-Mail: koelzk@web.de WWW: http://www.crispy-cow.de)
+Classic version ported to Sven 5.x by BryanH
+
+MISSION OBJECIVE
+
+After your ride through the stinking guts of a Giant chicken,
+you have proceeded deeply into the Mother Spleen's realm.
+
+Further infiltrate the realm of the 
+Slimy-Sweaty-Evil-Giant-Mega-Monster-Boss-From-Outer-Space
+and kill any resistance. (As usual)
+
+HINT: If you are standing in front of three Giant plants and
+you have NO idea, what to do next refer to toonrun.txt.
+
+
+Changelist for Classic version ported to Sven 5.x by BryanH:
+
+* Updated maps to use kk1_classic.wad and kk2_classic.wad.
+* Updated level transistions to target _classic versions.
+* Enabled survival mode and added checkpoints.
+* Replaced missing lights.rad files with various in-map info_texlights entities.
+* Placed at least one weapon_m16 in each map to maintain compatibility with Sven 5.0 weapons.
+* Fixed corner in pipe in toonrun1 causing players to get stuck in pipe.
+* Fixed various lip values (e.g. elevators blowtato plant area).
+* Fixed various lighting issues in old map sources.
+* Fixed various VIS issues in old map sources.
+* Fixed center blowtato plant being killed prematurely by a grenade in the other blowtato plants.
+* Fixed vortigaunts not getting launched out of the center blowtato properly.
+* Added shotgun shells and a battery in the volcano area in toonrun2 to make it more doable with small amounts of people.
+* Fixed leaks in toonrun3.
+* Fixed vortigaunt spawning in the air in toonrun2.
+
+Bug fixes for Sven Co-op 4.5 by AdamR:
+
+* Fixed giant plants from being bypassed with a well placed banana bomb.
+
+Changes for Sven Co-op 4.5 by AdamR:
+
+* Added M16 by the assault rifle grenades to make them usable.
+* Increased maximum viewable distance from 4096 to 6144, as certain areas get cut off short.
+* Recompiled map with my custom x64 build of Vluzacn's ZHLT.
