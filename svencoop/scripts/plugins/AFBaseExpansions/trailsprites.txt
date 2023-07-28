@@ -1,0 +1,42 @@
+#sprite definition file for simpletrail plugin
+#any line starting with # is a comment line
+
+#default sprites
+
+sprites/zbeam3.spr fatline 0
+sprites/zbeam5.spr thinline 0
+sprites/voiceicon.spr voice 1
+sprites/xbeam4.spr smokey 0
+sprites/lgtning.spr lightning 0
+sprites/interlace.spr interlace 0
+
+#add custom sprites below
+#format: (path) (name) (0 recolor 1 force white)
+#example: sprites/xsmoke3.spr xmoke3
+sprites/gaa/trails/arrows.spr 1
+sprites/gaa/trails/chenzen.spr 1
+sprites/gaa/trails/chinaflag.spr 1
+sprites/gaa/trails/datboi.spr 1
+sprites/gaa/trails/doge.spr 1
+sprites/gaa/trails/dualline.spr 1
+sprites/gaa/trails/flagaus.spr 1
+sprites/gaa/trails/flagfin.spr 1
+sprites/gaa/trails/flagger.spr 1
+sprites/gaa/trails/flagjap.spr 1
+sprites/gaa/trails/flaguk.spr 1
+sprites/gaa/trails/hotdog.spr 1
+sprites/gaa/trails/joyface.spr 1
+sprites/gaa/trails/lol.spr 1
+sprites/gaa/trails/moneyface.spr 1
+sprites/gaa/trails/point.spr 1
+sprites/gaa/trails/pointscroll.spr 1
+sprites/gaa/trails/rainbow.spr 1
+sprites/gaa/trails/ruflag.spr 1
+sprites/gaa/trails/segfault.spr 1
+sprites/gaa/trails/serious.spr 1
+sprites/gaa/trails/squarewave.spr 1
+sprites/gaa/trails/svenlogo.spr 1
+sprites/gaa/trails/taco.spr 1
+sprites/gaa/trails/thinkingface.spr 1
+sprites/gaa/trails/usflag.spr 1
+sprites/gaa/trails/weed.spr 1
