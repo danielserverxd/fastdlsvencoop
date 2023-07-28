@@ -55,16 +55,16 @@ bool doCommand(CBasePlayer@ plr, const CCommand@ args, bool inConsole) {
 			string color = args[1].ToLowercase();
 			
 			string newColor;
-			if (color == "red" or color == "r") {
+			if (color == "rojo" or color == "r") {
 				state.color = 17;
 				newColor = "red";
-			} else if (color == "green" or color == "g") {
+			} else if (color == "verde" or color == "g") {
 				state.color = 19;
 				newColor = "green";
-			} else if (color == "blue" or color == "b") {
+			} else if (color == "azul" or color == "b") {
 				state.color = 16;
 				newColor = "blue";
-			} else if (color == "yellow" or color == "y") {
+			} else if (color == "amarillo" or color == "y") {
 				state.color = 18;
 				newColor = "yellow";
 			} else if (color == "off" or color == "o") {
@@ -72,12 +72,12 @@ bool doCommand(CBasePlayer@ plr, const CCommand@ args, bool inConsole) {
 				newColor = "disabled";
 			}
 			else {
-				g_PlayerFuncs.SayText(plr, "Colores Validos son: red, green, blue, yellow (or just r, g, b, y)");
+				g_PlayerFuncs.SayText(plr, "Colores Validos son: rojo, verde, azul, amarillo (or just r, g, b, y)");
 				return true;
 			}
 			g_PlayerFuncs.SayText(plr, "El color de tu nombre es ahora " + newColor);
 		} else {
-			g_PlayerFuncs.SayText(plr, "Uso: .color <red/green/blue/yellow/off>  OR  .c <r/g/b/y/o>");
+			g_PlayerFuncs.SayText(plr, "Uso: .color <rojo/verde/azul/amarillo/off>  OR  .c <r/g/b/y/o>");
 		}
 		
 		return true;
