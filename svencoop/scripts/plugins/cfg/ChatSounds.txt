@@ -69,6 +69,5 @@ xd2 gaa/audios/xd2.wav
 xd3 gaa/audios/xd3.wav
 xd4 gaa/audios/xd4.wav
 xd5 gaa/audios/xd5.wav
-xd6 gaa/audios/xd6.wav
 xd7 gaa/audios/xd7.wav
 xd8 gaa/audios/xd8.wav

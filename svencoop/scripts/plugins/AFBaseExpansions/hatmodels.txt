@@ -24,6 +24,17 @@ STATIC hats/tutu
 STATIC hats/viking
 STATIC hats/punk
 STATIC hats/bomb
+STATIC hats/autism
+STATIC hats/hfm
+STATIC hats/hotdoghat
+STATIC hats/jackolantern2
+STATIC hats/majmask
+STATIC hats/maskoftruth
+STATIC hats/moonmanhead
+STATIC hats/ricefarmer
+STATIC hats/segfault
+STATIC hats/sombrero
+STATIC hats/weenur
 
 DYNAMIC hats/cso_like_costumes_head 0 0 angelhead
 DYNAMIC hats/cso_like_costumes_head 1 1 bazzihead

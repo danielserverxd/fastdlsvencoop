@@ -3,17 +3,17 @@
 
 #default colors
 
-red 255 0 0
-orange 255 128 0
-yellow 255 255 0
-lime 128 255 0
-green 0 255 0
-turquoise 0 255 200
-cyan 0 128 255
-blue 0 0 255
-purple 128 0 255
-pink 255 0 255
-white 255 255 255
+rojo 255 0 0
+naranja 255 128 0
+amarillo 255 255 0
+lima 128 255 0
+verde 0 255 0
+turqueza 0 255 200
+cian 0 128 255
+azul 0 0 255
+purpura 128 0 255
+rosado 255 0 255
+blanco 255 255 255
 
 #add custom colors below
 #format: (name) (RRR) (GGG) (BBB)
