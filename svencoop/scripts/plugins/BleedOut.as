@@ -153,7 +153,7 @@ void BleedThink()
 					{
 						if(pState.reportState != 2) // We haven't reported the players condition yet
 						{
-							g_PlayerFuncs.SayText(pPlayer, "DANGER: You are critical!!");
+							g_PlayerFuncs.SayText(pPlayer, "PELIGRO: Estas en estado critico!!");
 							pState.reportState = 2;
 						}
 						
@@ -177,7 +177,7 @@ void BleedThink()
 					{
 						if(pState.reportState != 1) // We haven't reported the players condition yet
 						{
-							g_PlayerFuncs.SayText(pPlayer, "CAUTION: You are hurt!");
+							g_PlayerFuncs.SayText(pPlayer, "PRECAUCION: Estas herido!");
 							pState.reportState = 1;
 						}
 						
@@ -205,7 +205,7 @@ void BleedThink()
 					{
 						if(pState.reportState != 1) // We haven't reported the players condition yet
 						{
-							g_PlayerFuncs.SayText(pPlayer, "CAUTION: You are hurt!");
+							g_PlayerFuncs.SayText(pPlayer, "PRECAUCION: Estas herido!");
 							pState.reportState = 1;
 						}
 						
@@ -233,7 +233,7 @@ void BleedThink()
 				{
 					if(pState.reportState != 0 && pState.reportState != 3) // Player was not recovering from drowning and we haven't reported their condition yet
 					{
-						g_PlayerFuncs.SayText(pPlayer, "You've stopped the bleeding.");
+						g_PlayerFuncs.SayText(pPlayer, "Has detenido el sangrado.");
 						pState.reportState = 0;
 					}
 					else // Player was recovering from drowning but is now healthy. Reset their status

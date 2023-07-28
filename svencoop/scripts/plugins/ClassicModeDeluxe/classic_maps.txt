@@ -40,10 +40,10 @@ adventure_3
 aemos
 aerodock1
 afraidofmonsters
-afrikakorps1
-afrikakorps2
-afrikakorps3
-afrikakorps_bonus
+//afrikakorps1
+//afrikakorps2
+//afrikakorps3
+//afrikakorps_bonus
 agpain1
 agpain2
 aikapitka

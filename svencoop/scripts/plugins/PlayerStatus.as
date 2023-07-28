@@ -717,7 +717,7 @@ void return_from_afk_message(CBasePlayer@ plr) {
 		g_player_states[idx].total_afk += afkTime;
 	
 	if ((!ok_to_afk && afkTime > afk_tier[1]) || afkTime > afk_tier[2]) {
-		g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " was AFK for " + formatTime(afkTime) + ".\n");
+		g_PlayerFuncs.ClientPrintAll(HUD_PRINTNOTIFY, "" + plr.pev.netname + " estuvo AFK por " + formatTime(afkTime) + ".\n");
 	}
 	
 	if (g_player_states[idx].lag_state == LAG_JOINING) {

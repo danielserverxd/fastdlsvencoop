@@ -132,7 +132,7 @@ void FlashlightThink()
 				
 				if(pState.FlashlightIsEmpty)
 				{
-					g_PlayerFuncs.SayText(pPlayer, "Your flashlight is out of batteries.");
+					g_PlayerFuncs.SayText(pPlayer, "Tu linterna se quedo sin baterias.");
 					pPlayer.m_iFlashBattery = 1;
 					pState.FlashlightIsEmpty = false;
 				}
