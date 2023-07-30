@@ -59,6 +59,22 @@ void MapInit()
         g_Game.PrecacheModel( "models/player/L4D2_ellis/L4D2_ellis.mdl" );
         g_Game.PrecacheModel( "models/player/L4D2_nick/L4D2_nick.mdl" );
         g_Game.PrecacheModel( "models/player/L4D2_rochelle/L4D2_rochelle.mdl" );
+        g_Game.PrecacheGeneric( "models/player/gohan/gohan.bmp" );
+        g_Game.PrecacheModel( "models/player/gohan/gohan.mdl" );
+        g_Game.PrecacheGeneric( "models/player/goku/goku.bmp" );
+        g_Game.PrecacheModel( "models/player/goku/goku.mdl" );
+        g_Game.PrecacheGeneric( "models/player/Gonome/Gonome.bmp" );
+        g_Game.PrecacheModel( "models/player/Gonome/Gonome.mdl" );
+        g_Game.PrecacheGeneric( "models/player/HL2_combine/HL2_combine.bmp" );
+        g_Game.PrecacheModel( "models/player/HL2_combine/HL2_combine.mdl" );
+        g_Game.PrecacheGeneric( "models/player/Hunter_L4D/Hunter_L4D.bmp" );
+        g_Game.PrecacheModel( "models/player/Hunter_L4D/Hunter_L4D.mdl" );
+        g_Game.PrecacheGeneric( "models/player/pacman/pacman.bmp" );
+        g_Game.PrecacheModel( "models/player/pacman/pacman.mdl" );
+        g_Game.PrecacheGeneric( "models/player/Potal_2_atlas/Potal_2_atlas.bmp" );
+        g_Game.PrecacheModel( "models/player/Potal_2_atlas/Potal_2_atlas.mdl" );
+        g_Game.PrecacheGeneric( "models/player/Potal_2_P-Body/Potal_2_P-Body.bmp" );
+        g_Game.PrecacheModel( "models/player/Potal_2_P-Body/Potal_2_P-Body.mdl" );
        // g_Game.PrecacheGeneric( "models/player/LT_amongus/LT_amongus.mdl" );
        // g_Game.PrecacheGeneric( "models/player/" + g_PlayerModelList[i] + "/" + g_PlayerModelList[i] + ".mdl" );
 }
