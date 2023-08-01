@@ -200,8 +200,8 @@ class point_checkpoint : ScriptBaseAnimating
 		if( !IsEnabled() || IsActivated() || !pOther.IsPlayer() )
 			return;
 		
-		g_Game.AlertMessage( at_logged, "CHECKPOINT: \"%1\" activated Checkpoint\n", pOther.pev.netname );
-		g_PlayerFuncs.ClientPrintAll( HUD_PRINTTALK, "" + pOther.pev.netname + " just activated a Respawn-Point.\n" );
+		g_Game.AlertMessage( at_logged, "Checkpoint: \"%1\" activo un Checkpoint\n", pOther.pev.netname );
+		g_PlayerFuncs.ClientPrintAll( HUD_PRINTTALK, "" + pOther.pev.netname + " activo un Punto de Reaparicion.\n" );
 		
 		// Set activated
 		self.pev.frags = 1.0f;
