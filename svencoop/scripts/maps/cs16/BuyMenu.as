@@ -18,7 +18,7 @@ CCVar@ g_MoneyPerScore;
 CCVar@ g_StartMoney;
 //fall back for map_script
 const int MaxMoney = 16000;
-const int MoneyPerScore = 10;
+const int MoneyPerScore = 20;
 const int StartMoney = 120;
 
 final class BuyMenuCVARS
@@ -180,7 +180,7 @@ final class BuyMenuCVARS
 				szItemType = "ammo";
 			else
 			{
-				g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 BUYMENU] Invalid Item Type\n" );
+				g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Tipo de objeto no valido\n" );
 				return HOOK_CONTINUE;
 			}
 
@@ -281,7 +281,7 @@ final class BuyMenuCVARS
 						else if( uint(BuyMenu::BuyPoints[PlayerID( pPlayer )]) >= uiCost && pPlayer.HasNamedPlayerItem( szClassname ).iFlags() & ITEM_FLAG_EXHAUSTIBLE != 0 &&
 							pPlayer.m_rgAmmo( pPlayer.HasNamedPlayerItem( szClassname ).GetWeaponPtr().m_iPrimaryAmmoType ) == pPlayer.GetMaxAmmo( szClassname ) )
 						{
-							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Arma agotable ya está con munición máxima\n" );
+							g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTTALK, "[CS16 Tienda] Arma agotable ya está con municion maxima\n" );
 						}
 						else
 						{ 

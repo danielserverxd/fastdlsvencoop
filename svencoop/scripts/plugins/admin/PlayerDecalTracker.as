@@ -302,7 +302,7 @@ final class PlayerDecalTracker
 						
 						string szMessage;
 						
-						snprintf( szMessage, "Spray by \n%1 \nAuth ID: %2", pNearest.PlayerName, pNearest.AuthId );
+						snprintf( szMessage, "Spray de \n%1 \nID De Steam: %2", pNearest.PlayerName, pNearest.AuthId );
 						
 						g_PlayerFuncs.ClientPrint( pPlayer, HUD_PRINTCENTER, szMessage );
 					}
