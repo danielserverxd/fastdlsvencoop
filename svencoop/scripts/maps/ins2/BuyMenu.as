@@ -741,7 +741,7 @@ final class BuyMenu
 		m_pMenu.SetTitle( "Tienda de Armas de Insurgency: " );
 		m_pMenu.AddItem( "Tienda de Armas Primarias", null );
 		m_pMenu.AddItem( "Tienda de Armas Secundarias", null );
-		m_pMenu.AddItem( "Tienda de Equipamiento", null );
+		m_pMenu.AddItem( "Tienda de Arrojadizos", null );
 		m_pMenu.AddItem( "Tienda de Balas" );
 
 		m_pMenu.Register();
@@ -766,7 +766,7 @@ final class BuyMenu
 
 	// Equipment
 		@m_pEquipmentMenu = CTextMenu( TextMenuPlayerSlotCallback( this.WeaponCallback ) );
-		m_pEquipmentMenu.SetTitle( sChoose + " equipamiento: " );
+		m_pEquipmentMenu.SetTitle( sChoose + " Arrojadizos: " );
 	// Ammo
 		@m_pAmmoMenu = CTextMenu( TextMenuPlayerSlotCallback( this.AmmoCatCallBack ) );
 		m_pAmmoMenu.SetTitle( sChoose + " Balas: " );
@@ -919,7 +919,7 @@ final class BuyMenu
 				m_pPrimaryMenu.Open( 0, 0, pPlayer );
 			else if( sChoice == "Tienda de Armas Secundarias" )
 				m_pSecondaryMenu.Open( 0, 0, pPlayer );
-			else if( sChoice == "Tienda de Equipamiento" )
+			else if( sChoice == "Tienda de Arrojadizos" )
 				m_pEquipmentMenu.Open( 0, 0, pPlayer );
 			else if( sChoice == "Tienda de Balas" )
 				m_pAmmoMenu.Open( 0, 0, pPlayer );
