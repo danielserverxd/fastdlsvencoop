@@ -1,0 +1,2 @@
+"!FG_MESSAROUND"	"portal_house/hgrunt/alt_soldier07.wav"
+"!SC_FOREVER"	"portal_house/scientist/c3a2_sci_forever.wav"

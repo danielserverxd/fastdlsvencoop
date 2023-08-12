@@ -1,0 +1,15 @@
+Mission:  SA13 Sabotage
+Location:  Bioterrorist base of operations, Pohnpei island, Micronesia
+Source:  Theunicgold http://theunicgold.free.fr/
+===================================================================
+
+The sewer hangar holds the key to infiltrate the facility deeper so our spies can get the new missile coordinates unlocked. You must find the switch to deactivate the containment procedures so you and the rest of our forces can advance further.
+
+Be aware that an electronic key is needed, you must find it first!
+
+
+Objectives:
+
+*   Destroy all enemies
+
+*   Deactivate the biohazard containment on the island

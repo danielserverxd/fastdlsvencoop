@@ -33,6 +33,7 @@ of6a3
 of6a4
 of6a4b
 of6a5
+of7a0
 
 
 // custom maps from op4 or sven maps you're meant to be playing as soldiers

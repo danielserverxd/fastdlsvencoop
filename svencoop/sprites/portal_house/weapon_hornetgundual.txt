@@ -1,0 +1,13 @@
+12
+weapon			320 320hudpv1	80	160	80	20
+weapon_s		320 320hudpv1	80	180	80	20
+ammo			320 320hud2	16	36	18	18
+ammo2			320 320hud2	16	36	18	18
+crosshair		320 crosshairs	72	24	24	24
+autoaim			320 crosshairs	24	48	24	24
+weapon			640 portal_house/640hudpv2	0	180	170	45
+weapon_s		640 portal_house/640hudpv5	0	180	170	45
+ammo			640 640hud7	24	96	24	24
+ammo2			640 640hud7	24	96	24	24
+crosshair		640 crosshairs	72	24	24	24
+autoaim			640 crosshairs	24	48	24	24

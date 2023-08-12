@@ -157,7 +157,8 @@ Modo vagar abierto
 
 Spec_NoTarget
 {
-No hay objetivos validos. No se puede cambiar de modo
+No hay objetivos validos.
+No se puede cambiar de modo de camara.
 }
 
 Spec_Help

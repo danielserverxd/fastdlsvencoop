@@ -1,0 +1,9 @@
+"!BA_TENTACLE"	"portal_house/barney/ba_overhere.wav"
+"!BA_LATE"	"portal_house/barney/ba_ht07_01.wav"
+"!BA_HEADDOWN"	"portal_house/barney/ba_ht07_02.wav"
+"!BA_DESK"	"portal_house/barney/ba_ht07_03.wav"
+"!BA_BUTTON"	"portal_house/barney/ba_ht07_04.wav"
+"!BA_HEVNO"	"portal_house/barney/ba_ht07_06.wav"
+"!BA_HEVYES"	"portal_house/barney/ba_ht07_07.wav"
+
+"!SC_BIGDAY"	"portal_house/scientist/d08_sci03_trackers.wav"
