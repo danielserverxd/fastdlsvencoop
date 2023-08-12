@@ -7,6 +7,9 @@ Notable changes:
 */
 #include "cubemath/geneworm"
 
+#include "opfor/nvision"
+#include "opfor/weapon_knife"
+
 const string 
 	strFinalLevel = "of6a4b", // Last level before final boss
 	strBossLevel = "of6a5"; // Final boss
@@ -130,4 +133,10 @@ void EnableOpforFinalBoss()
 void MapInit()
 {
 	EnableOpforFinalBoss();
+	// Register original Opposing Force knife weapon
+	RegisterKnife();
+	// Enable Nightvision Support
+	NightVision::Enable();
+	// Global CVars
+	g_EngineFuncs.CVarSetFloat( "mp_hevsuit_voice", 0 );
 }
