@@ -450,7 +450,6 @@ sound/sentences/c2a1_5.wav
 sound/sentences/c2a1_6.wav
 sound/sentences/c2a1_7.wav
 sound/sentences/c2a1_8.wav
-sound/sentences/c2a1_9.wav
 sound/sentences/c2a2_0.wav
 sound/sentences/c2a2_1.wav
 sound/sentences/c2a2_2.wav
@@ -791,6 +790,7 @@ sound/sentences/hg_quest11.wav
 sound/sentences/hg_taunt0.wav
 sound/sentences/hg_taunt1.wav
 sound/sentences/hg_taunt2.wav
+sound/sentences/hg_taunt3.wav
 sound/sentences/hg_taunt4.wav
 sound/sentences/hg_taunt5.wav
 sound/sentences/hg_throw0.wav
