@@ -1,0 +1,2 @@
+"apache/ap_rotor2.wav" "portal_house/ufo.wav"
+"turret/tu_fire1.wav" "portal_house/ufobeam2.wav"

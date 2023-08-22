@@ -1,0 +1,6 @@
+5
+ammo            640 portal_house/hud_of/640hud7of 200  48  24  24
+crosshair       640 portal_house/hud_of/ofch1  24  24   24  24
+autoaim		640	crosshairs	24	72	24	24
+weapon          640 portal_house/hud_of/640hudof03 0   0   170 45
+weapon_s        640 portal_house/hud_of/640hudof04 0   0   170 45

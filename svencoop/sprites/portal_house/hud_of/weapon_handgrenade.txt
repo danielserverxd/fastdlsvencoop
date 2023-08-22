@@ -1,0 +1,4 @@
+3
+weapon		640 portal_house/hud_of/640hud3of	0	0	170	45
+weapon_s	640 portal_house/hud_of/640hud6of	0	0	170	45
+ammo		640 portal_house/hud_of/640hud7of	48	96	24	24

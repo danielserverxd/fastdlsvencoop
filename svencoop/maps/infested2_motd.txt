@@ -1,0 +1,15 @@
+INFESTED - creado por cold_blood3d
+=================================================
+
+Historia: 
+Mucho despues del incidente en Black Mesa, la mayoria de las especies alienigenas han sido erradicadas del planeta. Sin embargo, todavia hay muchas poblaciones de extraterrestres esparcidos por todo el mundo. Se han enviado miles de tropas militares para hacer frente a la rapida reproduccion de los alienigenas. Eres parte de un equipo de elite altamente capacitado, especializado en matar alienigenas.
+
+Tu mision actual:
+Su equipo ha sido asignado para eliminar una gran poblacion de extraterrestres en un edificio de investigacion genetica. Llegaras en un camion cerca de la entrada del edificio. Es probable que tambien haya algo de resistencia humana ya que los extraterrestres les han lavado el cerebro a muchas de las tropas. La oposicion humana es la primera linea de defensa de los alienigenas. Estos son sus objetivos:
+
+4. Continue su ascenso por el edificio, hasta llegar a los Laboratorios CenCom.
+
+5. Una vez en que estes en los Labotarios CenCom, debes rescatar la valiosa pistola Gauss para que no se pierda en la explosion.
+
+6. Encuentre el Centro de control en CenCom Labs. Activa la secuencia de autoterminacion del edificio para asegurarte de que todos los alienigenas mueran. Si desea salvarse, debera llegar rapidamente al sistema de transito subterraneo del edificio, donde un tren lo estara esperando.
+

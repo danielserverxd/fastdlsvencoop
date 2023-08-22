@@ -1,0 +1,7 @@
+"weapons/hks_hl1.wav" 	"portal_house/turret/shoot2.wav"
+"weapons/hks_hl2.wav" 	"portal_house/turret/shoot3.wav"
+"weapons/hks_hl3.wav" 	"portal_house/turret/shoot2.wav"
+"turret/tu_ping.wav" 	"portal_house/turret/tu_ping.wav"
+"turret/tu_alert.wav" 	"portal_house/turret/tu_alert.wav"
+"turret/tu_ping.wav" 	"portal_house/turret/tu_ping.wav"
+"turret/tu_deploy.wav" 	"portal_house/turret/tu_deploy.wav"

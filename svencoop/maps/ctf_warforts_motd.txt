@@ -1,0 +1,135 @@
+WARFORTS - por Tuesday's Avenger
+ctf_warforts.bsp - Version 1.4 
+
+
+
+== COMO SE JUEGA ==
+
+WARFORTS es un mapa de jugador contra jugador (PvP) en el que dos megacorporaciones (los equipos Amarillo y Azul) envian agentes para capturar las banderas del otro mientras defienden sus propias bases. 
+
+OBJETIVO PRINCIPAL:
+
+Capturar la bandera enemiga y devolverla a tu base. Puedes capturar la bandera llevandola hasta tu propio puesto de bandera; la captura es posible incluso si tu bandera se pierde. Podras distinguir a un portador de bandera por el efecto de brillo que coincide con el color de la bandera que lleva. 
+
+El primer equipo que llegue a 5 capturas sera el vencedor.
+
+
+OBJETIVOS SECUNDARIOS:
+
+Ademas de la bandera enemiga, los jugadores pueden atacar una serie de objetivos secundarios durante la partida.
+
+Cada base incluye cuatro estructuras destruibles, que solo se destruiran con explosivos, y estas estructuras son:
+
+- Generadores de escudo izquierdo y derecho, que alimentan los laseres que impiden a los enemigos escalar las paredes laterales.
+- Un bloqueador de transmision, que hara que el enemigo genere cohetes y Soldados de arma pesada si se pierde.
+- Una unidad de control de la puerta que, si se destruye, dejara la puerta delantera abierta y vulnerable.
+
+Ademas, si te apoderas el bunker lateral, sus defensas quedaran bajo el control de tu equipo.
+
+El Mortero en el centro del mapa puede ser controlado por cualquiera de los dos equipos; es muy util para destrozar las defensas enemigas.
+
+
+
+
+== CLASES ==
+
+Hay siete clases disponibles en WARFORTS. Asegurate de leer sus habilidades unicas para sacarles el maximo partido:
+(Si quieres cambiar de clase, manten pulsada la tecla "E" al reaparecer).
+
+---
+Flanker
+Salud: 55
+Armadura: 10
+Armas: Uzi, Desert Eagle
+Habilidad especial: Segundo viento (Habilidad pasiva, obten la bandera)
+
+Rapido y fragil, el Flanker se especializa en el combate de golpear y huir. Su habilidad pasiva le curara al maximo cuando recoja la bandera enemiga, lo que le permitira sobrevivir a la carrera de huida. Su velocidad base aumentada y su gravedad reducida le permiten esquivar obstaculos que detendrian a otras clases.
+
+
+---
+Tank
+Salud: 225
+Armadura: 50
+Armas: SAW M249
+Habilidad especial: Mejora (Habilidad pasiva, se activa al obtener una racha de 3 muertes)
+
+El Tank escupe balas y no le teme a nada. Mas lento que las otras clases, el Tank puede ser desgastado en campo abierto o mientras recarga.
+
+Si un Tank mata a 3 jugadores en una sola vida, recibira una mejora de salud, armadura y velocidad, ademas de eso, la mortal arma Gluon a su arsenal.
+
+
+---
+Support
+Salud: 75
+Armadura: 20
+Armas: 357, Llave inglesa, Satchel Charge x2
+Habilidad especial: Pistola centinela (Se activa al mantener la tecla "E")
+
+El Support es la columna vertebral de la defensa de un equipo. Puede desplegar un arma centinela manteniendo pulsada la tecla "E" durante unos segundos; los apoyos estan limitados a un arma a la vez, y despues de perder un arma, hay un retraso antes de poder colocar otra. Al morir, un centinela transferira los puntos que haya ganado a su propietario.
+
+El Support es tambien la unica clase capaz de reparar las estructuras de la base y las torretas utilizando la llave inglesa.
+
+
+---
+Operative
+Salud: 60
+Armadura: 5
+Armas: Cuchillo, Ballesta, Tripmine x2
+Habilidad especial: Capa (Se activa al mantener la tecla "Ctrl")
+
+Si todo el mundo te odia, estas jugando correctamente al Operative. Si mantienes la capa durante unos segundos, el agente sera invisible para los enemigos y casi imposible de ver para los jugadores.
+
+Ten en cuenta que si atacas o te pones de pie se te quitara el camuflaje; solo se pueden colocar minas de viaje mientras permaneces sigiloso.
+
+
+---
+Research
+Salud: 95
+Armadura: 5
+Armas: Percebe, Lanzador de esporas, Botiquin
+Habilidad especial: Aura curativa (Habilidad activa, mantener la tecla "E")
+
+La clase Research ha pasado demasiado tiempo en el laboratorio, y ha adquirido algunas habilidades desconocidas. Su arma de percebes le permite volar por el mapa para agarrar puntos, y su habilidad activa curara a todos los jugadores amigos en un radio determinado mientras se mantenga la tecla "E". Los jugadores enemigos atrapados en el campo de curacion seran envenenados.
+
+El Research es la unica clase capaz de revivir a los jugadores muertos.
+
+
+---
+Assault
+Salud: 150
+Armadura: 30
+Armas: Escopeta, MP5, Granada x5
+Habilidad especial: Invencibilidad (Habilidad pasiva, se obtiene al matar a un jugador)
+
+La clase Assault mezcla la capacidad de supervivencia con una carga adaptable, lo que le hace apto para cualquier papel y una amenaza para cualquier clase. Cuando el Assault mata a un jugador enemigo, se ilumina en rojo y se vuelve inmune a todo ataque durante varios segundos.
+
+
+---
+Marine
+Salud: 70
+Armadura: 10
+Armas: RPG x3, M16/M203 x2, Glock
+Habilidad especial: Represalia de artilleria (Habilidad pasiva, se obtiene al morir)
+
+El Marine inflige baja mucha mas vida a distancia, con una municion muy limitada; le va peor en el cuerpo a cuerpo, donde corre el riesgo de sus propios explosivos lo mate. Los cohetes de un marine pueden ser la diferencia entre evitar una captura o perder la bandera.
+
+Al morir, los aliados del marine fuera de la pantalla tomaran represalias con un ataque de artilleria en su posicion final. El Marine recibe todos los puntos por los enemigos muertos en el ataque.
+
+
+
+
+== CREDITOS ADICIONALES ==
+
+Texturas:
+Firearms mod & PVK mod teams
+
+Jugadores de prueba y Apoyo Moral:
+JPolito, Aurora, Trempler, Keen, A Ninja, Chaos Wake, prolix, Strave, x3ro, el Sven Co-op y joe.to communities
+
+El cabron de la trilogia:
+Tokengekko
+
+
+
+Gracias por leer; espero que disfrutes jugando a este mapa que tanto he disfrutado creandolo!
+   Atentamente: tu3sday
