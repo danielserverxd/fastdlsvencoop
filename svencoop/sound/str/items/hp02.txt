@@ -1,3 +1,0 @@
-"items/smallmedkit1.wav" "str/items/hp02_pkup.ogg"
-"items/smallmedkit2.wav" "str/items/hp02_pkup.ogg"
-"items/suitchargeok1.wav" "str/items/item_spw.ogg"

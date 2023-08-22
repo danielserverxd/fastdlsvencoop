@@ -1,6 +1,0 @@
-5
-weapon		640	portal_house/hud_sf/640hudof01_dispsf	0	180	170	45
-weapon_s	640	portal_house/hud_sf/640hudof02_dispsf	0	180	170	45
-ammo		640	portal_house/hud_sf/640hud7sf		0	84	24	24
-crosshair		640	portal_house/hud_sf/sfch1		48	0	24	24
-autoaim		640	crosshairs	24	72	24	24
