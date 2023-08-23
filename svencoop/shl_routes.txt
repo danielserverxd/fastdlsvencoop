@@ -1,0 +1,6 @@
+sweet half life routes:
+									    normal route  -> shl_5 ---------------> shl_6 -> shl_7
+									    |				  |				   
+shl_training -> shl_0 -> shl_1 -> shl_2 -> shl_3 -> shl_4      			  |		 		   
+								       	    |				  |			    
+									    alien route  -> shl_4b -> shl_5b
