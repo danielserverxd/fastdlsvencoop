@@ -1,0 +1,89 @@
+//--------------------------
+//CLIMAX A1
+//--------------------------
+"!OT_SHOT1"	"portal_house/barniel/bn_attack1.wav"
+"!OT_SHOT2"	"portal_house/barniel/youneedmedic.wav"
+"!OT_SHOT3"	"portal_house/barniel/openfire.wav"
+"!OT_SHOT4"	"portal_house/barniel/bn_pain1.wav"
+"!OT_SHOT5"	"portal_house/barniel/bn_close.wav"
+
+"!SC_DISA"	"portal_house/scientist/c3a1_sci_done.wav"
+
+"!BA_GLAD"	"portal_house/barney/ba_ht06_03_alt.wav"
+"!BA_ASSN"	"portal_house/barney/ba_ht06_11.wav"
+"!BA_HEVNO"	"portal_house/barney/ba_ht07_06.wav"
+"!BA_LAUNCH"	"portal_house/barney/ba_ht07_14.wav"
+"!BA_SURVEY2A"	"portal_house/barney/ba_ht07_10.wav"
+"!BA_SURVEY4A"	"portal_house/barney/ba_pok1.wav"
+
+//--------------------------
+//CLIMAX A2
+//--------------------------
+"!INTRO_DR_L2"	"portal_house/drill/intro02.wav"
+"!HG_SNOOP1A"	"portal_house/drill/squad01.wav"
+"!OT_ANSWER1"	"portal_house/barney/ba_power3.wav"
+"!BA_PORTSTAY"	"portal_house/barney/ba_security2_range2.wav"
+"!INTRO_DR_L3"	"portal_house/drill/add11.wav"
+
+"!NSC_CONSOLE1A"	"portal_house/rosenberg/ro_03_keller.wav"
+"!SC_CONSOLE2A"	"portal_house/keller/dk_07_online.wav"
+"!SC_CONSOLE3A"	"portal_house/rosenberg/ro_01_spectrom.wav"
+"!SC_CONSOLE5A"	"portal_house/keller/dk_01_cascade.wav"
+"!SC_CONSOLERPT"	"portal_house/rosenberg/ro_01_leaving.wav"
+"!SC_DARKROOM"	"portal_house/keller/dk_01_survived.wav"
+"!SC_ELEVATOR"	"portal_house/rosenberg/ro_03_senddown.wav"
+
+"!BA_STERIL"	"portal_house/barney/ba_ht01_03.wav"
+"!SC_LOUNGE"	"portal_house/rosenberg/ro_02_despite.wav"
+
+//--------------------------
+//CLIMAX A3
+//--------------------------
+"!FG_MESSAROUND"	"portal_house/hgrunt/alt_soldier04.wav"
+"!FG_TALK"	"portal_house/hgrunt/alt_soldier06.wav"
+"!FG_BITOFF"	"portal_house/hgrunt/alt_soldier08.wav"
+"!FG_OWNASSES"	"portal_house/hgrunt/alt_soldier09.wav"
+
+"!GM_SUIT"	"portal_house/gman/gman_notthistime.wav"
+"!GM_NASTY"	"portal_house/gman/gman_getbackhere.wav"
+"!GM_POTENTIAL"	"portal_house/gman/gman_oldtimes.wav"
+"!GM_STEPIN"	"portal_house/gman/gman_fulltalk.wav"
+"!GM_WONTWORK"	"portal_house/gman/gman_thatsallfornow.wav"
+
+//--------------------------
+//CLIMAX A4
+//--------------------------
+"!SC_SURVEY1A"	"portal_house/keller/dk_05_mustseal.wav"
+"!SC_GLUON2A"	"portal_house/keller/dk_05_onceorbit.wav"
+"!SC_SURVEY3A"	"portal_house/keller/dk_05_needguard.wav"
+"!SC_SURVEY7A"	"portal_house/keller/dk_11_goodwork.wav"
+"!SC_LJUMP"	"portal_house/scientist/sunsets.wav"
+"!SC_UPHERE"	"portal_house/keller/dk_12_dontcare.wav"
+
+
+"!BA_ALIVE"	"portal_house/barney/a401-c2a4_ba_alive.wav"
+"!SC_SURVEY5A"	"portal_house/scientist/a402-c3a2_sci_5surv.wav"
+"!SC_STRAWS"	"portal_house/scientist/a407-c3a2_sci_straws"
+"!BA_SCARED1"	"portal_house/barney/a408-ba_generic0.wav"
+"!BA_STOP0"	"portal_house/barney/a409-ba_docprotect3.wav"
+"!SC_CANALS3"	"portal_house/scientist/a410-sc_canals3"
+"!BA_STOP1"	"portal_house/barney/a412-ba_ht06_07.wav"
+"!BA_MAD1"	"portal_house/barney/a414-ba_mad1.wav"
+"!SC_PUTDOWN"	"portal_house/scientist/a415-of3a2_sc01.wav"
+"!SC_DANGLING"	"portal_house/scientist/a416-dangerous.wav"
+"!BA_SHOT1"	"portal_house/barney/a417-ba_shot1.wav"
+"!BA_MAD2"	"portal_house/barney/a419-ba_ht06_01.wav"
+
+"!GM_OTHERWISE"	"portal_house/gman/gman_entity-cont.wav"
+"!GM_1CHOOSE"	"portal_house/gman/gman_convenient.wav"
+"!GM_2CHOOSE"	"portal_house/gman/gman_great-deal.wav"
+"!GM_WISE"	"portal_house/gman/gman_you-want.wav"
+"!GM_REGRET"	"portal_house/gman/gman_again.wav"
+
+//--------------------------
+//CLIMAX C
+//--------------------------
+"!SC_TRANSMISSION"	"portal_house/scientist/d08_sci05_osprey.wav"
+"!SC_PLFEAR3"	"portal_house/scientist/sc_yard_box4.wav"
+"!OF7A0_GM04"	"portal_house/gman/gman_climax_c01.wav"
+"!BA_BUTTON"	"portal_house/barney/ba_needhelp1.wav"

@@ -1,0 +1,3 @@
+D bonk_carpet
+T bonk_popcorn
+W bonk_wood

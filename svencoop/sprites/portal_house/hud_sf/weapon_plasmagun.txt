@@ -1,0 +1,5 @@
+4
+weapon		640 portal_house/hud_sf/640shl1sf	0	90	170	45
+weapon_s	640 portal_house/hud_sf/640shl2sf	0	90	170	45
+ammo		640 portal_house/hud_sf/640shl3sf	0	24	24	24
+crosshair		640 portal_house/hud_sf/640shl4sf	0	48	24	24

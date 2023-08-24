@@ -1,0 +1,63 @@
+#sprite definition file for simpletrail plugin
+#any line starting with # is a comment line
+
+#default sprites
+
+sprites/zbeam3.spr fatline 0
+sprites/zbeam5.spr thinline 0
+sprites/voiceicon.spr voice 1
+sprites/xbeam4.spr smokey 0
+sprites/lgtning.spr lightning 0
+sprites/interlace.spr interlace 0
+
+#add custom sprites below
+#format: (path) (name) (0 recolor 1 force white)
+#example: sprites/xsmoke3.spr xmoke3
+sprites/gaa/trails/arrows.spr arrows 0
+sprites/gaa/trails/chenzen.spr chenzen 0
+sprites/gaa/trails/chinaflag.spr chinaflag 1
+sprites/gaa/trails/datboi.spr datboi 1
+sprites/gaa/trails/doge.spr doge 1
+sprites/gaa/trails/dualline.spr dualline 0
+sprites/gaa/trails/flagaus.spr flagaus 1
+sprites/gaa/trails/flagfin.spr flagfin 1
+sprites/gaa/trails/flagger.spr flagger 1
+sprites/gaa/trails/flagjap.spr flagjap 1
+sprites/gaa/trails/flaguk.spr flaguk 1
+sprites/gaa/trails/hotdog.spr hotdog 1
+sprites/gaa/trails/joyface.spr joyface 1
+sprites/gaa/trails/lol.spr lol 0
+sprites/gaa/trails/moneyface.spr moneyface 1
+sprites/gaa/trails/point.spr point 0
+sprites/gaa/trails/pointscroll.spr pointscroll 0
+sprites/gaa/trails/rainbow.spr rainbow 1
+sprites/gaa/trails/ruflag.spr ruflag 1
+sprites/gaa/trails/segfault.spr segfault 1
+sprites/gaa/trails/serious.spr serious 1
+sprites/gaa/trails/squarewave.spr squarewave 0
+sprites/gaa/trails/svenlogo.spr svenlogo 0
+sprites/gaa/trails/taco.spr taco 1
+sprites/gaa/trails/thinkingface.spr thinkingface 1
+sprites/gaa/trails/usflag.spr usflag 1
+sprites/gaa/trails/weed.spr weed 1
+sprites/gaa/trails/agustin.spr agustin 1
+sprites/gaa/trails/argentina_v2.spr argentina 1
+sprites/gaa/trails/australia.spr australia 1
+sprites/gaa/trails/babyarrows.spr babyarrows 0
+sprites/gaa/trails/brazil.spr brazil 1
+sprites/gaa/trails/china.spr china 1
+sprites/gaa/trails/estadosunidos.spr estadosunidos 1
+sprites/gaa/trails/finlandia.spr finlandia 1
+sprites/gaa/trails/funny.spr funny 1
+sprites/gaa/trails/gay.spr gay 1
+sprites/gaa/trails/japon.spr japon 1
+sprites/gaa/trails/lineadual.spr lineadual 0
+sprites/gaa/trails/nyanpasu2.spr nyanpasu2 1
+sprites/gaa/trails/paraguay.spr paraguay 1
+sprites/gaa/trails/peru_v2.spr peru 1
+sprites/gaa/trails/reinounido.spr reinounido 1
+sprites/gaa/trails/rico.spr rico 1
+sprites/gaa/trails/roland.spr roland 1
+sprites/gaa/trails/rusia.spr rusia 1
+sprites/gaa/trails/ucrania.spr ucrania 1
+sprites/gaa/trails/venezuela.spr venezuela 1
