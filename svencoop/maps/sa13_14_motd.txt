@@ -1,0 +1,19 @@
+Mission:  SA13 Sabotage
+Location:  Bioterrorist base of operations, Pohnpei island, Micronesia
+Source:  Sven Viking
+===================================================================
+
+You have to infiltrate on foot beyond the enemy lines and reach the mountain top where we believe something dark is brewing.
+
+There's an unused sewer line that leads to a nearby town in the woods. A chopper will be waiting for you there.
+
+
+Objectives:
+
+*   Advance through the last enemy lines
+
+*	Find the unused sewer line
+
+*	Find the friendly chopper
+
+*	Reach the mountain top

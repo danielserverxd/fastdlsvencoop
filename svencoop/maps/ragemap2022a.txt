@@ -1,0 +1,35 @@
+Ragemap 2022
+------------
+
+4-16 players recommended.
+
+
+Map by:
+- Hezus
+- BonkTurnip
+- Descen
+- SV BOY
+- I_ka
+- Erty
+- AlexCorruptor
+- Adambean
+- grunt
+- Trempler
+
+
+Special thanks to:
+- Hezus for organising the project and putting up with all our crap mapping.
+- Gauna for an epic collection of models and sprites.
+- Erty for also fixing mistakes in our crap mapping.
+- RC for scripting Templer's part.
+- Project scripting by RC and Adambean.
+
+
+Part A consists of:
+
+- Alien Clearout [by BonkTurnip]
+- Balloon Colosseum [by SV BOY]
+- Know Your ISO7010 [by Adambean]
+- Scattering [by I_ka]
+
+(Parts will play in a random order.)
