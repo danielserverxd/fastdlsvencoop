@@ -1,0 +1,152 @@
+//========================================
+//
+//	This file lists all plugins that are loaded by the game
+//	Plugins use Angelscript
+//
+//========================================
+"plugins"
+{
+	"plugin"
+	{
+		"name" "PlayerManagement"
+		"script" "admin/PlayerManagement"
+		"concommandns" "plrmgr"
+	}
+
+	"plugin"
+	{
+        "name" "ForceSurvival"
+        "script" "ForceSurvival"
+	}
+
+	"plugin"
+	{
+        "name" "descarga"
+        "script" "descarga"
+	}
+
+	"plugin"
+    {
+        "name" "RCBot"
+        "script" "BotManager/BotManager"
+        "concommandns" "rcbot"
+    }
+
+    "plugin"
+    {
+        "name" "RockTheVote"
+        "script" "RockTheVote/RockTheVote"
+        "concommandns" "rtv"
+    }
+
+    "plugin"
+    {
+        "name" "ChatSounds"
+        "script" "ChatSounds/ChatSounds"
+    }
+
+//"plugin"
+//{
+//	"name"			"Counter-Strike 1.6 Mod"
+//	"script"		"../maps/cs16/cs16_register"
+//	"concommandns"	"cs16"
+//}
+	"plugin"
+	{
+		"name" "ClassicModeDeluxe"
+		"script" "ClassicModeDeluxe/ClassicModeDeluxe"
+		"concommandns" "cm"
+	}
+
+    "plugin"
+    {
+        "name" "AoMDCFlashlight"
+        "script" "aomdcflashlight"
+    }
+
+    "plugin"
+    {
+        "name" "BleedOut"
+        "script" "BleedOut"
+    }
+
+  "plugin"
+  {
+  	"name" "doom_maps"
+  	"script" "../maps/doom/doom_plugin"
+  }
+
+    "plugin"
+    {
+        "name" "survival_respawn"
+        "script" "mikk/survival_respawn"
+    }
+
+"plugin"
+{
+	"name" "PlayerStatus"
+	"script" "PlayerStatus"
+}
+
+    "plugin"
+    {
+        "name" "ChatColors"
+        "script" "ChatColors"
+    }
+
+    "plugin"
+    {
+        "name" "AFBase"
+        "script" "AFBase"
+    }
+    "plugin"
+    {
+        "name" "PlayerDecalTracker"
+        "script" "admin/PlayerDecalTracker"
+    }
+    "plugin"
+    {
+        "name" "Msg"
+        "script" "msg"
+    }
+	"plugin"
+	{
+		"name"      	"Insurgency Mod"
+		"script"    	"../maps/ins2/ins2_register"
+		"concommandns" 	"ins2"
+	}
+  "plugin"
+  {
+    "name" "emotes"
+    "script" "emotes"
+  }
+  "plugin"
+  {
+    "name" "antirush"
+    "script" "antirush"
+  }
+//	"plugin"
+//	{
+//		"name" "DynamicDifficulty"
+//		"script" "cubemath/DynamicDifficulty7"
+//		"concommandns" "dyndiff"
+//	}
+}
+//	"plugin"
+//	{
+//		"name" "EntityManager"
+//		"script" "EntityManager"
+//		"concommandns" "entmngr"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "Teleport"
+//		"script" "Teleport"
+//	}
+//
+//	"plugin"
+//	{
+//		"name" "Vox"
+//		"script" "Vox"
+//	}

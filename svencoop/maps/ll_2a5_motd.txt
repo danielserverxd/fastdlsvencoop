@@ -1,0 +1,2 @@
+Attention! Ahtung!
+This and next map were present in mod files but weren't used, hence why starting and ending locations won't match.
