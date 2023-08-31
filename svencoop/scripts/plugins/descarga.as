@@ -79,6 +79,16 @@ void MapInit()
         g_Game.PrecacheModel( "models/player/alyx_hd/alyx_hd.mdl" );
         g_Game.PrecacheGeneric( "models/player/HL2_metrocop/HL2_metrocop.bmp" );
         g_Game.PrecacheModel( "models/player/HL2_metrocop/HL2_metrocop.mdl" );
+        g_Game.PrecacheGeneric( "models/player/th_sheriff/th_sheriff.bmp" );
+        g_Game.PrecacheModel( "models/player/th_sheriff/th_sheriff.mdl" );
+        g_Game.PrecacheGeneric( "models/player/VortHEV/VortHEV.bmp" );
+        g_Game.PrecacheModel( "models/player/VortHEV/VortHEV.mdl" );
+        g_Game.PrecacheGeneric( "models/player/chupetin/chupetin.bmp" );
+        g_Game.PrecacheModel( "models/player/chupetin/chupetin.mdl" );
+        g_Game.PrecacheGeneric( "models/player/colgate/colgate.bmp" );
+        g_Game.PrecacheModel( "models/player/colgate/colgate.mdl" );
+        g_Game.PrecacheGeneric( "models/player/hl1_Vortigaunt/hl1_Vortigaunt.bmp" );
+        g_Game.PrecacheModel( "models/player/hl1_Vortigaunt/hl1_Vortigaunt.mdl" );
        // g_Game.PrecacheGeneric( "models/player/LT_amongus/LT_amongus.mdl" );
        // g_Game.PrecacheGeneric( "models/player/" + g_PlayerModelList[i] + "/" + g_PlayerModelList[i] + ".mdl" );
 }
