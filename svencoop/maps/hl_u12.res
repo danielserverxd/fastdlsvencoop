@@ -3,6 +3,7 @@
 
 contain.wad
 maps/hl_u12.cfg
+maps/hl_u12_motd.txt
 sound/misc/of1a6_rd01.wav
 sound/misc/of1a6_rd01_original.wav
 sound/misc/of2a5_rd01.wav
