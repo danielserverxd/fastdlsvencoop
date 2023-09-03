@@ -1,0 +1,25 @@
+Half-Life: Peaces like Us - Version 2.0
+
+Description:
+Singleplayer Modification for Half-Life
+
+Installation:
+Extract the files to the "Half-Life" directory. The files will be placed into.
+
+eg: C:\Steam\SteamApps\<Account>\half-life\
+
+Story:
+Mankind found an entrance to XEN world and an investigation team
+met with the uncanny aliens in there world. Then, mankind succeeded
+in becoming allies with them. Later, a scientist team built a joint
+laboratory in the world of XEN. But, something bad was approaching...
+
+Info:
+An alien is a friend. Don't shoot it!
+
+Hint:
+There is a secret in a certain map. This place seems to fall.
+
+Credits:
+K.S. (Koumei Satou) - Original Mod Creator
+Rikku2000
