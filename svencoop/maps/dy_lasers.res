@@ -378,6 +378,7 @@ sound/sentences/blip.wav
 sound/sentences/bloop.wav
 sound/sentences/boop.wav
 sound/sentences/buzwarn.wav
+sound/sentences/c1a0_0.wav
 sound/sentences/c1a0_1.wav
 sound/sentences/c1a0_2.wav
 sound/sentences/c1a0_3.wav
@@ -425,6 +426,7 @@ sound/sentences/c1a2_9.wav
 sound/sentences/c1a2_10.wav
 sound/sentences/c1a2_11.wav
 sound/sentences/c1a3_0.wav
+sound/sentences/c1a3_1.wav
 sound/sentences/c1a3_2.wav
 sound/sentences/c1a3_3.wav
 sound/sentences/c1a3_4.wav
@@ -712,6 +714,7 @@ sound/sentences/hev_pistol.wav
 sound/sentences/hev_rpg.wav
 sound/sentences/hev_rpgammo.wav
 sound/sentences/hev_satchel.wav
+sound/sentences/hev_shock.wav
 sound/sentences/hev_shotgun.wav
 sound/sentences/hev_squeek.wav
 sound/sentences/hev_tripmine.wav
