@@ -42,7 +42,7 @@ RB_CLEAR2 SpaRobo/RB_CLEAR2
 RB_IDLE0 SpaRobo/RB_IDLE0
 RB_IDLE1 SpaRobo/RB_IDLE1
 RB_IDLE2 SpaRobo/RB_IDLE2
-RB_IDLE3 SpaRobo/sRB_IDLE3
+RB_IDLE3 SpaRobo/RB_IDLE3
 
  
 
@@ -507,7 +507,7 @@ HG_ALERT1 sentences/HG_ALERT1
 HG_ALERT2 sentences/HG_ALERT2
 HG_ALERT3 sentences/HG_ALERT3
 HG_ALERT4 sentences/HG_ALERT4
-HG_ALERT5 sentences/HG_ALERT4
+HG_ALERT5 sentences/HG_ALERT5
 HG_ALERT6 sentences/HG_ALERT6
 
 // Monster Alert
@@ -552,7 +552,7 @@ HG_IDLE1 sentences/HG_IDLE1
 HG_IDLE2 sentences/HG_IDLE2
 
 HG_QUEST0 sentences/HG_QUEST0
-HG_QUEST1 sentences/HG_QUEST1 
+HG_QUEST1 sentences/HG_QUEST1
 HG_QUEST2 sentences/HG_QUEST2
 HG_QUEST3 sentences/HG_QUEST3
 HG_QUEST4 sentences/HG_QUEST4
@@ -977,7 +977,7 @@ HEV_DMG2 sentences/boop boop boop HEV_DMG2
 HEV_DMG3 sentences/boop boop boop HEV_DMG3
 HEV_DMG4 sentences/boop boop boop HEV_DMG4
 HEV_DMG5 sentences/boop boop boop HEV_DMG5
-HEV_DMG6 sentences/boop boop boop HEV_DMG6 
+HEV_DMG6 sentences/boop boop boop HEV_DMG6
 HEV_DMG7 sentences/boop boop boop HEV_DMG7
 
 HEV_HLTH0 sentences/beep beep HEV_HLTH0
@@ -1029,25 +1029,25 @@ HEV_EGONPOWER sentences/blip HEV_EGONPOWER
 HEV_D00 sentences/fuzz fuzz HEV_D00
 HEV_D01 sentences/fuzz fuzz HEV_D01
 
-HEV_0P sentences/fuzz fuzz HEV_0P 
-HEV_1P sentences/fuzz fuzz HEV_1P 
-HEV_2P sentences/fuzz fuzz HEV_2P 
-HEV_3P sentences/fuzz fuzz HEV_3P 
-HEV_4P sentences/fuzz fuzz HEV_4P 
-HEV_5P sentences/fuzz fuzz HEV_5P 
-HEV_6P sentences/fuzz fuzz HEV_6P 
-HEV_7P sentences/fuzz fuzz HEV_7P 
-HEV_8P sentences/fuzz fuzz HEV_8P 
-HEV_9P sentences/fuzz fuzz HEV_9P 
-HEV_10P sentences/fuzz fuzz HEV_10P 
-HEV_11P sentences/fuzz fuzz HEV_11P 
-HEV_12P sentences/fuzz fuzz HEV_12P 
-HEV_13P sentences/fuzz fuzz HEV_13P 
-HEV_14P sentences/fuzz fuzz HEV_14P 
-HEV_15P sentences/fuzz fuzz HEV_15P 
-HEV_16P sentences/fuzz fuzz HEV_16P 
-HEV_17P sentences/fuzz fuzz HEV_17P 
-HEV_18P sentences/fuzz fuzz HEV_18P 
+HEV_0P sentences/fuzz fuzz HEV_0P
+HEV_1P sentences/fuzz fuzz HEV_1P
+HEV_2P sentences/fuzz fuzz HEV_2P
+HEV_3P sentences/fuzz fuzz HEV_3P
+HEV_4P sentences/fuzz fuzz HEV_4P
+HEV_5P sentences/fuzz fuzz HEV_5P
+HEV_6P sentences/fuzz fuzz HEV_6P
+HEV_7P sentences/fuzz fuzz HEV_7P
+HEV_8P sentences/fuzz fuzz HEV_8P
+HEV_9P sentences/fuzz fuzz HEV_9P
+HEV_10P sentences/fuzz fuzz HEV_10P
+HEV_11P sentences/fuzz fuzz HEV_11P
+HEV_12P sentences/fuzz fuzz HEV_12P
+HEV_13P sentences/fuzz fuzz HEV_13P
+HEV_14P sentences/fuzz fuzz HEV_14P
+HEV_15P sentences/fuzz fuzz HEV_15P
+HEV_16P sentences/fuzz fuzz HEV_16P
+HEV_17P sentences/fuzz fuzz HEV_17P
+HEV_18P sentences/fuzz fuzz HEV_18P
 HEV_19P sentences/fuzz fuzz HEV_19P
 
 // weapon/ammo
@@ -1057,7 +1057,7 @@ HEV_AMO0 sentences/blip HEV_AMO0
 // suit
 
 HEV_V0 sentences/blip HEV_V0
-HEV_V1 sentences/ blip HEV_V1
+HEV_V1 sentences/blip HEV_V1
 
 HEV_E0 sentences/buzz buzz HEV_E0
 HEV_E1 sentences/buzz HEV_E1
@@ -1075,12 +1075,12 @@ HEV_E5 sentences/buzz HEV_E5
 
 // detections
 
-HEV_DET0 sentences/ blip blip blip HEV_DET0
-HEV_DET1 sentences/ blip blip blip HEV_DET1
-HEV_DET2 sentences/ blip blip blip HEV_DET2
-HEV_DET3 sentences/ blip blip blip HEV_DET3
-HEV_DET4 sentences/ blip blip blip HEV_DET4
-HEV_DET5 sentences/ blip blip blip HEV_DET5
+HEV_DET0 sentences/blip blip blip HEV_DET0
+HEV_DET1 sentences/blip blip blip HEV_DET1
+HEV_DET2 sentences/blip blip blip HEV_DET2
+HEV_DET3 sentences/blip blip blip HEV_DET3
+HEV_DET4 sentences/blip blip blip HEV_DET4
+HEV_DET5 sentences/blip blip blip HEV_DET5
 
 //HEV_GR0r sentences/HEV_GR0r
 //HEV_GR1r sentences/HEV_GR1r

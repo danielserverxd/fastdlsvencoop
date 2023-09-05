@@ -15,7 +15,7 @@ HG_ALERT1 sentences/HG_ALERT1
 HG_ALERT2 sentences/HG_ALERT2
 HG_ALERT3 sentences/HG_ALERT3
 HG_ALERT4 sentences/HG_ALERT4
-HG_ALERT5 sentences/HG_ALERT4
+HG_ALERT5 sentences/HG_ALERT5
 HG_ALERT6 sentences/HG_ALERT6
 
 // Monster Alert
@@ -553,7 +553,7 @@ HEV_AMO0 sentences/blip HEV_AMO0
 // suit
 
 HEV_V0 sentences/blip HEV_V0
-HEV_V1 sentences/ blip HEV_V1
+HEV_V1 sentences/blip HEV_V1
 
 HEV_E0 sentences/buzz buzz HEV_E0
 HEV_E1 sentences/buzz HEV_E1
@@ -571,12 +571,12 @@ HEV_E5 sentences/buzz HEV_E5
 
 // detections
 
-HEV_DET0 sentences/ blip blip blip HEV_DET0
-HEV_DET1 sentences/ blip blip blip HEV_DET1
-HEV_DET2 sentences/ blip blip blip HEV_DET2
-HEV_DET3 sentences/ blip blip blip HEV_DET3
-HEV_DET4 sentences/ blip blip blip HEV_DET4
-HEV_DET5 sentences/ blip blip blip HEV_DET5
+HEV_DET0 sentences/blip blip blip HEV_DET0
+HEV_DET1 sentences/blip blip blip HEV_DET1
+HEV_DET2 sentences/blip blip blip HEV_DET2
+HEV_DET3 sentences/blip blip blip HEV_DET3
+HEV_DET4 sentences/blip blip blip HEV_DET4
+HEV_DET5 sentences/blip blip blip HEV_DET5
 
 //HEV_GR0r sentences/HEV_GR0r
 //HEV_GR1r sentences/HEV_GR1r

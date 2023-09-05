@@ -204,8 +204,8 @@ NRAD0 sentences/NRAD0
 ERAD0 sentences/ERAD0
 
 // generic containment door
-NCON0 emergency containment door engaged
-ECON0 emergency containment door disengaged
+NCON0 sentences/NCON0
+ECON0 sentences/ECON0
 
 // broken locked door
 NG0 sentences/NG0

@@ -10,12 +10,12 @@ HG_GREN5 sentences/HG_GREN5
 HG_GREN6 sentences/HG_GREN6
 
 // Player Alert
-HG_ALERT0 sentences/HG_ALERT1
+HG_ALERT0 sentences/HG_ALERT0
 HG_ALERT1 sentences/HG_ALERT1
 HG_ALERT2 sentences/HG_ALERT2
 HG_ALERT3 sentences/HG_ALERT3
-HG_ALERT4 sentences/HG_ALERT2
-HG_ALERT5 sentences/HG_ALERT3
+HG_ALERT4 sentences/HG_ALERT5
+HG_ALERT5 sentences/HG_ALERT6
 
 // Monster Alert
 HG_MONST0 sentences/HG_MONST0

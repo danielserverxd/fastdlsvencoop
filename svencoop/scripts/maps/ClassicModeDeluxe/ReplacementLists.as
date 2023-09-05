@@ -318,7 +318,7 @@ namespace ClassicModeDeluxe {
 		bshift_weapons["weapon_snark"] = true;
 		
 		// sven's opfor zombie has a broken head hitbox
-		op4_force_replace["models/opfor/zombie_soldier.mdl"] = replacementModelPath + "zombie_soldier.mdl";
+		//op4_force_replace["models/opfor/zombie_soldier.mdl"] = replacementModelPath + "zombie_soldier.mdl";
 		
 		bshift_force_replace["models/hlclassic/scientist.mdl"] = replacementModelPath + "bshift/scientist.mdl";
 		bshift_force_replace["models/bshift/scientist.mdl"] = replacementModelPath + "bshift/scientist.mdl";

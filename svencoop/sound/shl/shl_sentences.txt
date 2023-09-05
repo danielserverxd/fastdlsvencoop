@@ -1,112 +1,112 @@
 // HALF-LIFE SPEECH SYSTEM SENTENCES. DO NOT MODIFY THIS FILE! Max of 1023 sentences.
 
 // HUMAN GRUNTS
-HG_GREN0 hgrunt/clik(p120) grenade! clik
-HG_GREN1 hgrunt/(t30) clik take!(e75) cover!(s5) clik
-HG_GREN2 hgrunt/clik clik oh! shit! clik
-HG_GREN3 hgrunt/(p110 t40) clik(p120) get!(e78) down!(t30) clik 
-HG_GREN4 hgrunt/clik(p110) (t40) of!(e75) god! clik(p110)
-HG_GREN5 hgrunt/clik no! clik
-HG_GREN6 hgrunt/clik move! clik(p120)
+HG_GREN0 sentences/HG_GREN0
+HG_GREN1 sentences/HG_GREN1
+HG_GREN2 sentences/HG_GREN2
+HG_GREN3 sentences/HG_GREN3
+HG_GREN4 sentences/HG_GREN4
+HG_GREN5 sentences/HG_GREN5
+HG_GREN6 sentences/HG_GREN6
 
 // Player Alert
-HG_ALERT0 hgrunt/(t30) squad!, we!(e80) got!(e80) bogies!(t20 p105), clik(p110)
-HG_ALERT1 hgrunt/clik(p110) target! clik
-HG_ALERT2 hgrunt/clik movement! clik
-HG_ALERT3 hgrunt/(t40) shit!(t20), (t50) we! got! movement!(p120 t0) clik
-HG_ALERT4 hgrunt/(t20) clik(p110) squad!, go!, weapons!(e80) hot! clik(p110) clik
-HG_ALERT5 hgrunt/(t20) clik squad!, neutralize!(e90) target! clik
-HG_ALERT6 hgrunt/(t30) clik clik move!(e75) in! clik(p120)
+HG_ALERT0 sentences/HG_ALERT0
+HG_ALERT1 sentences/HG_ALERT1
+HG_ALERT2 sentences/HG_ALERT2
+HG_ALERT3 sentences/HG_ALERT3
+HG_ALERT4 sentences/HG_ALERT4
+HG_ALERT5 sentences/HG_ALERT5
+HG_ALERT6 sentences/HG_ALERT6
 
 // Monster Alert
-HG_MONST0 hgrunt/clik(p110) (t50) bogies!(t0), my! sector!(t0) clik
-HG_MONST1 hgrunt/clik(p110) (t40) clik(p120) we!(e75) got! bogies! clik
-HG_MONST2 hgrunt/clik clik (t30) alien!(e85) alert! clik
-HG_MONST3 hgrunt/clik clik (t30) alien!(e85) movement!(t0) clik(p120)
+HG_MONST0 sentences/HG_MONST0
+HG_MONST1 sentences/HG_MONST1
+HG_MONST2 sentences/HG_MONST2
+HG_MONST3 sentences/HG_MONST3
 
 // Take cover
-HG_COVER0 hgrunt/clik (t30) take! cover!(t0) clik
-HG_COVER1 hgrunt/clik (t45) (e75) I!(e80) need!(e80) suppressing!(t20) fire!(t10) clik
-HG_COVER2 hgrunt/clik (t45) we! need! backup!(t10) clik
-HG_COVER3 hgrunt/clik(p120) (t40) two!(e75) hot!(e80) here! clik
-HG_COVER4 hgrunt/clik(p110) (t30) fall!(e80) out! clik clik
-HG_COVER5 hgrunt/clik(p120) (t20) clear! this! area! clik
-HG_COVER6 hgrunt/clik (t40) god! damn! clik
-HG_COVER7 hgrunt/clik (t40) cover!(e75) fire! clik
+HG_COVER0 sentences/HG_COVER0
+HG_COVER1 sentences/HG_COVER1
+HG_COVER2 sentences/HG_COVER2
+HG_COVER3 sentences/HG_COVER3
+HG_COVER4 sentences/HG_COVER4
+HG_COVER5 sentences/HG_COVER5
+HG_COVER6 sentences/HG_COVER6
+HG_COVER7 sentences/HG_COVER7
 
 // Throw grenade
-HG_THROW0 hgrunt/clik(p120) (t40) fire!(e90) in!(e90) the!(e60) hole!(e100) clik
-HG_THROW1 hgrunt/clik (t30) take!(e75) this!(e100 t0) clik
-HG_THROW2 hgrunt/clik (t35) fire in the(e50) hole clik(p120)
-HG_THROW3 hgrunt/clik(p110) (t35 e80) squad, stay down clik
- 
+HG_THROW0 sentences/HG_THROW0
+HG_THROW1 sentences/HG_THROW1
+HG_THROW2 sentences/HG_THROW2
+HG_THROW3 sentences/HG_THROW3
+
 // Taunt
-HG_TAUNT0 hgrunt/clik (t30 e75) uhh, we got heavy fire here clik
-HG_TAUNT1 hgrunt/clik(p120) (t40) roger, hold position clik
-HG_TAUNT2 hgrunt/clik (t40) we!(e80) will!(e75) kick!(e80) your!(e75) ass! clik
-HG_TAUNT3 hgrunt/clik (t40) mister, you(e75) are going down clik
-HG_TAUNT4 hgrunt/clik(p120) (t40) you got nothing clik
-HG_TAUNT5 hgrunt/clik(p110) (t40) request! backup! clik(p120) clik
+HG_TAUNT0 sentences/HG_TAUNT0
+HG_TAUNT1 sentences/HG_TAUNT1
+HG_TAUNT2 sentences/HG_TAUNT2
+HG_TAUNT3 sentences/HG_TAUNT3
+HG_TAUNT4 sentences/HG_TAUNT4
+HG_TAUNT5 sentences/HG_TAUNT5
 
 // Charge
-HG_CHARGE0 hgrunt/clik (t40) go! recon! clik(p120)
-HG_CHARGE1 hgrunt/clik(p110) (t40) move!(e75) in! clik
-HG_CHARGE2 hgrunt/clik go! clik(p120)
-HG_CHARGE3 hgrunt/clik lets! go! clik(p120)
+HG_CHARGE0 sentences/HG_CHARGE0
+HG_CHARGE1 sentences/HG_CHARGE1
+HG_CHARGE2 sentences/HG_CHARGE2
+HG_CHARGE3 sentences/HG_CHARGE3
 
 // Idle
-HG_IDLE0 hgrunt/gr_idle1
-HG_IDLE1 hgrunt/gr_idle2
-HG_IDLE2 hgrunt/gr_idle3
+HG_IDLE0 sentences/HG_IDLE0
+HG_IDLE1 sentences/HG_IDLE1
+HG_IDLE2 sentences/HG_IDLE2
 
-HG_QUEST0 hgrunt/clik (t25) stay(e80) alert people clik(p120)
-HG_QUEST1 hgrunt/clik (t30) radio(e75) check, over clik(p120) 
-HG_QUEST2 hgrunt/clik (t20) maintain lookout clik(p120)
-HG_QUEST3 hgrunt/clik(p110) (t30) squad, quiet(e75) down clik(p120)
-HG_QUEST4 hgrunt/clik(p120) (t30) hold position, clik
-HG_QUEST5 hgrunt/clik(p120) (t30) sweep(e80) that sector, clik(p120) clik(p120)
-HG_QUEST6 hgrunt/clik(p120) (t30) uhh, go tango sweep formation clik(p120) clik(p120)
-HG_QUEST7 hgrunt/clik(p120) (t30) echo(e75) mission is go clik(p120) clik(p120)
-HG_QUEST8 hgrunt/clik(p110) (t30) fire(e75) team, weapons(e75) check ok clik(p120) clik
-HG_QUEST9 hgrunt/clik(p110) (t30) fire(e75) team, objective foxtrot niner clik(p120)
-HG_QUEST10 hgrunt/clik (t30) ok(e75) mission, zero(e75) niner clik
-HG_QUEST11 hgrunt/clik (t30) squad, stay(e80) alert(e80) four objective, over clik
+HG_QUEST0 sentences/HG_QUEST0
+HG_QUEST1 sentences/HG_QUEST1
+HG_QUEST2 sentences/HG_QUEST2
+HG_QUEST3 sentences/HG_QUEST3
+HG_QUEST4 sentences/HG_QUEST4
+HG_QUEST5 sentences/HG_QUEST5
+HG_QUEST6 sentences/HG_QUEST6
+HG_QUEST7 sentences/HG_QUEST7
+HG_QUEST8 sentences/HG_QUEST8
+HG_QUEST9 sentences/HG_QUEST9
+HG_QUEST10 sentences/HG_QUEST10
+HG_QUEST11 sentences/HG_QUEST11
 
-HG_ANSWER0 hgrunt/clik(p110) (t20) uhh roger(e75) that, clik(p120) clik
-HG_ANSWER1 hgrunt/clik(p120) (t10) yessir clik
-HG_ANSWER2 hgrunt/clik(p120) (t30) affirmative, sir clik
-HG_ANSWER3 hgrunt/clik (t30) negative clik(p120) clik
-HG_ANSWER4 hgrunt/clik(p105) (t30) roger clik
-HG_ANSWER5 hgrunt/clik(p105) (t30) ok control clik
-HG_ANSWER6 hgrunt/clik(p105) (t30) that(e75) is, uhh, affirmative clik
+HG_ANSWER0 sentences/HG_ANSWER0
+HG_ANSWER1 sentences/HG_ANSWER1
+HG_ANSWER2 sentences/HG_ANSWER2
+HG_ANSWER3 sentences/HG_ANSWER3
+HG_ANSWER4 sentences/HG_ANSWER4
+HG_ANSWER5 sentences/HG_ANSWER5
+HG_ANSWER6 sentences/HG_ANSWER6
 
-HG_CLEAR0 hgrunt/clik(p130) (t30) all(e75) clear sir, clik
-HG_CLEAR1 hgrunt/clik (t30) bravo(e75) post, clear clik(p120)
-HG_CLEAR2 hgrunt/clik(p110) (t30) delta(e75) team, clear clik(p120)
-HG_CLEAR3 hgrunt/clik(p110) (t40) no sign hostiles sir, over clik(p120)
-HG_CLEAR4 hgrunt/clik (t30) no(e80) sign objective sir, over clik(p120)
-HG_CLEAR5 hgrunt/clik (t30) no(e75) movement this level clik(p120)
-HG_CLEAR6 hgrunt/clik(p120) (t28) sir, sector secure, over clik(p120) clik(p120)
-HG_CLEAR7 hgrunt/clik(p120) (t30) command(e75) post, team in position, over clik
-HG_CLEAR8 hgrunt/clik (t30) recon, in(e75) position, all quiet clik(p120)
-HG_CLEAR9 hgrunt/clik(p110) (t30) lookout(e90) post, all quiet, over clik(p110)
-HG_CLEAR10 hgrunt/clik (t40) sir, I(e80) here(e75) something clik
-HG_CLEAR11 hgrunt/clik(p120) (t30) sir, uhh, zero movement, over clik
-HG_CLEAR12 hgrunt/clik (t30) area secure sir, over clik(p120)
+HG_CLEAR0 sentences/HG_CLEAR0
+HG_CLEAR1 sentences/HG_CLEAR1
+HG_CLEAR2 sentences/HG_CLEAR2
+HG_CLEAR3 sentences/HG_CLEAR3
+HG_CLEAR4 sentences/HG_CLEAR4
+HG_CLEAR5 sentences/HG_CLEAR5
+HG_CLEAR6 sentences/HG_CLEAR6
+HG_CLEAR7 sentences/HG_CLEAR7
+HG_CLEAR8 sentences/HG_CLEAR8
+HG_CLEAR9 sentences/HG_CLEAR9
+HG_CLEAR10 sentences/HG_CLEAR10
+HG_CLEAR11 sentences/HG_CLEAR11
+HG_CLEAR12 sentences/HG_CLEAR12
 
-HG_CHECK0 hgrunt/clik (t30) ok, check(e75) in clik
-HG_CHECK1 hgrunt/clik(p110) (t30) squad, are(e80) hostiles clear clik(p120)
-HG_CHECK2 hgrunt/clik (t30) check(e80) in people clik
-HG_CHECK3 hgrunt/clik (t30) lookout, check(e75) in clik(p110)
-HG_CHECK4 hgrunt/clik (t30) recon(e90) team, check(e80) in clik
-HG_CHECK5 hgrunt/clik(p130) (t30) movement check, over clik
-HG_CHECK6 hgrunt/clik (t30) check your zone, over, clik
-HG_CHECK7 hgrunt/clik (t30) everything(e85) ok(e75) there, clik(p130)
+HG_CHECK0 sentences/HG_CHECK0
+HG_CHECK1 sentences/HG_CHECK1
+HG_CHECK2 sentences/HG_CHECK2
+HG_CHECK3 sentences/HG_CHECK3
+HG_CHECK4 sentences/HG_CHECK4
+HG_CHECK5 sentences/HG_CHECK5
+HG_CHECK6 sentences/HG_CHECK6
+HG_CHECK7 sentences/HG_CHECK7
 
 HG_USEON0 hgrunt/clik(p110) (t20) right(e80) sir, clik(p120) clik
-HG_USEON1 hgrunt/clik(p120) (t10) yessir clik
-HG_USEON2 hgrunt/clik(p120) (t30) affirmative(e80), sir, clik
-HG_USEON3 hgrunt/clik(p105) (t30) roger(e80) clik
+HG_USEON1 sentences/HG_ANSWER1
+HG_USEON2 sentences/HG_ANSWER2
+HG_USEON3 sentences/HG_ANSWER4
 HG_USEON4 hgrunt/clik(p105) (t30) lets!(e85) kick!(e85) alien!(e80) ass! clik
 HG_USEON5 hgrunt/clik(p105) (t30) a(e75) ok sir clik
 
@@ -298,149 +298,149 @@ C3A2_core bizwarn bizwarn bizwarn, attention lambda complex personnel, primary c
 
 // countdown
 
-CTR0 zero
-CTR1 one second
-CTR2 two 
-CTR3 three seconds
-CTR4 four 
-CTR5 five seconds remaining
-CTR6 six
-CTR7 seven
-CTR8 eight 
-CTR9 nine
-CTR10 ten seconds remaining
-CTR11 eleven
-CTR12 twelve
-CTR13 thirteen
-CTR14 fourteen
-CTR15 fifteen seconds remaining
-CTR16 sixteen 
-CTR17 seventeen
-CTR18 eighteen
-CTR19 nineteen
-CTR20 twenty seconds remaining
+CTR0 sentences/CTR0
+CTR1 sentences/CTR1
+CTR2 sentences/CTR2
+CTR3 sentences/CTR3
+CTR4 sentences/CTR4
+CTR5 sentences/CTR5
+CTR6 sentences/CTR6
+CTR7 sentences/CTR7
+CTR8 sentences/CTR8
+CTR9 sentences/CTR9
+CTR10 sentences/CTR10
+CTR11 sentences/CTR11
+CTR12 sentences/CTR12
+CTR13 sentences/CTR13
+CTR14 sentences/CTR14
+CTR15 sentences/CTR15
+CTR16 sentences/CTR16
+CTR17 sentences/CTR17
+CTR18 sentences/CTR18
+CTR19 sentences/CTR19
+CTR20 sentences/CTR20
 
 // doors, general
-NA0 access denied
-NA1 access is denied
-NA2 unauthorized access
-NA3 illegal access
-NA4 this door is locked
-NA5 unauthorized access
-NA6 entry forbidden
-NA7 entry not permitted
-NA8 no unauthorized personnel
-NA9 you do not have access to this facility
-NA10 (p102) sorry, you may not enter
-NA11 (p102) sorry, this door is locked
-NA12 (p102) please, move away from this area
-NA13 (p102) please, move away from door
-NA14 (p103) you will not get in
-NA15 (p103) entry is not an option
-NA16 (p104) will we do this all day
-NA17 (p104) move on immediately
-NA18 (p105) no, no, and no(p80)
-EA0 access granted
-EA1 access permitted
-EA2 entry granted
-EA3 entry permitted
-EA4 access authorized
-EA5 entry is permitted
-EA6 access authorized
-EA7 access to facility, granted
-EA8 access granted
+NA0 sentences/NA0
+NA1 sentences/NA1
+NA2 sentences/NA2
+NA3 sentences/NA3
+NA4 sentences/NA4
+NA5 sentences/NA5
+NA6 sentences/NA6
+NA7 sentences/NA7
+NA8 sentences/NA8
+NA9 sentences/NA9
+NA10 sentences/NA10
+NA11 sentences/NA11
+NA12 sentences/NA12
+NA13 sentences/NA13
+NA14 sentences/NA14
+NA15 sentences/NA15
+NA16 sentences/NA16
+NA17 sentences/NA17
+NA18 sentences/NA18
+EA0 sentences/EA0
+EA1 sentences/EA1
+EA2 sentences/EA2
+EA3 sentences/EA3
+EA4 sentences/EA4
+EA5 sentences/EA5
+EA6 sentences/EA6
+EA7 sentences/EA7
+EA8 sentences/EA8
 
 // doors, security lockout
-ND0 security lock is engaged
-ND1 secure area, no entry
-ND2 security lockout, no entry
-ND3 secure door, no entry
-ND4 security system in force
-ND5 security system armed, no entry
-ND6 door is secured
-ND7 illegal access, move away
-ED0 security lock disengaged
-ED1 security clear, proceed
-ED2 security lockout, released
-ED3 secure override accepted
-ED4 security access acknowledged
-ED5 security system disengaged
-ED6 door security disengaged
+ND0 sentences/ND0
+ND1 sentences/ND1
+ND2 sentences/ND2
+ND3 sentences/ND3
+ND4 sentences/ND4
+ND5 sentences/ND5
+ND6 sentences/ND6
+ND7 sentences/ND7
+ED0 sentences/ED0
+ED1 sentences/ED1
+ED2 sentences/ED2
+ED3 sentences/ED3
+ED4 sentences/ED4
+ED5 sentences/ED5
+ED6 sentences/ED6
 
 // blast doors
-NF0 emergency blast door activated
-NF1 emergency blast shield activated
-NF3 the blast containment shield is down
-EF0 emergency blast door, open
-EF1 emergency blast shield, deactivated
-EF3 blast containment shield is, open
+NF0 sentences/NF0
+NF1 sentences/NF1
+NF3 sentences/NF3
+EF0 sentences/EF0
+EF1 sentences/EF1
+EF3 sentences/EF3
 
 // fire door
-NFIRE0 fire containment door is down
-EFIRE0 fire containment door, open
+NFIRE0 sentences/NFIRE0
+EFIRE0 sentences/EFIRE0
 
 // chemical door
-NCHEM0 chemical leak containment door activated
-ECHEM0 chemical leak containment door, open
+NCHEM0 sentences/NCHEM0
+ECHEM0 sentences/ECHEM0
 
 // radiation door
-NRAD0 radiation containment door activated
-ERAD0 radiation containment door, open
+NRAD0 sentences/NRAD0
+ERAD0 sentences/ERAD0
 
 // generic containment door
-NCON0 emergency containment door engaged
-ECON0 emergency containment door disengaged
+NCON0 sentences/NCON0
+ECON0 sentences/ECON0
 
 // broken locked door
-NG0 sorry, this door is inoperative
-NG1 sorry, door out of service
-NG2 door damage detected, please call service personnel
+NG0 sentences/NG0
+NG1 sentences/NG1
+NG2 sentences/NG2
 
 // maintenance door
-NH0 no access, maintenance area
-NH1 no personnel permitted in maintenance area
-EH0 maintenance area access granted
-EH1 maintenance area door open
+NH0 sentences/NH0
+NH1 sentences/NH1
+EH0 sentences/EH0
+EH1 sentences/EH1
 
 // turrets, defensive systems
 
-T0 extreme hazard, defense system is armed in this zone
-T1 hazard area, defense system activated
-T2 danger, turret perimeter defense system armed
-T3 extreme hazard, nearest defense system engaged
-T4 danger, base defense turret system may power up
-T5 danger, automatic defense system activated
+T0 sentences/T0
+T1 sentences/T1
+T2 sentences/T2
+T3 sentences/T3
+T4 sentences/T4
+T5 sentences/T5
 
 // warnings
 
-WE0 warning, high voltage cable
-WE1 warning, high power cable
-WE2 warning, electric shock hazard
-WE3 warning, severe electric shock hazard
+WE0 sentences/WE0
+WE1 sentences/WE1
+WE2 sentences/WE2
+WE3 sentences/WE3
 
 // danger
 
-DR0 danger, radiation leak detected
-DR1 danger, radiation hazard detected
-DR2 danger, high radiation level detected
-DR3 danger, severe radiation hazard, evacuate area immediately
-DR4 danger, safety violation, extreme radiation level detected
+DR0 sentences/DR0
+DR1 sentences/DR1
+DR2 sentences/DR2
+DR3 sentences/DR3
+DR4 sentences/DR4
 
-DC0 danger, chemical leak, area now a high health hazard
-DC1 danger, chemical coolant leak, health hazard zone
-DC2 danger, chemical containment breach, all personnel evacuate this area
-DC3 danger, supercooled chemical leak
-DC4 danger, supercooled helium leak
+DC0 sentences/DC0
+DC1 sentences/DC1
+DC2 sentences/DC2
+DC3 sentences/DC3
+DC4 sentences/DC4
 
-DB0 danger, liquid biohazard leak in immediate area
-DB1 danger, coolant leak, severe biohazard now in this area
-DB2 danger, liquid biohazard released, evacuate area
-DB3 danger, biohazard detected in immediate area
+DB0 sentences/DB0
+DB1 sentences/DB1
+DB2 sentences/DB2
+DB3 sentences/DB3
 
 // training room
 
-TR_A three, two, one, deeoo(p110)
-TR_B deeoo(p110) (p102 t20) target system deactivated
+TR_A sentences/TR_A deeoo
+TR_B sentences/deeoo TR_B
 
 
 
@@ -448,152 +448,152 @@ TR_B deeoo(p110) (p102 t20) target system deactivated
 
 // powerup
 
-HEV_AAx fvox/bell, HEV_logon, powerarmor_on, atmospherics_on,vitalsigns_on, automedic_on, weaponselect_on, munitionview_on, communications_on, safe_day
-HEV_A0 fvox/bell, HEV_logon
+HEV_AAx sentences/bell HEV_A0 HEV_A2 HEV_A3 HEV_A4 HEV_A5 HEV_A6 HEV_A7 HEV_A8 HEV_A10
+HEV_A0 sentences/bell HEV_A0
 
-HEV_A1 fvox/blip blip(p130) powermove_on
-HEV_A2 fvox/blip blip powerarmor_on
-HEV_A3 fvox/blip blip(p130) atmospherics_on
-HEV_A4 fvox/blip blip vitalsigns_on boop, boop, boop
-HEV_A5 fvox/blip blip(p130) munitionview_on
-HEV_A6 fvox/blip blip communications_on
-HEV_A7 fvox/blip blip(p70) weaponselect_on
-HEV_A8 fvox/blip blip(p70) automedic_on
-HEV_A9 fvox/fuzz power_level_is onehundred percent
-HEV_A10 fvox/safe_day, bell
+HEV_A1 sentences/blip blip HEV_A1
+HEV_A2 sentences/blip blip HEV_A2
+HEV_A3 sentences/blip blip HEV_A3
+HEV_A4 sentences/blip blip boop HEV_A4 boop boop
+HEV_A5 sentences/blip blip HEV_A5
+HEV_A6 sentences/blip blip HEV_A6
+HEV_A7 sentences/blip blip HEV_A7
+HEV_A8 sentences/blip blip HEV_A8
+HEV_A9 sentences/fuzz HEV_A9
+HEV_A10 sentences/HEV_A10 bell
 
 // medical
 HEV_DEAD0 fvox/beep beep, beep beep, beep, beep, flatline
 HEV_DEAD1 fvox/beep beep, beep beep, beep, flatline
 
-HEV_MED0 fvox/(p140) boop, boop, boop, (p100) innsuficient_medical
-HEV_MED1 fvox/(p140) boop, boop, boop, (p100) automedic_on
-HEV_MED2 fvox/(p140) boop, boop, boop, (p100) administering_medical
+HEV_MED0 sentences/boop boop boop HEV_MED0
+HEV_MED1 sentences/boop boop boop HEV_MED1
+HEV_MED2 sentences/boop boop boop HEV_MED2
 
-HEV_HEAL0 fvox/(p140) boop, boop, boop, (p100) wound_sterilized, blip(p130 v50), blip(p130 v40), hiss, morphine_shot
-HEV_HEAL1 fvox/(p140) boop, boop, boop, (p100) torniquette_applied, bleeding_stopped
-HEV_HEAL2 fvox/(p140) boop, boop, boop, (p100) bleeding_stopped
-HEV_HEAL3 fvox/(p140) boop, boop, boop, (p100) blood_plasma
-HEV_HEAL4 fvox/(p140) boop, boop, boop, (p100) hiss, antitoxin_shot
-HEV_HEAL5 fvox/(p140) boop, boop, boop, (p100) hiss, antidote_shot
-HEV_HEAL6 fvox/(p140) boop, boop, boop, (p100) hiss, wound_sterilized
-HEV_HEAL7 fvox/(p140) boop, boop, boop, (p100) hiss, morphine_shot
-HEV_HEAL8 fvox/(p140) boop, boop, boop, (p100) medical_repaired
+HEV_HEAL0 sentences/boop boop boop HEV_HEAL0
+HEV_HEAL1 sentences/boop boop boop HEV_HEAL1
+HEV_HEAL2 sentences/boop boop boop HEV_HEAL2
+HEV_HEAL3 sentences/boop boop boop HEV_HEAL3
+HEV_HEAL4 sentences/boop boop boop HEV_HEAL4
+HEV_HEAL5 sentences/boop boop boop HEV_HEAL5
+HEV_HEAL6 sentences/boop boop boop HEV_HEAL6
+HEV_HEAL7 sentences/boop boop boop HEV_HEAL7
+HEV_HEAL8 sentences/boop boop boop HEV_HEAL8
 
-HEV_DMG0 fvox/(p160) boop, boop, boop, (p100) minor_lacerations
-HEV_DMG1 fvox/(p160) boop, boop, boop, (p100) major_lacerations
-HEV_DMG2 fvox/(p160) boop, boop, boop, (p100) internal_bleeding
-HEV_DMG3 fvox/(p160) boop, boop, boop, (p100) blood_toxins
-HEV_DMG4 fvox/(p160) boop, boop, boop, (p100) minor_fracture
-HEV_DMG5 fvox/(p160) boop, boop, boop, (p100) major_fracture
-HEV_DMG6 fvox/(p160) boop, boop, boop, (p100) blood_loss
-HEV_DMG7 fvox/(p140) boop, boop, boop, (p100) seek_medic
+HEV_DMG0 sentences/boop boop boop HEV_DMG0
+HEV_DMG1 sentences/boop boop boop HEV_DMG1
+HEV_DMG2 sentences/boop boop boop HEV_DMG2
+HEV_DMG3 sentences/boop boop boop HEV_DMG3
+HEV_DMG4 sentences/boop boop boop HEV_DMG4
+HEV_DMG5 sentences/boop boop boop HEV_DMG5
+HEV_DMG6 sentences/boop boop boop HEV_DMG6
+HEV_DMG7 sentences/boop boop boop HEV_DMG7
 
-HEV_HLTH0 fvox/(p120) beep, beep, (p100) health_dropping
-HEV_HLTH1 fvox/(p120) beep, beep, (p100) health_dropping2
-HEV_HLTH2 fvox/(p120) beep, beep, beep, (p100) health_critical
-HEV_HLTH3 fvox/(p120) beep, beep, beep, (p100) near_death
-HEV_HLTH4 fvox/(p140) beep, beep, (p100) health_dropping2, evacuate_area
-HEV_HLTH5 fvox/(p140) beep, beep, beep, (p100) health_critical, evacuate_area
-HEV_HLTH6 fvox/(p140) beep, beep, beep, (p100) near_death, evacuate_area immediately
+HEV_HLTH0 sentences/beep beep HEV_HLTH0
+HEV_HLTH1 sentences/beep beep HEV_HLTH1
+HEV_HLTH2 sentences/beep beep HEV_HLTH2
+HEV_HLTH3 sentences/beep beep HEV_HLTH3
+HEV_HLTH4 sentences/beep beep HEV_HLTH4
+HEV_HLTH5 sentences/beep beep HEV_HLTH5
+HEV_HLTH6 sentences/beep beep HEV_HLTH6
 
-HEV_SHOCK fvox/(p120) beep, beep, (p100) warning, shock_damage
-HEV_FIRE fvox/(p120) beep, beep, (p100) warning, heat_damage
+HEV_SHOCK sentences/beep beep HEV_SHOCK
+HEV_FIRE sentences/beep beep HEV_FIRE
 
 // items
-HEV_AIM_ON fvox/blip targetting_system activated
-HEV_AIM_OFF fvox/blip targetting_system deactivated
-HEV_BATTERY fvox/blip get_battery acquired
-HEV_MEDKIT fvox/blip get_medkit(v80)
+HEV_AIM_ON sentences/blip HEV_AIM_ON 
+HEV_AIM_OFF sentences/blip HEV_AIM_OFF
+HEV_BATTERY sentences/blip HEV_BATTERY
+HEV_MEDKIT sentences/blip HEV_MEDKIT
 
-HEV_PISTOL fvox/blip get_pistol acquired
-HEV_SHOTGUN fvox/blip get_shotgun
-HEV_GRENADE fvox/blip get_grenade acquired
-HEV_ASSAULT fvox/blip get_assault acquired
-HEV_44PISTOL fvox/blip get_44pistol acquired
-HEV_RPG fvox/blip get_rpg acquired
-HEV_SATCHEL fvox/blip get_satchel acquired
-HEV_TRIPMINE fvox/blip get_tripmine acquired
-HEV_HORNET fvox/blip get_alien_wpn
-HEV_SQUEEK fvox/blip get_alien_wpn
-HEV_EGON fvox/blip get_egon acquired
-HEV_GAUSS fvox/blip get_gauss acquired
-HEV_XBOW fvox/blip get_crossbow acquired
+HEV_PISTOL sentences/blip HEV_PISTOL
+HEV_SHOTGUN sentences/blip HEV_SHOTGUN
+HEV_GRENADE sentences/blip HEV_GRENADE
+HEV_ASSAULT sentences/blip HEV_ASSAULT
+HEV_44PISTOL sentences/blip HEV_44PISTOL
+HEV_RPG sentences/blip HEV_RPG
+HEV_SATCHEL sentences/blip HEV_SATCHEL
+HEV_TRIPMINE sentences/blip HEV_TRIPMINE
+HEV_HORNET sentences/blip HEV_HORNET
+HEV_SQUEEK sentences/blip HEV_SQUEEK
+HEV_EGON sentences/blip HEV_EGON
+HEV_GAUSS sentences/blip HEV_GAUSS
+HEV_XBOW sentences/blip HEV_XBOW
 
-HEV_9MM fvox/blip get_9mmclip acquired
-HEV_44AMMO fvox/blip get_44ammo acquired
-HEV_BUCKSHOT fvox/blip get_buckshot acquired
-HEV_BOLTS fvox/blip get_bolts acquired
-HEV_RPGAMMO fvox/blip get_rpgammo acquired
-HEV_AGRENADE fvox/blip get_assaultgren acquired
-HEV_EGONPOWER fvox/blip get_egonpower acquired
+HEV_9MM sentences/blip HEV_9MM
+HEV_44AMMO sentences/blip HEV_44AMMO
+HEV_BUCKSHOT sentences/blip HEV_BUCKSHOT
+HEV_BOLTS sentences/blip HEV_BOLTS
+HEV_RPGAMMO sentences/blip HEV_RPGAMMO
+HEV_AGRENADE sentences/blip HEV_AGRENADE
+HEV_EGONPOWER sentences/blip HEV_EGONPOWER
 
 // time
 
-//HEV_C1t fvox/bell time_is_now one AM
-//HEV_C13t fvox/bell time_is_now one PM
+//HEV_C1t sentences/bell HEV_C1t
+//HEV_C13t sentences/bell HEV_C13t
 
 // power levels
 
-HEV_D00 fvox/fuzz fuzz(p130), power_restored
-HEV_D01 fvox/fuzz fuzz(p80), hev_shutdown
+HEV_D00 sentences/fuzz fuzz HEV_D00
+HEV_D01 sentences/fuzz fuzz HEV_D01
 
-HEV_0P fvox/fuzz fuzz, power_below five percent 
-HEV_1P fvox/fuzz fuzz, power_restored(e30), ten percent
-HEV_2P fvox/fuzz fuzz, power_restored(e30), fifteen percent
-HEV_3P fvox/fuzz fuzz, power_restored(e30), twenty percent
-HEV_4P fvox/fuzz fuzz, power_restored(e30), twenty five percent
-HEV_5P fvox/fuzz fuzz, power_restored(e30), thirty percent
-HEV_6P fvox/fuzz fuzz, power_restored(e30), thirty five percent
-HEV_7P fvox/fuzz fuzz, power_restored(e30), fourty percent
-HEV_8P fvox/fuzz fuzz, power_restored(e30), fourty five percent
-HEV_9P fvox/fuzz fuzz, power_restored(e30), fifty percent
-HEV_10P fvox/fuzz fuzz, power_restored(e30), fifty five percent
-HEV_11P fvox/fuzz fuzz, power_restored(e30), sixty percent
-HEV_12P fvox/fuzz fuzz, power_restored(e30), sixty five percent
-HEV_13P fvox/fuzz fuzz, power_restored(e30), seventy percent
-HEV_14P fvox/fuzz fuzz, power_restored(e30), seventy five percent
-HEV_15P fvox/fuzz fuzz, power_restored(e30), eighty percent
-HEV_16P fvox/fuzz fuzz, power_restored(e30), eighty five percent
-HEV_17P fvox/fuzz fuzz, power_restored(e30), ninety percent
-HEV_18P fvox/fuzz fuzz, power_restored(e30), ninety five percent
-HEV_19P fvox/fuzz fuzz, power_level_is onehundred percent
+HEV_0P sentences/fuzz fuzz HEV_0P
+HEV_1P sentences/fuzz fuzz HEV_1P
+HEV_2P sentences/fuzz fuzz HEV_2P
+HEV_3P sentences/fuzz fuzz HEV_3P
+HEV_4P sentences/fuzz fuzz HEV_4P
+HEV_5P sentences/fuzz fuzz HEV_5P
+HEV_6P sentences/fuzz fuzz HEV_6P
+HEV_7P sentences/fuzz fuzz HEV_7P
+HEV_8P sentences/fuzz fuzz HEV_8P
+HEV_9P sentences/fuzz fuzz HEV_9P
+HEV_10P sentences/fuzz fuzz HEV_10P
+HEV_11P sentences/fuzz fuzz HEV_11P
+HEV_12P sentences/fuzz fuzz HEV_12P
+HEV_13P sentences/fuzz fuzz HEV_13P
+HEV_14P sentences/fuzz fuzz HEV_14P
+HEV_15P sentences/fuzz fuzz HEV_15P
+HEV_16P sentences/fuzz fuzz HEV_16P
+HEV_17P sentences/fuzz fuzz HEV_17P
+HEV_18P sentences/fuzz fuzz HEV_18P
+HEV_19P sentences/fuzz fuzz HEV_19P
 
 // weapon/ammo
 
-HEV_AMO0 fvox/blip ammo_depleted
+HEV_AMO0 sentences/blip HEV_AMO0
 
 // suit
 
-HEV_V0 fvox/blip, voice_on
-HEV_V1 fvox/blip, voice_off
+HEV_V0 sentences/blip HEV_V0
+HEV_V1 sentences/blip HEV_V1
 
-HEV_E0 fvox/buzz buzz, armor_gone
-HEV_E1 fvox/buzz, armor_gone
-HEV_E2 fvox/buzz, hev_critical_fail
-HEV_E3 fvox/buzz, hev_general_fail
-HEV_E4 fvox/buzz, hev_damage
-HEV_E5 fvox/buzz, powermove_overload
+HEV_E0 sentences/buzz buzz HEV_E0
+HEV_E1 sentences/buzz HEV_E1
+HEV_E2 sentences/buzz HEV_E2
+HEV_E3 sentences/buzz HEV_E3
+HEV_E4 sentences/buzz HEV_E4
+HEV_E5 sentences/buzz HEV_E5
 
 // time remaining countdown
 
-//HEV_F10t fvox/bell time_remaining ten seconds
-//HEV_F15t fvox/bell time_remaining fifteen seconds
-//HEV_F20t fvox/bell time_remaining twenty seconds
-//HEV_F30t fvox/bell time_remaining thirty seconds
+//HEV_F10t sentences/bell HEV_F10t
+//HEV_F15t sentences/bell HEV_F15t
+//HEV_F20t sentences/bell HEV_F20t
+//HEV_F30t sentences/bell HEV_F30t
 
 // detections
 
-HEV_DET0 fvox/blip blip blip, biohazard_detected
-HEV_DET1 fvox/blip blip blip, chemical_detected 
-HEV_DET2 fvox/blip blip blip, radiation_detected
-HEV_DET3 fvox/blip blip blip, bio_reading
-HEV_DET4 fvox/blip blip blip, antitoxin_shot(e50), onehundred percent
-HEV_DET5 fvox/blip blip blip, antitoxin_shot(e25) radiation_detected(e50), onehundred percent
+HEV_DET0 sentences/blip blip blip HEV_DET0
+HEV_DET1 sentences/blip blip blip HEV_DET1
+HEV_DET2 sentences/blip blip blip HEV_DET2
+HEV_DET3 sentences/blip blip blip HEV_DET3
+HEV_DET4 sentences/blip blip blip HEV_DET4
+HEV_DET5 sentences/blip blip blip HEV_DET5
 
-//HEV_GR0r fvox/range twenty meters(t60)
-//HEV_GR1r fvox/range nineteen meters
-//HEV_GR2r fvox/range eighteen meters
+//HEV_GR0r sentences/HEV_GR0r
+//HEV_GR1r sentences/HEV_GR1r
+//HEV_GR2r sentences/HEV_GR2r
 
 
 // BARNEY

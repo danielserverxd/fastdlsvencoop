@@ -1,0 +1,62 @@
+"weapons/rocketfire1.wav" "lastunic/ambience/rocketfire1.ogg"
+
+"weapons/357_shot1.wav" "weapons/lastunic/357/357_fire2.wav"
+"weapons/357_shot2.wav" "weapons/lastunic/357/357_shot1.wav"
+
+"weapons/hks1.wav" "weapons/lastunic/ak47/ak47-1.wav"
+"weapons/hks2.wav" "weapons/lastunic/ak47/ak47-1.wav"
+"weapons/hks3.wav" "weapons/lastunic/ak47/ak47-1.wav"
+
+"weapons/sniper_fire.wav" "weapons/lastunic/awp/awp1.wav"
+
+"weapons/de_shot1.wav" "weapons/lastunic/deagle/deagle-1.wav"
+"weapons/desert_eagle_fire.wav" "weapons/lastunic/deagle/deagle-1.wav"
+
+"weapons/pl_gun3.wav" "weapons/lastunic/elite/elite-1.wav"
+
+"weapons/sbarrel1.wav" "weapons/lastunic/shotgun/shotgun_fire6.wav"
+"weapons/sbarrel2.wav" "weapons/lastunic/shotgun/shotgun_fire6.wav"
+"weapons/dbarrel1.wav" "weapons/lastunic/shotgun/shotgun_dbl_fire7.wav"
+"weapons/dbarrel2.wav" "weapons/lastunic/shotgun/shotgun_dbl_fire7.wav"
+
+"weapons/uzi/shoot1.wav" "weapons/lastunic/uzi/shoot1.wav"
+"weapons/uzi/shoot2.wav" "weapons/lastunic/uzi/shoot1.wav"
+"weapons/uzi/shoot3.wav" "weapons/lastunic/uzi/shoot1.wav"
+"weapons/uzi/fire_both1.wav" "weapons/lastunic/uzi/shoot1.wav"
+
+"hassault/hw_gun4.wav" "sa13/hassault/hw_gun4.wav"
+"hassault/hw_shoot2.wav" "sa13/hassault/hw_shoot2.wav"
+"hassault/hw_shoot3.wav" "sa13/hassault/hw_shoot3.wav"
+"hassault/hw_spin.wav" "sa13/hassault/hw_spin.wav"
+"hassault/hw_spindown.wav" "sa13/hassault/hw_spindown.wav"
+"hassault/hw_spinup.wav" "sa13/hassault/hw_spinup.wav"
+
+"pitdrone/pit_drone_alert1.wav" "sa13/pitdrone/pit_drone_alert1.ogg"
+"pitdrone/pit_drone_alert2.wav" "sa13/pitdrone/pit_drone_alert2.ogg"
+"pitdrone/pit_drone_alert3.wav" "sa13/pitdrone/pit_drone_alert3.ogg"
+"pitdrone/pit_drone_die1.wav" "sa13/pitdrone/pit_drone_die1.ogg"
+"pitdrone/pit_drone_die2.wav" "sa13/pitdrone/pit_drone_die2.ogg"
+"pitdrone/pit_drone_die3.wav" "sa13/pitdrone/pit_drone_die3.ogg"
+"pitdrone/pit_drone_eat.wav" "sa13/pitdrone/pit_drone_eat.ogg"
+
+"shocktrooper/shock_fire.wav" "sa13/shocktrooper/shock_fire.wav"
+"shocktrooper/shock_trooper_attack.wav" "sa13/shocktrooper/shock_trooper_attack.wav"
+
+"zombie/claw_miss1.wav" "lastunic/zombie/claw_miss1.ogg"
+"zombie/claw_miss2.wav" "lastunic/zombie/claw_miss2.ogg"
+"zombie/claw_strike1.wav" "lastunic/zombie/claw_strike1.ogg"
+"zombie/claw_strike2.wav" "lastunic/zombie/claw_strike2.ogg"
+"zombie/claw_strike3.wav" "lastunic/zombie/claw_strike3.ogg"
+"zombie/zo_alert10.wav" "sa13/zombie/zo_alert10.ogg"
+"zombie/zo_alert20.wav" "sa13/zombie/zo_alert20.ogg"
+"zombie/zo_attack1.wav" "sa13/zombie/zo_attack1.ogg"
+"zombie/zo_idle1.wav" "sa13/zombie/zo_idle1.ogg"
+"zombie/zo_idle2.wav" "sa13/zombie/zo_idle2.ogg"
+"zombie/zo_idle3.wav" "sa13/zombie/zo_idle3.ogg"
+"zombie/zo_idle4.wav" "sa13/zombie/zo_idle4.ogg"
+"zombie/zo_pain1.wav" "sa13/zombie/zo_pain1.ogg"
+"zombie/zo_pain2.wav" "sa13/zombie/zo_pain1.ogg"
+
+"voltigore/voltigore_attack_melee2.wav" "sa13/voltigore/voltigore_attack_melee2.ogg"
+"voltigore/voltigore_attack_shock.wav" "sa13/voltigore/voltigore_attack_shock.ogg"
+"voltigore/voltigore_idle1.wav" "sa13/voltigore/voltigore_idle1.ogg"

@@ -120,11 +120,18 @@
     "name" "emotes"
     "script" "emotes"
   }
-  "plugin"
-  {
-    "name" "antirush"
-    "script" "antirush"
-  }
+	"plugin"
+	{
+		"name" "AntiRush"
+		"script" "AntiRush"
+		"concommandns" "rush"
+	}
+	"plugin"
+	{
+		"name" "Lost"
+		"script" "Lost"
+		"concommandns" "lost"
+	}
 //	"plugin"
 //	{
 //		"name" "DynamicDifficulty"

@@ -9,7 +9,6 @@ sound/misc/of1a6_rd01_original.wav
 sound/misc/of2a5_rd01.wav
 sound/misc/of2a5_rd01_original.wav
 sound/uplinked_sentences.txt
-sound/uplinked_sentences_original.txt
 sprites/wsubfog.spr
 //sentences spanish
 sound/sentences/beep.wav

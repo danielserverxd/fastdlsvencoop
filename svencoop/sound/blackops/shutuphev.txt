@@ -1,0 +1,6 @@
+// HEV Suit
+
+// powerup
+
+HEV_AAx player/pcv_vest
+HEV_A0 player/pcv_vest
