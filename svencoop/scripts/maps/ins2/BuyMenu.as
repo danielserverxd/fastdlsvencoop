@@ -71,8 +71,8 @@ void RegisterBuyMenuCCVars()
 void MoneyInit()
 {
 //estos editaste gaaa
-	//BuyPoints.deleteAll();
-	//OldScore.deleteAll();
+	BuyPoints.deleteAll();
+	OldScore.deleteAll();
 
 	g_Game.PrecacheModel( "sprites/" + BuyMenu::MoneySignSpr );
 	g_Hooks.RegisterHook( Hooks::Player::ClientPutInServer, @INS2_ClientPutInServer );
