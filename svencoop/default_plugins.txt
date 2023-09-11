@@ -132,6 +132,11 @@
 		"script" "Lost"
 		"concommandns" "lost"
 	}
+	"plugin"
+ 	{
+        "name" "GordonMotd"
+		"script" "GordonMotd"
+	}
 //	"plugin"
 //	{
 //		"name" "DynamicDifficulty"

@@ -70,8 +70,9 @@ void RegisterBuyMenuCCVars()
 
 void MoneyInit()
 {
-	BuyPoints.deleteAll();
-	OldScore.deleteAll();
+//estos editaste gaaa
+	//BuyPoints.deleteAll();
+	//OldScore.deleteAll();
 
 	g_Game.PrecacheModel( "sprites/" + BuyMenu::MoneySignSpr );
 	g_Hooks.RegisterHook( Hooks::Player::ClientPutInServer, @INS2_ClientPutInServer );
@@ -542,7 +543,8 @@ void ShowPointsSprite( CBasePlayer@ pPlayer )
 	NumDisplayParams.channel 	= 0;
 	NumDisplayParams.flags  	= HUD_ELEM_ABSOLUTE_X | HUD_ELEM_ABSOLUTE_Y | HUD_ELEM_DYNAMIC_ALPHA | HUD_ELEM_EFFECT_ONCE;
 	NumDisplayParams.x      	= 5; // HUD_ELEM_ABSOLUTE_X affects this
-	NumDisplayParams.y      	= -35; // HUD_ELEM_ABSOLUTE_Y affects this
+	//NumDisplayParams.y      	= -35; HUD_ELEM_ABSOLUTE_Y affects this
+	NumDisplayParams.y      	= -75; // HUD_ELEM_ABSOLUTE_Y affects this
 	NumDisplayParams.spritename = MoneySignSpr;
 	NumDisplayParams.defdigits 	= 0;
 	NumDisplayParams.maxdigits 	= 5;

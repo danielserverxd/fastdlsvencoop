@@ -1,0 +1,9 @@
+Time: 20
+sprites/dynamic_mapvote/theyhunger.spr|They Hunger|th_lobby
+sprites/dynamic_mapvote/afraidofmonsters.spr|Afraid of Monsters|afraidofmonsters_lobby
+sprites/dynamic_mapvote/hellmouth.spr|Hellmouth|hellmouth
+sprites/dynamic_mapvote/frightmanor.spr|Fright Manor|frightmanor
+sprites/dynamic_mapvote/evilmansion.spr|Evilmansion|evilmansion
+sprites/dynamic_mapvote/castlevania.spr|Castlevania|sc_castlevania
+sprites/dynamic_mapvote/schall.spr|Swiss Cheese Halloween|schall_1
+sprites/dynamic_mapvote/keenhall.spr|Keen Halloween|kh1

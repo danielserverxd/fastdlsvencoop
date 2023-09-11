@@ -1,0 +1,9 @@
+Time: 20
+sprites/dynamic_mapvote/polarrescue.spr|Polar Rescue|polar_rescue
+sprites/dynamic_mapvote/doc.spr|Danger of Collapse|doc
+sprites/dynamic_mapvote/arctic_incident.spr|Arctic Incident|arctic_incident_1
+sprites/dynamic_mapvote/icestormx.spr|IceStormX|icestormx
+sprites/dynamic_mapvote/inbound.spr|Inbound|sc_inbound
+sprites/dynamic_mapvote/sniperwar_xmas.spr|Sniperwar\nChrimstas Edition|sc_sniperwar_xmas
+sprites/dynamic_mapvote/santas_revenge.spr|Santa's Revenge|sc_santasrevenge_b6
+sprites/dynamic_mapvote/arctic_escape.spr|Arctic Escape|sc_arctic_escape

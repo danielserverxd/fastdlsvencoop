@@ -1,0 +1,40 @@
+/* Nuclear Winter for Sven Co-op convertion v2.0						*/
+/* convert by: Refrigerator(Ice Box), NoobLCH(RRTS-LCH), Dr.Abc, hzqst	*/
+
+Convertion Info:
+Convert Credits:
+	Refrigerator(Ice Box): most work for v1.0 maps convertion, v1.0 most bug fixes.
+	NoobLCH(RRTS-LCH): v1.0 maps convertion, bug fixes; v2.0 map merges, bug fixes, scripts.
+	Dr.ABC: v2.0 wave-spawn script support, technical support.
+	hzqst: technical support.
+	Marine: Op4 style hands for weapon models.
+
+Test(Group)：
+	BDSC Group
+	ACST Club
+
+Map Tools:
+ NewBspguy by UnrealKaraulov (From Original wootguy's Bspguy) 
+	Link: https://github.com/UnrealKaraulov/newbspguy
+
+ ResGuy by wootguy
+	Link: https://github.com/wootguy/resguy
+
+ LazyRipent by Zode
+	Link: https://github.com/Zode/lazyripent	
+
+External Plugins:
+ Ins2 weapons pack v1.5 by KernCore91
+	Plugin credits is in ins2_credits_1st_release.txt
+	https://github.com/KernCore91/-SC-Insurgency-Weapons-Project
+
+ CoF weapons pack v1.4(Old version, just for syringe) by KernCore91
+	Plugin credits is in CoF_Weapons_Credits.txt and cof_plugin_Credits.txt
+	https://github.com/KernCore91/-SC-Cry-of-Fear-Weapons-Project
+
+
+Original Mod Info:
+	Mod: Nuclear Winter
+	Author: Loki (AKA Mr. White)
+	Release time: 2007
+	Link: https://www.moddb.com/mods/nuclear-winter-opfor
