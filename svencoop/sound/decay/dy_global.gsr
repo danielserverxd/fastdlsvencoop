@@ -370,3 +370,6 @@
 "scientist/d08_sci03_destroytrackers.wav" "decay/scientist/d08_sci03_destroytrackers.wav"
 "scientist/d08_sci04_ceilinghatch.wav" "decay/scientist/d08_sci04_ceilinghatch.wav"
 "scientist/d08_sci05_osprey.wav" "decay/scientist/d08_sci05_osprey.wav"
+
+#server
+"weapons/pl_gun3.wav"			"barney/ba_attack2.wav"

@@ -1,0 +1,156 @@
+Word Wrap this file please.
+
+----------------------------------------------------------------------
+
+This is a mini pack of levels with a few altered sound files for
+Half Life made by Valve Software. It is a "free" product for your
+enjoyment and should only be run on high spec PC's with a 3D card.
+
+-----------------------------------------------------------------------
+
+This text contains important information to install this product and 
+other information relevant to the maker of the product....
+
+PLEASE READ IT TO THE END
+
+-----------------------------------------------------------------------
+
+The text is sectioned as follows:
+
+Who made this and Why ....
+Storyline to this product ....
+Installation ....
+Credits ....
+Contact ...
+If Only ...
+
+-----------------------------------------------------------------------
+
+Who and Why...
+
+This product was produced by Phil Daniels, the contact for "Maverick
+Developments" ... The Developers of "Wanted! The Quake II Western Pack"
+
+It features many elements of the Half Life game. Such as entities, scripts, AI working, lighting, level design etc.
+Some of these elements are direct imitations of Valves work and/or copies of work from others. This is not an intentional "rip off" of anyones product, purely a development of my own knowledge by practical use.
+The two ideals aimed at by producing it were to be able to make FULL use of Valves developments through understanding, and .... most importantly... to display my talents (or lack of) to the gaming community so that any prospective employers might contact me for employment.
+
+-----------------------------------------------------------------------
+
+Drug Barons.  The storyline ....
+
+After the exhausive, confusing and deceitful experiences that you suffered during your first day at the Black Mesa Lab you finally arrive back on Earth. The mysterious man in the suit had left you little choice but to agree to his "offer" of joining the government department that he worked for. Without the knowledge of who, exactly these employers were, you nerveously stepped into the teleporter.
+On Earth you materialise in the "incoming" portal of your employers military station. Scientific work extends only to fulfill the military needs of your employer, but at least the workers include some familiar faces that put you at ease.
+Keen to greet you and heal your wounds, your old friends from Mesa pass you through the stages of radiation cleansing. Their other duties include the containment and experimentation of the Xen space portal captured and held in the room behind you...although on closer inspection you feel uneasy.....
+
+After passing through the cleansing processes you leave the Lab to recieve your first mission orders from your suited colleague. Stoping only to wash up in the shower unit. Here your old bungling friend Barney appears to have dropped himself into another predicament, you smile to yourself remebering his comical antics at Mesa....topped only by his brother Arney the handyman.
+
+The man in the suit makes mention of your recent exploits before "inviting" you to leave on a military vechile to start your first mission.
+This mission is to destroy the drug factory and the factories crack military operators located in a remote South American location.
+As you prepare to board the truck you breifly stop by a half open loading bay  door and spot Arney aparently "organise" a loading operation.
+Stepping onto the truck you feel nervous about the mission, this feeling is only enhanced by the limited equipment being supplied for such a periously mission.....The armed soldier leaps into the driving seat and Barney hops in alongside of him....perhaps Barney will find a way into this factory to help you.....
+
+
+-----------------------------------------------------------------------
+
+Installation....
+
+
+Simply put the pak1.pak file into your Valve directory contained within your Half Life directory.
+
+Start HL from  a dos prompt with this statement...
+
+hl.exe -console
+
+Once the main HL screen appears click on the console button.
+Once the console has finished loading type :
+
+map intro
+
+The 4 levels will load sequentially and you will be advised when the mini pack has finished....
+
+IMPORTANT.....
+
+After you have played this mini pack it is important to delete or rename the pak file called pak1.pak in your Valve directory. While this pak file is in this loaction or called pak1.pak the original game of HL may not function normally. This is due to certain files contained within the pak overiding the originals contained within Valves pak0.pak.
+Using this product will not harm your other products but naturally I take nor hold any responsibility for any damage that may occur.  
+
+
+-----------------------------------------------------------------------
+
+Credits.... These are important and extensive...
+
+The second half of level 3 is heavily based around an old map of Matthias Worch. At that time the level demanded more than was possible from the exisiting entities/engines. Hopefully you are pleased Matthias with what I have achieved with your original innovations.
+ 
+Matthias Worch
+langsuyar@ocrana.de
+
+The HL editing list has provided me with a superb source of knowledge...in particular these guys showed me the way...
+
+Autolycus
+Tone
+Neil
+
+Prefabs:
+Instead of spending an immense ammount of time within this project producing my own set prefabs I have used many of Valves originals and some from the gaming community, the guys responsible for these are :
+
+Apc2             Scud                      scud@aurum.net.au
+M998hm         mastabrain            duke.fanatic@hotmail.com
+hmmwv         xkinetic                   xkinetic@thegrid.net
+widetruck        sojorn                   sojorn@sonic.net
+war_tent        Jorden&Phil Inc.      ronpre@globetrotter.qc.ca
+container       revolver          revolver@gpm98.freeserve.co.uk
+hlflatbed/hltrans dave waters              baseman@msn.com
+scanner          Brian J. Audette          Dakushna@aol.com
+
+I pray I have not missed one !
+
+
+Lastly a VERY special mention to Valve. Without doubt they have produced the singularly most outstanding piece of single player gaming product that has ever been seen. I think that catching the right technology time slot was vital.
+Thank you Harry and all the team.
+
+
+-----------------------------------------------------------------------
+
+Contact...
+
+If you are a player that enjoyed ... did not enjoy ... have constructive critisisum ....please let me know your thoughts. (please read the "if only" section first !)
+
+If you are a prospective employer that has been stunned and excited by my skills (naturally :_) ) then PLEASE contact me STRAIGHT AWAY !!
+
+Either way....take a look at www.wantedq2.com
+This is the PQ hosted homepage of "Wanted! The Quake II Western Pack"
+On this page you will find details about Wanted! and also following the link to "Maverick" will tell you lots of things about myself and my previous achievements.
+
+
+Mail to :  Phildaniels@albatross.co.uk
+
+
+------------------------------------------------------------------------
+
+If Only ......
+
+
+Things that I am aware of and either pleased with or have reflected on and think I should have payed more attention too.....I have lear'nt !!!
+
+The R_Speeds were better and the levels were'nt slow in a few places...
+
+The sparkles in brush joints...
+
+Env_Render.... what a tool ... wow !
+
+The AI I have "lifted" from the placement of nodes.
+
+Forced a few scripts here and there...its hard to stay natural.
+
+A bit linear overall.
+
+My natural terrain skills are quite developed now.
+
+Perhaps aimed for a comical feel out of context in places.
+
+Need to plan even more before hand.
+
+
+
+Spend less time on this.... :-)
+

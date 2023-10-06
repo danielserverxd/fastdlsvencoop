@@ -1,0 +1,193 @@
+#"models/v_9mmar.mdl" "models/cso_female_hands/black_glove/v_9mmar.mdl"
+#"models/v_9mmhandgun.mdl" "models/cso_female_hands/black_glove/v_9mmhandgun.mdl"
+#"models/v_357.mdl" "models/cso_female_hands/black_glove/v_357.mdl"
+#"models/v_crowbar.mdl" "models/cso_female_hands/black_glove/v_crowbar.mdl"
+#"models/v_crossbow.mdl" "models/cso_female_hands/black_glove/v_crossbow.mdl"
+#"models/v_desert_eagle.mdl" "models/cso_female_hands/black_glove/v_desert_eagle.mdl"
+#"models/v_displacer.mdl" "models/cso_female_hands/black_glove/v_displacer.mdl"
+#"models/v_egon.mdl" "models/cso_female_hands/black_glove/v_egon.mdl"
+#"models/v_gauss.mdl" "models/cso_female_hands/black_glove/v_gauss.mdl"
+#"models/v_grenade.mdl" "models/cso_female_hands/black_glove/v_grenade.mdl"
+#"models/v_m16a2.mdl" "models/cso_female_hands/black_glove/v_m16a2.mdl"
+#"models/v_m40a1.mdl" "models/cso_female_hands/black_glove/v_m40a1.mdl"
+#"models/v_medkit.mdl" "models/cso_female_hands/black_glove/v_medkit.mdl"
+#"models/v_minigun.mdl" "models/cso_female_hands/black_glove/v_minigun.mdl"
+#"models/v_pipe_wrench.mdl" "models/cso_female_hands/black_glove/v_pipe_wrench.mdl"
+#"models/v_rpg.mdl" "models/cso_female_hands/black_glove/v_rpg.mdl"
+#"models/v_satchel.mdl" "models/cso_female_hands/black_glove/v_satchel.mdl"
+#"models/v_satchel_radio.mdl" "models/cso_female_hands/black_glove/v_satchel_radio.mdl"
+#"models/v_saw.mdl" "models/cso_female_hands/black_glove/v_saw.mdl"
+#"models/v_shotgun.mdl" "models/cso_female_hands/black_glove/v_shotgun.mdl"
+#"models/v_spore_launcher.mdl" "models/cso_female_hands/black_glove/v_spore_launcher.mdl"
+#"models/v_squeak.mdl" "models/cso_female_hands/black_glove/v_squeak.mdl"
+#"models/v_tripmine.mdl" "models/cso_female_hands/black_glove/v_tripmine.mdl"
+#"models/v_uzi.mdl" "models/cso_female_hands/black_glove/v_uzi.mdl"
+
+"models/w_suit.mdl" "models/suit2.mdl"
+
+
+# armas
+"models/hlclassic/v_9mmar.mdl"               "models/hc_auton_abey/sd/v_9mmar.mdl"
+"models/hlclassic/v_9mmhandgun.mdl"          "models/hc_auton_abey/sd/v_9mmhandgun.mdl"
+"models/hlclassic/v_357.mdl"                 "models/hc_auton_abey/sd/v_357.mdl"
+"models/hlclassic/v_crossbow.mdl"            "models/hc_auton_abey/sd/v_crossbow.mdl"
+"models/hlclassic/v_crowbar.mdl"             "models/hc_auton_abey/sd/v_crowbar.mdl"
+"models/hlclassic/v_desert_eagle.mdl"        "models/hc_auton_abey/sd/v_desert_eagle.mdl"
+"models/hlclassic/v_grenade.mdl"             "models/hc_auton_abey/sd/v_grenade.mdl"
+"models/hlclassic/v_saw.mdl"                 "models/hc_auton_abey/sd/v_saw.mdl"
+"models/hlclassic/v_shotgun.mdl"             "models/hc_auton_abey/sd/v_shotgun.mdl"
+"models/hlclassic/w_suit.mdl"                "models/suit2.mdl"
+
+"models/opfor/v_knife.mdl" "models/hc_auton_abey/v_knife.mdl"
+"models/opfor/v_saw.mdl" "models/hc_auton_abey/sd/v_saw.mdl"
+"models/opfor/v_desert_eagle.mdl" "models/hc_auton_abey/sd/v_desert_eagle.mdl"
+#"models/opfor/v_displacer" "models/hc_auton_abey/sd/v_desert_eagle.mdl"
+
+#"models/hlclassic/p_desert_eagle.mdl"  "models/not_precached.mdl"
+"models/hlclassic/v_desert_eagle.mdl"  "models/hc_auton_abey/sd/v_desert_eagle.mdl"
+#"models/hlclassic/w_desert_eagle.mdl"  "models/not_precached.mdl"
+
+#"models/hlclassic/p_medkit.mdl" "models/hc_auton_abey/sd/p_medkit.mdl"
+"models/hlclassic/v_medkit.mdl" "models/hc_auton_abey/sd/v_medkit.mdl"
+#"models/hlclassic/w_pmedkit.mdl" "models/hc_auton_abey/sd/w_pmedkit.mdl"
+
+
+
+## 9mmAR
+"models/v_9mmar.mdl" "models/hc_auton_abey/v_9mmar.mdl"
+
+## 9mmhandgun
+"models/v_9mmhandgun.mdl" "models/hc_auton_abey/v_9mmhandgun.mdl"
+
+## 357
+"models/v_357.mdl" "models/hc_auton_abey/v_357.mdl"
+
+
+## Barnacle Grapple
+#"models/p_bgrap.mdl" "models/not_precached.mdl"
+#"models/v_bgrap.mdl" "models/not_precached.mdl"
+#"models/w_bgrap.mdl" "models/not_precached.mdl"
+
+## crossbow
+"models/v_crossbow.mdl" "models/hc_auton_abey/v_crossbow.mdl"
+
+## crowbar
+"models/v_crowbar.mdl" "models/hc_auton_abey/v_crowbar.mdl"
+
+## Desert Eagle
+#"models/p_desert_eagle.mdl"  "models/not_precached.mdl"
+"models/v_desert_eagle.mdl" "models/hc_auton_abey/v_desert_eagle.mdl"
+#"models/w_desert_eagle.mdl"  "models/not_precached.mdl"
+
+## displacer
+"models/v_displacer.mdl" "models/hc_auton_abey/v_displacer.mdl"
+
+## Gluon Gun
+#"models/p_egon.mdl" "models/not_precached.mdl"
+"models/v_egon.mdl" "models/hc_auton_abey/v_egon.mdl"
+#"models/w_egon.mdl" "models/not_precached.mdl"
+
+## Gauss Gun
+#"models/p_gauss.mdl" "models/not_precached.mdl"
+"models/v_gauss.mdl" "models/hc_auton_abey/v_gauss.mdl"
+#"models/w_gauss.mdl" "models/not_precached.mdl"
+#"models/w_gaussammo.mdl" "models/not_precached.mdl"
+
+## Grenade
+v_grenade
+
+## Hornet Gun
+#"models/p_hgun.mdl" "models/not_precached.mdl"
+#"models/v_hgun.mdl" "models/not_precached.mdl"
+#"models/w_hgun.mdl" "models/not_precached.mdl"
+
+## Knife
+"models/v_knife.mdl" "models/hc_auton_abey/v_knife.mdl"
+
+## m16a2
+"models/v_m16a2.mdl" "models/hc_auton_abey/v_m16a2.mdl"
+
+## m40a1
+"models/v_m40a1.mdl" "models/hc_auton_abey/nv_m40a1.mdl"
+
+## Medkit
+"models/v_medkit.mdl" "models/hc_auton_abey/v_medkit.mdl"
+
+## Minigun
+#"models/p_minigunidle.mdl" "models/not_precached.mdl"
+#"models/p_minigunspin.mdl" "models/not_precached.mdl"
+"models/v_minigun.mdl" "models/hc_auton_abey/v_minigun.mdl"
+#"models/w_minigun.mdl" "models/not_precached.mdl"
+
+## Pipe Wrench
+#"models/p_pipe_wrench.mdl" "models/not_precached.mdl"
+"models/v_pipe_wrench.mdl" "models/hc_auton_abey/v_pipe_wrench.mdl"
+#"models/w_pipe_wrench.mdl" "models/not_precached.mdl"
+
+## RPG
+#"models/p_rpg.mdl" "models/not_precached.mdl"
+"models/v_rpg.mdl" "models/hc_auton_abey/v_rpg.mdl"
+#"models/w_rpg.mdl" "models/not_precached.mdl"
+#"models/p_rpg_r.mdl" "models/not_precached.mdl"
+#"models/w_rpgammo.mdl" "models/not_precached.mdl"
+
+## Satchel
+#"models/p_satchel.mdl" "models/not_precached.mdl"
+#"models/p_satchel_radio.mdl" "models/not_precached.mdl"
+"models/v_satchel.mdl" "models/hc_auton_abey/v_satchel.mdl"
+"models/v_satchel_radio.mdl" "models/hc_auton_abey/v_satchel_radio.mdl"
+#"models/w_satchel.mdl" "models/not_precached.mdl"
+
+## Saw
+"models/v_saw.mdl" "models/hc_auton_abey/v_saw.mdl"
+
+## Shotgun
+"models/p_shotgun.mdl" "models/not_precached.mdl"
+"models/v_shotgun.mdl" "models/hc_auton_abey/v_shotgun.mdl"
+"models/w_shotgun.mdl" "models/not_precached.mdl"
+
+## Spore Launcher
+"models/v_spore_launcher" "models/hc_auton_abey/v_spore_launcher.mdl"
+
+## Snark
+#"models/p_squeak.mdl" "models/not_precached.mdl"
+"models/v_squeak.mdl" "models/hc_auton_abey/v_squeak.mdl"
+#"models/w_squeak.mdl" "models/not_precached.mdl"
+#"models/w_sqknest.mdl" "models/not_precached.mdl"
+
+## Chumtoad Bonus from Snark
+#"models/chubby.mdl" "models/not_precached.mdl"
+
+## Tripmine
+#"models/p_tripmine.mdl" "models/not_precached.mdl"
+"models/v_tripmine.mdl" "models/hc_auton_abey/v_tripmine.mdl"
+#"models/w_tripmine.mdl" "models/not_precached.mdl"
+
+## Uzi
+#"models/p_uzi.mdl" "models/not_precached.mdl"
+"models/v_uzi.mdl" "models/hc_auton_abey/v_uzi.mdl"
+#"models/w_uzi.mdl" "models/not_precached.mdl"
+
+## Uzi - Gold
+#"models/p_uzi_gold.mdl" "models/not_precached.mdl"
+#"models/v_uzi_gold.mdl" "models/not_precached.mdl"
+#"models/w_uzi_gold.mdl" "models/not_precached.mdl"
+
+## Uzi Akimbo
+#"models/p_2uzis.mdl" "models/not_precached.mdl"
+#"models/v_2uzis.mdl" "models/not_precached.mdl"
+#"models/w_2uzis.mdl" "models/not_precached.mdl"
+
+## Uzi Akimbo - Gold
+#"models/p_2uzis_gold.mdl" "models/not_precached.mdl"
+#"models/v_2uzis_gold.mdl" "models/not_precached.mdl"
+#"models/w_2uzis_gold.mdl" "models/not_precached.mdl"
+
+# ammo
+#"models/w_357ammo.mdl" "models/not_precached.mdl"
+#"models/w_crossbow_clip.mdl" "models/not_precached.mdl"
+#"models/w_9mmarclip.mdl" "models/not_precached.mdl"
+#"models/w_9mmclip.mdl" "models/not_precached.mdl"
+#"models/w_argrenade.mdl" "models/not_precached.mdl"
+#"models/w_shotbox.mdl" "models/not_precached.mdl"
+#"models/w_gaussammo.mdl" "models/not_precached.mdl"

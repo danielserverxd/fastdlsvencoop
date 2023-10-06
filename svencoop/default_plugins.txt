@@ -51,12 +51,12 @@
 //	"script"		"../maps/cs16/cs16_register"
 //	"concommandns"	"cs16"
 //}
-	"plugin"
-	{
-		"name" "ClassicModeDeluxe"
-		"script" "ClassicModeDeluxe/ClassicModeDeluxe"
-		"concommandns" "cm"
-	}
+//	"plugin"
+//	{
+//		"name" "ClassicModeDeluxe"
+//		"script" "ClassicModeDeluxe/ClassicModeDeluxe"
+//		"concommandns" "cm"
+//	}
 
     "plugin"
     {
@@ -76,11 +76,11 @@
   	"script" "../maps/doom/doom_plugin"
   }
 
-    "plugin"
-    {
-        "name" "survival_respawn"
-        "script" "mikk/survival_respawn"
-    }
+//    "plugin"
+//    {
+//        "name" "survival_respawn"
+//        "script" "mikk/survival_respawn"
+//    }
 
 "plugin"
 {
@@ -104,11 +104,11 @@
         "name" "PlayerDecalTracker"
         "script" "admin/PlayerDecalTracker"
     }
-    "plugin"
-    {
-        "name" "Msg"
-        "script" "msg"
-    }
+//    "plugin"
+//   {
+//        "name" "Msg"
+//        "script" "msg"
+//   }
 	"plugin"
 	{
 		"name"      	"Insurgency Mod"
@@ -137,10 +137,16 @@
         "name" "GordonMotd"
 		"script" "GordonMotd"
 	}
+
+	"plugin"
+ 	{
+        "name" "KeepInventory"
+		"script" "KeepInventory"
+	}
 //	"plugin"
 //	{
 //		"name" "DynamicDifficulty"
-//		"script" "cubemath/DynamicDifficulty7"
+//		"script" "cubemath/Difficultymuyhard"
 //		"concommandns" "dyndiff"
 //	}
 }

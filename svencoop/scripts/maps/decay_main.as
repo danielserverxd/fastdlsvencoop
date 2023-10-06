@@ -1,15 +1,25 @@
-#include "anti_rush"
+#include "HLSP_decay/anti_rush"
 
-#include "beast/checkpoint_spawner"
-#include "beast/envtempeffects"
-#include "beast/game_hudsprite"
-#include "beast/player_blocker"
+#include "HLSP_decay/beast/checkpoint_spawner"
+#include "HLSP_decay/beast/envtempeffects"
+#include "HLSP_decay/beast/game_hudsprite"
+#include "HLSP_decay/beast/player_blocker"
 
-#include "decay/item_eyescanner"
-#include "decay/item_healthcharger"
-#include "decay/item_recharge"
-#include "decay/monster_alienflyer"
-#include "decay/weapon_slave"
+#include "HLSP_decay/item_eyescanner"
+#include "HLSP_decay/item_healthcharger"
+#include "HLSP_decay/item_recharge"
+#include "HLSP_decay/monster_alienflyer"
+#include "HLSP_decay/weapon_slave"
+
+#include "HLSP_decay/classic_mode/HLSPClassicMode"
+#include "HLSP_decay/classic_mode/weapon_hlmp5"
+#include "HLSP_decay/classic_mode/weapon_hlshotgun"
+
+#include "HLSP_decay/armas/weapon_hlpython"
+#include "HLSP_decay/armas/weapon_ofeagle"
+#include "HLSP_decay/armas/weapon_ofm249"
+#include "HLSP_decay/armas/weapon_ofsniperrifle"
+#include "HLSP_decay/armas/weapon_ofshockrifle"
 
 const bool blAntiRushEnabled = false; // You can change this to have AntiRush mode enabled or disabled
 
@@ -24,9 +34,20 @@ void MapInit()
 	RegisterItemHealthCustomEntity();
 	RegisterAlienflyer();
 
+	// Enable Classic Weapons
+	CPython::Register();
+	CEagle::Register();
+	CM249::Register();
+	CSniperRifle::Register();
+	CShockRifle::Register();
+	RegisterHLMP5();
+	RegisterHLShotgun();
+
+	// Enable Classic Mode
+	ClassicModeMapInit();
+
 	ANTI_RUSH::RemoveEntities = "models/cubemath/*;percent_lock*;blocker_wall*";
 	ANTI_RUSH::EntityRegister( blAntiRushEnabled );
-
 
 	if( g_Engine.mapname == "dy_alien" )
 	{
@@ -105,20 +126,27 @@ void SetAlienMode(CBaseEntity@ pActivator, CBaseEntity@ pCaller, USE_TYPE useTyp
 	if( pPlayer.entindex() % 2 > 0 )
 		pPlayer.SetOverriddenPlayerModel( "alien_slave" );
 	else
-		pPlayer.SetOverriddenPlayerModel( "agrunt" );
+		pPlayer.SetOverriddenPlayerModel( "islave" );
 
 	CBasePlayerItem@ pWeaponSlave = pPlayer.HasNamedPlayerItem( "weapon_slave" );
 	KeyValueBuffer@ pKeys = g_EngineFuncs.GetInfoKeyBuffer( pPlayer.edict() );
 
-	if( string( pKeys.GetValue( "model" ) ) == "agrunt" )
+	//if( string( pKeys.GetValue( "model" ) ) == "agrunt" )
+	//{
+	//	pPlayer.GiveNamedItem( "weapon_slave", 0, 0 );
+	//	pPlayer.GiveNamedItem( "weapon_hornetgun", 0, 1 );
+	//	
+		//if( pWeaponSlave !is null )
+        	//pPlayer.RemovePlayerItem( pWeaponSlave );
+	//}
+	if( string( pKeys.GetValue( "model" ) ) == "islave" )
 	{
-		pPlayer.GiveNamedItem( "weapon_hornetgun", 0, 0 );
-		
-		if( pWeaponSlave !is null )
-        	pPlayer.RemovePlayerItem( pWeaponSlave );
+		pPlayer.GiveNamedItem( "weapon_slave", 0, 0 );
+		pPlayer.GiveNamedItem( "weapon_hornetgun", 0, 1 );
 	}
 	else
 		pPlayer.GiveNamedItem( "weapon_slave", 0, 0 );
+		pPlayer.GiveNamedItem( "weapon_hornetgun", 0, 1 );
 
 	g_EntityFuncs.DispatchKeyValue( pPlayer.edict(), "$s_overriden_playermodel", "" + string( pKeys.GetValue( "model" ) ) );
 }

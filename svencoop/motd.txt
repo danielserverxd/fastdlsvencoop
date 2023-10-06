@@ -2,7 +2,7 @@ Comandos para el chat:
 !b = comprar armas de counter/Insurgency 2
 !b ammo = comprar balas de Counter/Insurgency 2
 /pet = invocar una mascota aleatoria
-.lost =
+.lost = activar/desactivar vista de los demas jugadores
 
 .color "nombre del color" = cambia tu color de tu nombre del chat al color seleccionado
 .listsounds = muestra todos los audios disponibles en la consola

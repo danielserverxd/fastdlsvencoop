@@ -181,14 +181,14 @@ void checkEnoughPlayersFinished(CBasePlayer@ plr, bool printFinished=false)
 	if (printFinished)
 	{
 		if (everyoneFinished && percentage >= 100)
-			msg = "" + plr.pev.netname + " finished the map. Everyone has finished now. ";
+			msg = "" + plr.pev.netname + " termino el mapa. Cualquiera puede completarlo ahora. ";
 		else if (isEnough)
-			msg = "" + plr.pev.netname + " finished the map. Enough players have finished now. ";
+			msg = "" + plr.pev.netname + " termino el mapa. Ya han terminado bastantes jugadores. ";
 		else
-			msg = "" + plr.pev.netname + " finished the map. ";
+			msg = "" + plr.pev.netname + " termino el mapa. ";
 	}
 	else
-		msg = "" + percentage + "% finished the map. ";
+		msg = "" + percentage + "% termino el mapa. ";
 	
 	if (isEnough or everyoneFinished)
 	{
@@ -199,19 +199,19 @@ void checkEnoughPlayersFinished(CBasePlayer@ plr, bool printFinished=false)
 		if (everyoneFinished)
 		{
 			everyone_finish_triggered = true;
-			doCountdown("Level changing in ", 3, true);
+			doCountdown("level Cambiando en ", 3, true);
 			g_Scheduler.SetTimeout("triggerNextLevel", 3.0f, EHandle(plr));
 		}
 		else
 		{
-			doCountdown("Level changing in ", int(delay), false);
+			doCountdown("Level Cambiando en ", int(delay), false);
 			@change_trigger = g_Scheduler.SetTimeout("triggerNextLevel", delay, EHandle(plr));
 		}
 		
 		level_change_triggered = true;
 	}
 	else
-		msg += "" + needPlayers + " " + plrTxt + " needed for level change.";	
+		msg += "" + needPlayers + " " + plrTxt + " necesarios para el cambio de nivel.";	
 	
 	if (percentage == 0)
 		return; // don't bother saying nobody finished

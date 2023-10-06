@@ -28,7 +28,7 @@ CCVar@ g_MaxMoney;
 CCVar@ g_MoneyPerScore;
 CCVar@ g_StartMoney;
 //fall back for map_script
-int MaxMoney = 16000;
+int MaxMoney = 20000;
 int MoneyPerScore = 20;
 int StartMoney = 120;
 

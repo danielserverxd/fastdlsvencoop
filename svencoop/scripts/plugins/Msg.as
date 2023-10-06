@@ -8,7 +8,7 @@ void PluginInit() {
   g_Module.ScriptInfo.SetContactInfo("https://discord.gg/qfZxWAd");
   g_Module.ScriptInfo.SetMinimumAdminLevel(ADMIN_YES);
   
-  @g_Msg      = CCVar("msg", "Comandos disponibles: !b, /pet, .color, .listsounds, hat menu, trail menu", "The text to display", ConCommandFlag::AdminOnly);
+  @g_Msg      = CCVar("msg", "Discord del servidor: https://discord.gg/8SvsfkVbx3", "The text to display", ConCommandFlag::AdminOnly);
   @g_Interval = CCVar("interval", 180.0f, "Repeat every x seconds", ConCommandFlag::AdminOnly);
 
   MapInit();

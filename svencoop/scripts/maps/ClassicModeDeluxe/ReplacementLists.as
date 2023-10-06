@@ -320,22 +320,23 @@ namespace ClassicModeDeluxe {
 		// sven's opfor zombie has a broken head hitbox
 		//op4_force_replace["models/opfor/zombie_soldier.mdl"] = replacementModelPath + "zombie_soldier.mdl";
 		
-		bshift_force_replace["models/hlclassic/scientist.mdl"] = replacementModelPath + "bshift/scientist.mdl";
-		bshift_force_replace["models/bshift/scientist.mdl"] = replacementModelPath + "bshift/scientist.mdl";
-		bshift_force_replace["models/hlclassic/barney.mdl"] = replacementModelPath + "bshift/barney.mdl";
-		bshift_force_replace["models/hlclassic/houndeye.mdl"] = replacementModelPath + "bshift/houndeye.mdl";
-		bshift_force_replace["models/bshift/barney.mdl"] = replacementModelPath + "bshift/barney.mdl";
-		bshift_force_replace["models/bshift/gordon_scientist.mdl"] = replacementModelPath + "bshift/gordon_scientist.mdl";
-		bshift_force_replace["models/hlclassic/hgrunt.mdl"] = replacementModelPath + "bshift/hgrunt.mdl";
-		bshift_force_replace["models/bshift/hgrunt.mdl"] = replacementModelPath + "bshift/hgrunt.mdl";
-		bshift_force_replace["models/bshift/scientist_cower.mdl"] = replacementModelPath + "bshift/scientist_cower.mdl";
-		bshift_force_replace["models/bshift/civ_coat_scientist.mdl"] = replacementModelPath + "bshift/civ_coat_scientist.mdl";
-		bshift_force_replace["models/bshift/civ_paper_scientist.mdl"] = replacementModelPath + "bshift/civ_paper_scientist.mdl";
-		bshift_force_replace["models/bshift/console_civ_scientist.mdl"] = replacementModelPath + "bshift/console_civ_scientist.mdl";
-		bshift_force_replace["models/bshift/civ_scientist.mdl"] = replacementModelPath + "bshift/civ_scientist.mdl";
-		bshift_force_replace["models/bshift/wrangler.mdl"] = replacementModelPath + "bshift/wrangler.mdl";
-		bshift_force_replace["models/hlclassic/zombie.mdl"] = replacementModelPath + "bshift/zombie.mdl";
-		bshift_force_replace["models/hlclassic/gman.mdl"] = "models/hlclassic/gman.mdl";
+		//bshift_force_replace["models/hlclassic/scientist.mdl"] = replacementModelPath + "bshift/scientist.mdl";
+		//bshift_force_replace["models/bshift/scientist.mdl"] = replacementModelPath + "bshift/scientist.mdl";
+		//bshift_force_replace["models/hlclassic/barney.mdl"] = replacementModelPath + "bshift/barney.mdl";
+		//bshift_force_replace["models/hlclassic/houndeye.mdl"] = replacementModelPath + "bshift/houndeye.mdl";
+		//bshift_force_replace["models/bshift/barney.mdl"] = replacementModelPath + "bshift/barney.mdl";
+		//bshift_force_replace["models/bshift/gordon_scientist.mdl"] = replacementModelPath + "bshift/gordon_scientist.mdl";
+		//bshift_force_replace["models/hlclassic/hgrunt.mdl"] = replacementModelPath + "bshift/hgrunt.mdl";
+		//bshift_force_replace["models/bshift/hgrunt.mdl"] = replacementModelPath + "bshift/hgrunt.mdl";
+		//bshift_force_replace["models/bshift/scientist_cower.mdl"] = replacementModelPath + "bshift/scientist_cower.mdl";
+		//bshift_force_replace["models/bshift/civ_coat_scientist.mdl"] = replacementModelPath + "bshift/civ_coat_scientist.mdl";
+		//bshift_force_replace["models/bshift/civ_paper_scientist.mdl"] = replacementModelPath + "bshift/civ_paper_scientist.mdl";
+		//bshift_force_replace["models/bshift/console_civ_scientist.mdl"] = replacementModelPath + "bshift/console_civ_scientist.mdl";
+		//bshift_force_replace["models/bshift/civ_scientist.mdl"] = replacementModelPath + "bshift/civ_scientist.mdl";
+		//bshift_force_replace["models/bshift/wrangler.mdl"] = replacementModelPath + "bshift/wrangler.mdl";
+		//bshift_force_replace["models/hlclassic/zombie.mdl"] = replacementModelPath + "bshift/zombie.mdl";
+		//bshift_force_replace["models/hlclassic/gman.mdl"] = replacementModelPath + "bshift/gman.mdl";
+		 //bshift_force_replace["models/hlclassic/gman.mdl"] = "models/hlclassic/gman.mdl";
 		
 		classicFriendlies["monster_barney"] = replacementModelPath + "barnabus.mdl";
 		classicFriendlies["monster_barney_dead"] = replacementModelPath + "barnabus.mdl";
