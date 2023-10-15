@@ -32,12 +32,12 @@ namespace PCP_Think
             if(pPlayer is null || !pPlayer.IsConnected())
                 continue;
 
-            PCP_MISC::SpawnCountHUDText(pPlayer);
+            //PCP_MISC::SpawnCountHUDText(pPlayer);
 
             if(!pPlayer.GetObserver().IsObserver() || PCP_MISC::GetCKV(pPlayer, '$i_pcp_spawns') <= 0)
                 continue;
 
-            g_PlayerFuncs.PrintKeyBindingString(pPlayer, 'Press +ALT1 to spawn');
+            g_PlayerFuncs.PrintKeyBindingString(pPlayer, 'Presiona +ALT1 para revivir');
 
             if((pPlayer.m_afButtonReleased & (IN_ALT1)) != 0)
             {		

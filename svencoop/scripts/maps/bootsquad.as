@@ -7,11 +7,8 @@
 #include "HLSP_hl/custom/point_checkpoint"
 #include "HLSP_hl/trigger_suitcheck"
 
-#include "beast/trigger_playerfreeze"
-
 #include "HLSP_opfor/vision_nocturna/nvision"
 #include "HLSP_opfor/armas/armas_orig_opfor"
-#include "HLSP_opfor/armas/armas_reemplazo"
 
 #include "HLSP_opfor/classic_mode/HLSPClassicMode"
 #include "HLSP_opfor/armas/weapon_hlpython"
@@ -19,15 +16,18 @@
 #include "HLSP_opfor/armas/weapon_ofm249"
 #include "HLSP_opfor/armas/weapon_ofsniperrifle"
 
+#include "beast/trigger_playerfreeze"
+
 void MapInit()
 {
 	// Enable SC CheckPoint Support for Survival Mode
 	RegisterPointCheckPointEntity();
 	RegisterTriggerSuitcheckEntity();
 
+	RegisterTriggerPlayerFreezeEntity();
+
 	// Register original Opposing Force knife weapon
 	//RegisterKnife();
-	RegisterTriggerPlayerFreezeEntity();
 	// CPenguin::Register();
 	// CShockRifle::Register();
 

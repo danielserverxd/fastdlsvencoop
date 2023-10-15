@@ -76,11 +76,3 @@ sound/hlescape/hlescapesentences.txt
 
 sprites/hlescape/bazookapuff.spr
 sprites/hlescape/fog5.spr
-
-#server
-models/valve/hd/p_9mmar.mdl
-models/valve/hd/p_shotgun.mdl
-models/valve/hd/w_9mmar.mdl
-models/valve/hd/w_shotgun.mdl
-models/valve/hd/shell.mdl
-models/valve/hd/shotgunshell.mdl

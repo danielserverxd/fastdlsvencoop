@@ -38,7 +38,7 @@
 #"models/p_9mmar.mdl"				"models/not_precached.mdl"
 #"models/p_9mmhandgun.mdl"			"models/valve/hd/p_9mmhandgun.mdl"
 #"models/p_357.mdl"				"models/valve/hd/p_357.mdl"
-#"models/p_crossbow.mdl"				"models/valve/hd/p_crossbow.mdl"
+#"models/p_crossbow.mdl"			"models/valve/hd/p_crossbow.mdl"
 #"models/p_crowbar.mdl"				"models/valve/hd/p_crowbar.mdl"
 #"models/p_egon.mdl"				"models/valve/hd/p_egon.mdl"
 #"models/p_gauss.mdl"				"models/valve/hd/p_gauss.mdl"

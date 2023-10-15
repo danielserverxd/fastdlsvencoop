@@ -17,7 +17,8 @@ array<ItemMapping@> g_ItemMappings =
   ItemMapping('weapon_m249', CM249::GetName()),
   ItemMapping('weapon_saw', CM249::GetName()),
   ItemMapping('weapon_shockrifle', CShockRifle::GetName()),
-  ItemMapping('ammo_556', 'weapon_9mmbox')
+  ItemMapping('ammo_556', 'ammo_9mmbox'),
+  ItemMapping('ammo_556clip', 'ammo_9mmAR')
 };
 
 

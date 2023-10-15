@@ -50,6 +50,9 @@ models/autonomy_lost/v_crowbar.mdl
 models/autonomy_lost/v_grenade.mdl
 models/autonomy_lost/v_shotgun.mdl
 
+models/valve/sd/saw_shell.mdl
+models/valve/sd/shell.mdl
+
 sprites/hl_weapons/weapon_hlpython.txt
 sprites/hl_weapons/weapon_ofeagle.txt
 sprites/hl_weapons/weapon_ofm249.txt

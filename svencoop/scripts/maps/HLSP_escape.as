@@ -8,7 +8,6 @@
 #include "HLSP_hl/trigger_suitcheck"
 
 #include "HLSP_escape/classic_mode/armas_orig_hl_hd"
-#include "HLSP_escape/classic_mode/armas_reemplazo"
 
 void MapInit()
 {
@@ -18,6 +17,7 @@ void MapInit()
 	// Enable Classic Weapons
 	RegisterHDClassicWeapons();
 	g_ClassicMode.SetItemMappings(@g_HDClassicWeapons);
+	g_ClassicMode.ForceItemRemap(true); // Always replace
 
 	// Global Cvars
 	g_EngineFuncs.CVarSetFloat( "mp_hevsuit_voice", 0 );

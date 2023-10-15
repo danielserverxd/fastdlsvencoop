@@ -31,7 +31,7 @@ class weapon_hlmp5 : ScriptBasePlayerWeaponEntity
 	void Spawn()
 	{
 		Precache();
-		g_EntityFuncs.SetModel( self, "models/valve/hd/w_9mmAR.mdl" );
+		g_EntityFuncs.SetModel( self, "models/hl/w_9mmAR.mdl" );
 
 		self.m_iDefaultAmmo = MP5_DEFAULT_GIVE;
 
@@ -43,14 +43,14 @@ class weapon_hlmp5 : ScriptBasePlayerWeaponEntity
 	{
 		self.PrecacheCustomModels();
 		g_Game.PrecacheModel( "models/hlescape/weapons/v_9mmAR.mdl" );
-		g_Game.PrecacheModel( "models/valve/hd/w_9mmAR.mdl" );
-		g_Game.PrecacheModel( "models/valve/hd/p_9mmAR.mdl" );
+		g_Game.PrecacheModel( "models/hl/w_9mmAR.mdl" );
+		g_Game.PrecacheModel( "models/hl/p_9mmAR.mdl" );
 
-		m_iShell = g_Game.PrecacheModel( "models/valve/hd/shell.mdl" );
+		m_iShell = g_Game.PrecacheModel( "models/shell.mdl" );
 
 		g_Game.PrecacheModel( "models/grenade.mdl" );
 
-		g_Game.PrecacheModel( "models/valve/hd/w_9mmARclip.mdl" );
+		g_Game.PrecacheModel( "models/w_9mmARclip.mdl" );
 		g_SoundSystem.PrecacheSound( "items/9mmclip1.wav" );              
 
 		//These are played by the model, needs changing there
@@ -109,7 +109,7 @@ class weapon_hlmp5 : ScriptBasePlayerWeaponEntity
 
 	bool Deploy()
 	{
-		return self.DefaultDeploy( self.GetV_Model( "models/hlescape/weapons/v_9mmAR.mdl" ), self.GetP_Model( "models/valve/hd/p_9mmAR.mdl" ), MP5_DEPLOY, "mp5" );
+		return self.DefaultDeploy( self.GetV_Model( "models/hlescape/weapons/v_9mmAR.mdl" ), self.GetP_Model( "models/hl/p_9mmAR.mdl" ), MP5_DEPLOY, "mp5" );
 	}
 	
 	float WeaponTimeBase()

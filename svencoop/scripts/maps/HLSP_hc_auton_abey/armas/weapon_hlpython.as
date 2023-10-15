@@ -44,7 +44,7 @@ class weapon_hlpython : ScriptBasePlayerWeaponEntity, WeaponUtils
   void Spawn()
   {
     Precache();
-    g_EntityFuncs.SetModel(self, self.GetW_Model('models/valve/sd/w_357.mdl'));
+    g_EntityFuncs.SetModel(self, self.GetW_Model('models/hlclassic/w_357.mdl'));
     self.m_iDefaultAmmo = DEFAULT_GIVE;
     self.FallInit();
   }
@@ -53,8 +53,8 @@ class weapon_hlpython : ScriptBasePlayerWeaponEntity, WeaponUtils
   {
     self.PrecacheCustomModels();
     g_Game.PrecacheModel('models/autonomy_lost/v_357.mdl');
-    g_Game.PrecacheModel('models/valve/sd/w_357.mdl');
-    g_Game.PrecacheModel('models/valve/sd/p_357.mdl');
+    g_Game.PrecacheModel('models/hlclassic/w_357.mdl');
+    g_Game.PrecacheModel('models/hlclassic/p_357.mdl');
 
     g_SoundSystem.PrecacheSound('hlclassic/weapons/357_reload1.wav'); // default viewmodel; sequence: 3; frame: 70; event 5004
     g_SoundSystem.PrecacheSound('hlclassic/weapons/357_cock1.wav');
@@ -114,7 +114,7 @@ class weapon_hlpython : ScriptBasePlayerWeaponEntity, WeaponUtils
       pev.body = 0;
     }
 
-    bool bResult = self.DefaultDeploy(self.GetV_Model('models/autonomy_lost/v_357.mdl'), self.GetP_Model('models/valve/sd/p_357.mdl'), DRAW, 'python', 0, pev.body);
+    bool bResult = self.DefaultDeploy(self.GetV_Model('models/autonomy_lost/v_357.mdl'), self.GetP_Model('models/hlclassic/p_357.mdl'), DRAW, 'python', 0, pev.body);
     self.m_flTimeWeaponIdle = WeaponTimeBase() + 1.0;
     return bResult;
   }

@@ -65,29 +65,37 @@ namespace PCP_MISC
             pEquipEntity.Use(pPlayer, pEntity, USE_TOGGLE);
     }
 
-    void SpawnCountHUDText(CBasePlayer@ pPlayer)
-    {
-        HUDTextParams SpawnCountHudText;
-
-        SpawnCountHudText.x = 0.05;
-        SpawnCountHudText.y = 0.05;
-        SpawnCountHudText.effect = 0;
-        SpawnCountHudText.r1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.r : RGBA_RED.r;
-        SpawnCountHudText.g1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.g : RGBA_RED.g;
-        SpawnCountHudText.b1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.b : RGBA_RED.b;
-        SpawnCountHudText.a1 = 0;
-        SpawnCountHudText.r2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.r : RGBA_RED.r;
-        SpawnCountHudText.g2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.g : RGBA_RED.g;
-        SpawnCountHudText.b2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.b : RGBA_RED.b;
-        SpawnCountHudText.a2 = 0;
-        SpawnCountHudText.fadeinTime = 0; 
-        SpawnCountHudText.fadeoutTime = 0;
-        SpawnCountHudText.holdTime = 0.5;
-        SpawnCountHudText.fxTime = 0;
-        SpawnCountHudText.channel = 0;
-
-        g_PlayerFuncs.HudMessage(pPlayer, SpawnCountHudText, 'Spawns: ' + GetCKV(pPlayer,'$i_pcp_spawns'));
-    }
+   // void SpawnCountHUDText(CBasePlayer@ pPlayer)
+    //{
+      //  HUDTextParams SpawnCountHudText;
+//
+        //SpawnCountHudText.x = 0.05;
+        //SpawnCountHudText.y = 0.05;
+      //  SpawnCountHudText.x = 0.50;
+      //  SpawnCountHudText.y = 0.15;
+      //  SpawnCountHudText.effect = 0;
+        //SpawnCountHudText.r1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.r : RGBA_RED.r;
+        //SpawnCountHudText.g1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.g : RGBA_RED.g;
+        //SpawnCountHudText.b1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.b : RGBA_RED.b;
+      //  SpawnCountHudText.r1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.r : RGBA_RED.r;
+      //  SpawnCountHudText.g1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.g : RGBA_RED.g;
+      //  SpawnCountHudText.b1 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.b : RGBA_RED.b;
+      //  SpawnCountHudText.a1 = 0;
+        //SpawnCountHudText.r2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.r : RGBA_RED.r;
+        //SpawnCountHudText.g2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.g : RGBA_RED.g;
+        //SpawnCountHudText.b2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.b : RGBA_RED.b;
+     //   SpawnCountHudText.r2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.r : RGBA_RED.r;
+      //  SpawnCountHudText.g2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.g : RGBA_RED.g;
+     //   SpawnCountHudText.b2 = (GetCKV(pPlayer,'$i_pcp_spawns') > 0) ? RGBA_SVENCOOP.b : RGBA_RED.b;
+     //   SpawnCountHudText.a2 = 0;
+     //   SpawnCountHudText.fadeinTime = 0; 
+    //    SpawnCountHudText.fadeoutTime = 0;
+    //    SpawnCountHudText.holdTime = 0.5;
+    //   SpawnCountHudText.fxTime = 0;
+    //    SpawnCountHudText.channel = 0;
+//
+    //    g_PlayerFuncs.HudMessage(pPlayer, SpawnCountHudText, 'Vidas: ' + GetCKV(pPlayer,'$i_pcp_spawns'));
+    //}
 
     void CreatePlayerSpawnEffect(Vector pos)
     {

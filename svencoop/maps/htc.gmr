@@ -1,8 +1,8 @@
+"models/hgrunt_opforf.mdl"                  "models/hgrunt_opfor.mdl"
+"models/hgrunt_medicf.mdl"                  "models/hgrunt_medic.mdl"
+"models/hgrunt_torchf.mdl"                  "models/hgrunt_torch.mdl"
+"models/hgruntf.mdl"                        "models/hgrunt.mdl"
 "models/w_suit.mdl"                         "models/suit2.mdl"
-"models/hgrunt_opforf.mdl" "models/hgrunt_opfor.mdl"
-"models/hgrunt_medicf.mdl" "models/hgrunt_medic.mdl"
-"models/hgrunt_torchf.mdl" "models/hgrunt_torch.mdl"
-"models/hgruntf.mdl" "models/hgrunt.mdl"
 
 "models/v_9mmar.mdl"                        "models/cso_female_hands/black_glove/v_9mmar.mdl"
 "models/v_9mmhandgun.mdl"                   "models/cso_female_hands/black_glove/v_9mmhandgun.mdl"

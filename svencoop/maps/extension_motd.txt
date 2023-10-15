@@ -1,14 +1,14 @@
 Surface Ex-Tension
 =========
 
-TIME: Lambda Incident + 12 hours
+TIEMPO: Incidente Lambda + 12 horas
 
-In a bid to escape the Black Mesa Research Facility and counter the alien threat, former co-workers of the Facility must work together if they want to stay alive. Survival is only an option to those prepared to put aside their differences and fight as one.
+En un intento por escapar del Centro de Investigacion Black Mesa y contrarrestar la amenaza alienigena, los antiguos companieros de trabajo del Centro deben trabajar juntos si quieren seguir con vida. La supervivencia es solo una opcion para aquellos que estan dispuestos a dejar de lado sus diferencias y luchar como uno solo.
 
-As a team of Security Workers and science personnel, you have so far managed to escape the lower lab levels of the facility and have reached the surface, unfortunately, so have the military forces sent in to clean up the area. Your goal is to navigate the various topside complexes and make your way to the underground Rail system leading to the Lambda reactor complex, where you should be able to find shelter.
+Como equipo de trabajadores de seguridad y personal cientifico, hasta ahora habeis logrado escapar de los niveles inferiores del laboratorio de las instalaciones y, lamentablemente, habeis llegado a la superficie, al igual que las fuerzas militares enviadas para limpiar el area. Tu objetivo es navegar por los distintos complejos de la superficie y llegar al sistema ferroviario subterraneo que conduce al complejo del reactor Lambda, donde deberias poder encontrar refugio.
 
-Resistance is high, so be on the lookout for Aliens, Soldiers and the rumoured Black  Operatives that are said to be patrolling these areas.
+La resistencia es alta, asi que este atento a los extraterrestres, los soldados y los rumoreados agentes negros que se dice que patrullan estas areas.
 
 =========
-Map by DAN200
+Mapa creado por DAN200
 DAN200__@Hotmail.com

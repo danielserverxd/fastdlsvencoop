@@ -1,28 +1,12 @@
-Funny Apple Hunt - created by Hedgy ( Aristocratic Hedgehog )
+Funny Apple Hunt - creado por Hedgy ( Aristocratic Hedgehog )
 ================================================================
 
-Description:
-Map features Hedgy's Wonderland with quite a few areas from Bright River
-to Gloomy Cave. Main goal of this map is to collect 30 apples scattered around
-the map and after this [deleted][deleted][deleted]
+Descripcion:
+El mapa presenta Hedgy's Wonderland con bastantes areas de Bright River y
+una cueva sombria. El objetivo principal de este mapa es recolectar 30 manzanas esparcidas por todo
+el mapa y despues de esto [eliminado][eliminado][eliminado]
 
-Story:
-Greetings! It's me, Hedgy! I got an easy task for you. Could you please help
-me to collect some apples for an apple pie? Because if you do we'll have an
-amazing feast afterwards! 
-
-Ambient:
-Pix - No Worries 
-Aural Holograms - The Day Of Opening The Tomb
-
-Other music: 
-Ridiculon - Matricide
-
-Helpers: 
-SV_BOY
-
-Testers:
-SpecialFox, SV_BOY, SaharokUA, MoxxieMad, FoxPlays
-
-Tree sprites:
-https://opengameart.org/content/pixel-art-simple-trees
+Historia:
+Saludos! Soy yo, Hedgy! Tengo una tarea facil para ti. Podrias ayudarme por favor
+a recoger algunas manzanas para una tarta de manzana? Porque si lo haces tendremos una
+fiesta increible despues!

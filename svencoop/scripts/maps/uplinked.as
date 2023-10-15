@@ -20,17 +20,12 @@ const string strUplinkedLevel = "hl_u12", strDefaultLevel = "hl_c12";
 #include "HLSP_hl/trigger_suitcheck"
 
 #include "HLSP_hl/armas/armas_orig_hl"
-#include "HLSP_hl/armas/armas_reemplazo"
 
 #include "HLSP_hl/classic_mode/HLSPClassicMode"
 #include "HLSP_hl/armas/weapon_hlpython"
 #include "HLSP_hl/armas/weapon_ofeagle"
 #include "HLSP_hl/armas/weapon_ofm249"
 #include "HLSP_hl/armas/weapon_ofsniperrifle"
-
-//#include "HLSP_hl/armas/weapon_ofshockrifle"
-//#include "HLSP_hl/armas/weapon_hlmp5"
-//#include "HLSP_hl/armas/weapon_hlshotgun"
 
 void MapInit()
 {

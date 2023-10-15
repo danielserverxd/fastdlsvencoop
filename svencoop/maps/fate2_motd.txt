@@ -1,0 +1,173 @@
+Version 1.0 release date: 7th of June 2010
+Version 1.1 release date: 5th of September 2010
+
+Fate Reversal - Half-Life single-player mod: http://www.moddb.com/mods/fate-reversal
+-----------------------------------------------------------------------------------------
+
+Title                   : Fate Reversal
+                          
+Release Date            : 7th of June 2010
+                          5th of September 2010 (version 1.1)
+
+Author                  : Mikko Sandt
+Misc. Author Info       : 25 years old, student of economics, lives in Finland.
+
+Conversion Author	: Zorik
+
+Email Address           : mikko.sandt@gmail.com
+Web Page                : http://msdn.duke4.net
+Other levels            : Tons of levels for Duke Nukem 3D (see my site, URL above),
+                          one level for Unreal Tournament (MSUT1), two for Q3A 
+                          (MSTourney1 & Lifeline), one level for Quake (Distractions)
+                          and a small Counter-Strike map (aim_mesayard).  
+
+Description             : A ten-level single-player mod for Half-Life. 
+
+Plot                    : From my ModDB page: "What if Freeman weren't held in stasis during 
+                          the portal storm that ravaged the Earth and caught the attention 
+                          of the Combine? What if Freeman had a chance to prevent the Combine 
+                          invasion from ever materializing? What if Freeman could reverse 
+                          mankind's fate?"
+
+Info:                   : I always look forward to finally getting to this point where
+                          I can write the txt. Usually this means one or two hours
+                          before your work is released to the public. However, like 
+                          always, the uppermost feeling you have is frustration because
+                          you have just spent weeks trying to fix bugs and improve 
+                          gameplay. And, like always, the finished product is not 
+                          everything you wanted it to be. However, these feelings tend
+                          to be transitory. Let a few days, weeks or months pass and
+                          the good times are all you remember although there never were
+                          any.
+
+                          As a long-time fan of Half-Life single-player mods, I had always 
+                          wanted to make my own mod. Work on Fate Reversal began in December 
+                          2007. The first map was a crude version of what is now
+                          the fifth map (the night-time city). After just one month
+                          I stopped working for about a year. In 2009 work on levels 1, 2, 3
+                          (which was based on my Counter-Strike map), 4 and 7 began.
+                          By May 2009 I had gone on another long break. I always knew that
+                          this mod would see the light of day. While most people are poor 
+                          at finishing the projects they start, I'm poor at abandoning 
+                          projects. They're just too much work to be let go to waste. Work
+                          resumed in January 2010 and I started working on levels 6, 8, 9 and 
+                          10. The project went public in May. I swore that I'd have this 
+                          thing done by the end of May/beginning of June. Otherwise my head 
+                          would explode.
+
+                          So, I've been in a "crunch" mode for the past few weeks, anxiously 
+                          waiting for the day of my liberation which is today, the seventh of
+                          June. Of course I could have kept on going, fixing bugs and improving
+                          both design and gameplay but there's a point beyond which the benefits
+                          of marginal improvements are simply not worth the trouble. In a world
+                          of finite resources the time you spend on trying to get some stupid
+                          multi_manager sequence just right is inevitably gone from some other, 
+                          quite likely a billion times more productive activity.
+
+                          Anyways. Now it's finally done and I'm free to pursue other
+                          interests, which probably means starting another mapping project
+                          in a few months. And so I'm off to watch some hockey.
+                         
+                                                  
+Additional Credits to   : First of all, thanks to my beta-testers: Ben Greenwood (also 
+                          helped me with getting Osprey to trigger something; check his 
+                          mod "Operation Nova"), Stephane "Stef" Meganck (http://spmapcorner.blogspot.com/) 
+                          & Luciano "Gambini" Gallo (http://gambinidesign.blogspot.com/). 
+                           
+                          HL mods such as Timeline 2 & 3, Sweet Half-Life, Life's
+                          End, They Hunger and Someplace else served as primary sources
+                          of inspiration. Also, Stephen King's "The Stand" influenced
+                          the opening. David Kushner's "Masters of Doom", which tells
+                          the story of John Carmack & John Romero, was a motivational
+                          boost. The Gate Duke3D TC inspired me to make a space-themed
+                          level.
+
+                          TWHL, Snarkpit & Chatbear provided tons of userful tutorials. 
+			  The Wavelength.net had a useful list of HL entities. 
+
+                          Textures, skyboxes and models are mostly from fpsbanana and 
+                          Wadfather (no longer running). I'd credit the authors of 
+                          these materials directly if that were possible. Some textures
+                          are from Counter-Strike, Hour-Glass & Dalek: Unbidden. Qwertyus 
+                          provided the statue of Gordon Freeman. Some computer screens
+                          are from cs_twhl by Rimrook. Sounds I found from internet sound
+                          libraries such as PacDV and shockwave-sound.com. The street sound
+                          in level 4 was used in a Duke3D map by Sanek & Zykov Eddy.
+                          
+                          Prefabs by Lucifucum (Bus Stop), Gtwalq, Marcus M, ComaWhite,
+ 			  Yak_Fighter, Freddy Kruger, Adam Grebinsky [ShadowByte], Brian 
+ 			  Wheeler, Robert and many others whose names were not available.
+
+                          Websites such as tenfourmaps, ModDB and planetphillip are worth a
+                          mention thanks to their attempts to keep the single-player 
+                          mapping scene alive (not to mention that it was through 
+                          tenfourmaps that I really got into the whole HL single-player
+                          mod gaming).
+
+                          Also thanks to the Duke3D Community, as always, and Iikka Ker�nen
+                          & George W. Bernard for their great Quake/Duke3D maps that got me
+                          into mapping and taught me a lot.
+
+                          Version 1.1 update: Thanks to people at Planetphillip, moddb, 
+                          AMC forums and the Abandoned Workshops for feedback. Thanks also
+                          to anyone who might have posted this mod online and thus helped
+                          distribute it.
+
+                          "To the people I forgot, you weren't on my mind for some reason 
+                           and you probably don't deserve any thanks anyway." -Eminem 
+
+-----------------------------------------------------------------------------------------
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : No 
+New Sounds              : Yes
+New Textures            : Plenty
+New Models              : A few
+
+* Construction *
+
+Base                    : From scratch, except level 3 which is based on my aim_mesayard
+                          Counter-Strike map
+
+Editor used             : Worldcraft 3.3
+Other tools             : Wally, Gimp, Irfanview, PakScape, GoldWave, Zoner's Half-Life Tools
+
+Compile Machine         : Intel Core 2 Duo E4400, 2GHZ, GeForce 8600GT
+Compile Time            : From a few minutes (the first map) to more than an hour (the
+                          fourth and fifth maps)
+                          
+Known Bugs/Problems     : Several misaligned textures. You may get stuck between
+                          level transitions if you don't enter transition sectors
+                          "smoothly". In case this happens, use "noclip" to pass
+                          through walls or load a previous game and position yourself
+                          better (=stay away from walls) while entering the transition 
+                          sector.
+
+Construction Time       : Work began in December 2007 but 95% of all the work was done
+                          during the first quarter of 2009 and the first two quarters of
+                          2010.
+
+How to Install          : Place the mod folder ("fate") in your Half-Life directory
+                          (Steam or non-Steam). In case your Steam was running while you
+                          installed the mod, you need to restart it. Then choose the mod
+                          from the library menu. If you're not using Steam, simply launch
+                          Half-Life, go to "Custom Game" menu and activate Fate Reversal.
+
+
+-----------------------------------------------------------------------------------------
+
+* Copyright / Permissions *
+
+Copyright (c) 2010 Mikko Sandt
+
+Half-Life is a registered trademark of Valve.
+
+You're free to distribute Fate Reversal. However, do not alter or remove any of the files
+in the zip. My name must always be attached to Fate Reversal which means always distributing
+the mod with this txt included. If you want to make money with Fate Reversal, you're free to 
+do so provided the aforementioned conditions are met, but I cannot speak for those who provided
+material for this mod.
+

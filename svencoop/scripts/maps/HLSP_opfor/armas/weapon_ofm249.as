@@ -115,7 +115,7 @@ class weapon_ofm249 : ScriptBasePlayerWeaponEntity, WeaponUtils
 
   bool Deploy()
   {
-    bool bResult = self.DefaultDeploy(self.GetV_Model('models/opfor/sd/v_saw.mdl'), self.GetP_Model('models/opfor/sd/p_saw.mdl'), DRAW, 'saw', 0, pev.body);
+    bool bResult = self.DefaultDeploy(self.GetV_Model('models/opfor/sd/v_saw.mdl'), self.GetP_Model('models/valve/sd/p_saw.mdl'), DRAW, 'saw', 0, pev.body);
     self.m_flTimeWeaponIdle = WeaponTimeBase() + 1.0;
     return bResult;
   }

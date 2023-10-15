@@ -1,0 +1,28 @@
+<--------------------------------->
+ (---->-BACK WHISPERS-<----)
+<--------------------------------->
+
+
+Objetivos:
+-Detener el satelite de comunicacion.
+-Regresar al punto de extraccion.
+
+Terminado:
+-Destruir toda la artilleria enemiga.
+
+Buena suerte soldado
+
+---------------------------------------------------
+
+Mapa creado por HitoshiiAFK
+Version: 2.2
+
+---------------------------------------------------
+Agradecimientos especiales a:
+Leon S. Kennedy (Porteador de Algunos Modelos)
+Gonz_46 (Voz de Sargento)
+Sare (Beta tester)
+Veluchi (Beta tester)
+
+Agradecimiento adicional a:
+Cadaver

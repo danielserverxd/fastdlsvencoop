@@ -34,6 +34,8 @@
 
 #Clasic Mode only weapons
 "models/hlclassic/w_suit.mdl" "models/suit2.mdl"
+"models/hlclassic/hgrunt.mdl" "models/hgrunt.mdl"
+"models/hlclassic/barney.mdl" "models/barney.mdl"
 
 "models/hlclassic/v_9mmar.mdl" "models/opfor/sd/v_9mmar.mdl"
 "models/hlclassic/v_9mmhandgun.mdl" "models/opfor/sd/v_9mmhandgun.mdl"

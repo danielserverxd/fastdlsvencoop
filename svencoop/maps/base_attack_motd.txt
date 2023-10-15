@@ -1,0 +1,16 @@
+BASE ATTACK
+==========
+Creado por DAVLevels
+
+Mision:
+-Eres un agente de Black Ops encargado de infiltrarte en una instalacion de investigacion militar ultrasecreta ubicada en algun lugar del Area 69.
+La base esta bajo vigilancia las 24 horas y cuenta con guardias armados, torretas automatizadas y fuerzas militares HECU.
+
+Tu tarea es romper las defensas y luego sabotear el deposito de refrigerante del generador principal y esperar la extraccion.
+Se deben terminar todas las fuerzas HECU. No dejes testigos con vida.
+DISPARAR A MATAR.
+
+
+  -Creditos
+   Autor del mapa: David "DAVLevels" Cintrao
+   Conversion para Sven Co-op: Outerbeast

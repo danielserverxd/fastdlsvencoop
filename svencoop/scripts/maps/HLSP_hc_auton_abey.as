@@ -2,6 +2,8 @@
 * This script implements HLSP survival mode
 */
 
+#include "HLSP_hc_auton_abey/beast/changesolid_zone"
+
 //#include "HLSP_hl/point_checkpoint"
 
 #include "HLSP_hl/custom/point_checkpoint"
@@ -9,15 +11,13 @@
 
 #include "HLSP_hc_auton_abey/anti_rush"
 #include "HLSP_opfor/vision_nocturna/nvision"
+
 #include "HLSP_hc_auton_abey/armas/armas_orig_opfor"
-#include "HLSP_hc_auton_abey/armas/armas_reemplazo"
 
 #include "HLSP_hc_auton_abey/classic_mode/HLSPClassicMode"
 #include "HLSP_hc_auton_abey/armas/weapon_hlpython"
 #include "HLSP_hc_auton_abey/armas/weapon_ofeagle"
 #include "HLSP_hc_auton_abey/armas/weapon_ofm249"
-
-#include "HLSP_hc_auton_abey/beast/changesolid_zone"
 
 bool IsMultiplayer = false;
 

@@ -8,17 +8,12 @@
 #include "HLSP_hl/trigger_suitcheck"
 
 #include "HLSP_hl/armas/armas_orig_hl"
-#include "HLSP_hl/armas/armas_reemplazo"
 
 #include "HLSP_hl/classic_mode/HLSPClassicMode"
 #include "HLSP_hl/armas/weapon_hlpython"
 #include "HLSP_hl/armas/weapon_ofeagle"
 #include "HLSP_hl/armas/weapon_ofm249"
 #include "HLSP_hl/armas/weapon_ofsniperrifle"
-
-//#include "HLSP_hl/armas/weapon_ofshockrifle"
-//#include "HLSP_hl/armas/weapon_hlmp5"
-//#include "HLSP_hl/armas/weapon_hlshotgun"
 
 void MapInit()
 {
@@ -35,10 +30,6 @@ void MapInit()
 	// Register original MP5 and SHOTGUN and Shock Rifle
 	RegisterHLClassicWeapons();
 	g_ClassicMode.SetItemMappings(@g_HLClassicWeapons);
-
-	//CShockRifle::Register();
-	//RegisterHLMP5();
-	//RegisterHLShotgun();
 
 	// Global Cvars
 	g_EngineFuncs.CVarSetFloat( "mp_hevsuit_voice", 1 );

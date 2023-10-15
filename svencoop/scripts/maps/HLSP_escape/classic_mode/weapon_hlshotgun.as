@@ -41,7 +41,7 @@ class weapon_hlshotgun : ScriptBasePlayerWeaponEntity
 	void Spawn()
 	{
 		Precache();
-		g_EntityFuncs.SetModel( self, "models/valve/hd/w_shotgun.mdl" );
+		g_EntityFuncs.SetModel( self, "models/hl/w_shotgun.mdl" );
 		
 		self.m_iDefaultAmmo = SHOTGUN_DEFAULT_AMMO;
 
@@ -52,10 +52,10 @@ class weapon_hlshotgun : ScriptBasePlayerWeaponEntity
 	{
 		self.PrecacheCustomModels();
 		g_Game.PrecacheModel( "models/hlescape/weapons/v_shotgun.mdl" );
-		g_Game.PrecacheModel( "models/valve/hd/w_shotgun.mdl" );
-		g_Game.PrecacheModel( "models/valve/hd/p_shotgun.mdl" );
+		g_Game.PrecacheModel( "models/hl/w_shotgun.mdl" );
+		g_Game.PrecacheModel( "models/hl/p_shotgun.mdl" );
 
-		m_iShell = g_Game.PrecacheModel( "models/valve/hd/shotgunshell.mdl" );// shotgun shell
+		m_iShell = g_Game.PrecacheModel( "models/shotgunshell.mdl" );// shotgun shell
 
 		g_SoundSystem.PrecacheSound( "items/9mmclip1.wav" );              
 
@@ -113,7 +113,7 @@ class weapon_hlshotgun : ScriptBasePlayerWeaponEntity
 
 	bool Deploy()
 	{
-		return self.DefaultDeploy( self.GetV_Model( "models/hlescape/weapons/v_shotgun.mdl" ), self.GetP_Model( "models/valve/hd/p_shotgun.mdl" ), SHOTGUN_DRAW, "shotgun" );
+		return self.DefaultDeploy( self.GetV_Model( "models/hlescape/weapons/v_shotgun.mdl" ), self.GetP_Model( "models/hl/p_shotgun.mdl" ), SHOTGUN_DRAW, "shotgun" );
 	}
 
 	float WeaponTimeBase()

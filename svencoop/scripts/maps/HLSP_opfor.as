@@ -9,7 +9,6 @@
 
 #include "HLSP_opfor/vision_nocturna/nvision"
 #include "HLSP_opfor/armas/armas_orig_opfor"
-#include "HLSP_opfor/armas/armas_reemplazo"
 
 #include "HLSP_opfor/classic_mode/HLSPClassicMode"
 #include "HLSP_opfor/armas/weapon_hlpython"
@@ -24,6 +23,9 @@ void MapInit()
 	RegisterPointCheckPointEntity();
 	RegisterTriggerSuitcheckEntity();
 
+	// Enable Nightvision Support
+	NightVision::Enable();
+
 	// Register original Opposing Force knife weapon and Penguin and Shock Rifle Opfor
 	// RegisterKnife();
 	// CPenguin::Register();
@@ -32,9 +34,6 @@ void MapInit()
 	// Register original Opposing Force knife and Penguin and Shock Rifle
 	RegisterOpforClassicWeapons();
 	g_ClassicMode.SetItemMappings(@g_OpforClassicWeapons);
-
-	// Enable Nightvision Support
-	NightVision::Enable();
 
 	// Enable Classic Weapons
 	CPython::Register();

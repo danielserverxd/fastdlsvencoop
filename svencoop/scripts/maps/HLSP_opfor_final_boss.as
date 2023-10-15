@@ -7,13 +7,11 @@ Notable changes:
 */
 //#include "HLSP_hl/point_checkpoint"
 
-
 #include "HLSP_hl/custom/point_checkpoint"
 #include "HLSP_hl/trigger_suitcheck"
 
 #include "HLSP_opfor/vision_nocturna/nvision"
 #include "HLSP_opfor/armas/armas_orig_opfor"
-#include "HLSP_opfor/armas/armas_reemplazo"
 
 #include "HLSP_opfor/classic_mode/HLSPClassicMode"
 #include "HLSP_opfor/armas/weapon_hlpython"

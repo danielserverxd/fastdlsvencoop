@@ -8,3 +8,8 @@ void RegisterOpforClassicWeapons()
   CPenguin::Register();
   CShockRifle::Register();
 }
+
+array<ItemMapping@> g_OpforClassicWeapons = 
+{
+  ItemMapping('weapon_shockrifle', CShockRifle::GetName())
+};

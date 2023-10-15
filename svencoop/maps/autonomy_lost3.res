@@ -85,7 +85,7 @@ sound/autonomy_lost/weapons/hks3.wav
 sound/autonomy_lost/weapons/pl_gun3.wav
 vendetta.wad
 
-#server
+// server
 models/cso_female_hands/black_glove/v_9mmar.mdl
 models/cso_female_hands/black_glove/v_9mmhandgun.mdl
 models/cso_female_hands/black_glove/v_357.mdl
@@ -115,6 +115,9 @@ models/cso_female_hands/black_glove/v_uzi.mdl
 models/abeyance/v_knife.mdl
 models/abeyance/v_desert_eagle.mdl
 models/abeyance/v_saw.mdl
+
+models/valve/sd/saw_shell.mdl
+models/valve/sd/shell.mdl
 
 sprites/hl_weapons/weapon_hlpython.txt
 sprites/hl_weapons/weapon_ofeagle.txt

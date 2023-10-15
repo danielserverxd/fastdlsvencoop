@@ -7,9 +7,9 @@ sound/misc/of2a5_rd01.wav
 sprites/wsubfog.spr
 
 //server
+//opfor + svencoop classic weapons plugins
 models/valve/sd/p_2uzis.mdl
 models/valve/sd/p_2uzis_gold.mdl
-models/valve/sd/p_357.mdl
 models/valve/sd/p_bgrap.mdl
 models/valve/sd/p_desert_eagle.mdl
 models/valve/sd/p_displacer.mdl
@@ -24,25 +24,23 @@ models/valve/sd/p_shock.mdl
 models/valve/sd/p_spore_launcher.mdl
 models/valve/sd/p_uzi.mdl
 models/valve/sd/p_uzi_gold.mdl
-models/valve/sd/saw_shell.mdl
-models/valve/sd/shell.mdl
+
 models/valve/sd/v_357.mdl
+
 models/valve/sd/v_bgrap.mdl
 models/valve/sd/v_desert_eagle.mdl
 models/valve/sd/v_displacer.mdl
 models/valve/sd/v_m16a2.mdl
 models/valve/sd/v_m40a1.mdl
-models/valve/sd/v_medkit.mdl
 models/valve/sd/v_minigun.mdl
 models/valve/sd/v_pipe_wrench.mdl
 models/valve/sd/v_saw.mdl
 models/valve/sd/v_shock.mdl
 models/valve/sd/v_spore_launcher.mdl
 models/valve/sd/v_uzi.mdl
+
 models/valve/sd/w_2uzis.mdl
 models/valve/sd/w_2uzis_gold.mdl
-models/valve/sd/w_357.mdl
-models/valve/sd/w_357t.mdl
 models/valve/sd/w_bgrap.mdl
 models/valve/sd/w_desert_eagle.mdl
 models/valve/sd/w_displacer.mdl
@@ -59,6 +57,9 @@ models/valve/sd/w_spore_launcher.mdl
 models/valve/sd/w_uzi.mdl
 models/valve/sd/w_uzi_clip.mdl
 models/valve/sd/w_uzi_gold.mdl
+
+models/valve/sd/saw_shell.mdl
+models/valve/sd/shell.mdl
 
 sprites/hl_weapons/weapon_hlpython.txt
 sprites/hl_weapons/weapon_ofeagle.txt
