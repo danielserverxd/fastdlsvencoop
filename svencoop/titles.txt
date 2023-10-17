@@ -1670,7 +1670,7 @@ $fadeout 1.3
 
 BAINTRO1
 {
-SUBJECT:
+SUJETO:
 B. Calhoun
 }
 

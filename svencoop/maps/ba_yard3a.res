@@ -110,6 +110,31 @@ gfx/env/xen9rt.tga
 gfx/env/xen9up.bmp
 gfx/env/xen9up.tga
 
+//server
+models/barneyhands/v_9mmar.mdl
+models/barneyhands/v_9mmhandgun.mdl
+models/barneyhands/v_357.mdl
+models/barneyhands/v_crossbow.mdl
+models/barneyhands/v_crowbar.mdl
+models/barneyhands/v_egon.mdl
+models/barneyhands/v_gauss.mdl
+models/barneyhands/v_grenade.mdl
+models/barneyhands/v_rpg.mdl
+models/barneyhands/v_satchel.mdl
+models/barneyhands/v_satchel_radio.mdl
+models/barneyhands/v_shotgun.mdl
+models/barneyhands/v_squeak.mdl
+models/barneyhands/v_tripmine.mdl
+models/barneyhands/v_desert_eagle.mdl
+models/barneyhands/v_displacer.mdl
+models/barneyhands/v_m16a2.mdl
+models/barneyhands/v_m40a1.mdl
+models/barneyhands/v_medkit.mdl
+models/barneyhands/v_pipe_wrench.mdl
+models/barneyhands/v_saw.mdl
+models/barneyhands/v_spore_launcher.mdl
+models/barneyhands/v_uzi.mdl
+
 models/bshift/sd/barney.mdl
 models/bshift/sd/gman.mdl
 models/bshift/sd/hgrunt.mdl
@@ -135,53 +160,24 @@ models/bshift/sd/v_squeak.mdl
 models/bshift/sd/v_tripmine.mdl
 
 //opfor + svencoop classic weapons plugins
-models/valve/sd/p_2uzis.mdl
-models/valve/sd/p_2uzis_gold.mdl
-models/valve/sd/p_bgrap.mdl
+
 models/valve/sd/p_desert_eagle.mdl
-models/valve/sd/p_displacer.mdl
-models/valve/sd/p_glock.mdl
-models/valve/sd/p_m16.mdl
 models/valve/sd/p_m40a1.mdl
-models/valve/sd/p_minigunidle.mdl
-models/valve/sd/p_minigunspin.mdl
-models/valve/sd/p_pipe_wrench.mdl
 models/valve/sd/p_saw.mdl
 models/valve/sd/p_shock.mdl
-models/valve/sd/p_spore_launcher.mdl
-models/valve/sd/p_uzi.mdl
-models/valve/sd/p_uzi_gold.mdl
 
-models/valve/sd/v_bgrap.mdl
 models/bshift/sd/v_desert_eagle.mdl
-models/bshift/sd/v_displacer.mdl
-models/bshift/sd/v_m16a2.mdl
 models/bshift/sd/v_m40a1.mdl
-models/bshift/sd/v_minigun.mdl
-models/bshift/sd/v_pipe_wrench.mdl
 models/bshift/sd/v_saw.mdl
 models/valve/sd/v_shock.mdl
-models/bshift/sd/v_spore_launcher.mdl
-models/bshift/sd/v_uzi.mdl
 
-models/valve/sd/w_2uzis.mdl
-models/valve/sd/w_2uzis_gold.mdl
-models/valve/sd/w_bgrap.mdl
 models/valve/sd/w_desert_eagle.mdl
-models/valve/sd/w_displacer.mdl
-models/valve/sd/w_m16.mdl
 models/valve/sd/w_m40a1.mdl
 models/valve/sd/w_m40a1clip.mdl
-models/valve/sd/w_minigun.mdl
-models/valve/sd/w_pipe_wrench.mdl
 models/valve/sd/w_saw.mdl
 models/valve/sd/w_saw_clip.mdl
 models/valve/sd/w_shock.mdl
 models/valve/sd/w_shock_rifle.mdl
-models/valve/sd/w_spore_launcher.mdl
-models/valve/sd/w_uzi.mdl
-models/valve/sd/w_uzi_clip.mdl
-models/valve/sd/w_uzi_gold.mdl
 
 models/valve/sd/saw_shell.mdl
 models/valve/sd/shell.mdl

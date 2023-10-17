@@ -263,6 +263,7 @@ models/blue_hevarms/sd/v_glock.mdl
 models/blue_hevarms/sd/v_grenade.mdl
 models/blue_hevarms/sd/v_m40a1.mdl
 models/blue_hevarms/sd/v_medkit.mdl
+models/blue_hevarms/sd/v_minigun.mdl
 models/blue_hevarms/sd/v_pipe_wrench.mdl
 models/blue_hevarms/sd/v_poolstick.mdl
 models/blue_hevarms/sd/v_rpg.mdl
@@ -271,6 +272,7 @@ models/blue_hevarms/sd/v_satchel_radio.mdl
 models/blue_hevarms/sd/v_saw.mdl
 models/blue_hevarms/sd/v_shotgun.mdl
 models/blue_hevarms/sd/v_spore_launcher.mdl
+models/blue_hevarms/sd/v_squeak.mdl
 models/blue_hevarms/sd/v_toad.mdl
 models/blue_hevarms/sd/v_tripmine.mdl
 models/blue_hevarms/sd/v_uzi.mdl

@@ -6,6 +6,8 @@
 
 array<ItemMapping@> g_ItemMappings = 
 {
+  ItemMapping('weapon_uzi', CEagle::GetName()),
+  ItemMapping('weapon_uziakimbo', CEagle::GetName()),
   ItemMapping('weapon_m16', 'weapon_mp5'),
   ItemMapping('weapon_357', CPython::GetName()),
   ItemMapping('weapon_python', CPython::GetName()),
@@ -13,7 +15,6 @@ array<ItemMapping@> g_ItemMappings =
   ItemMapping('weapon_sniperrifle', CSniperRifle::GetName()),
   ItemMapping('weapon_m249', CM249::GetName()),
   ItemMapping('weapon_saw', CM249::GetName()),
-  //ItemMapping('weapon_shockrifle', CShockRifle::GetName()),
   ItemMapping('ammo_556', 'ammo_9mmbox'),
   ItemMapping('ammo_556clip', 'ammo_9mmAR')
 };

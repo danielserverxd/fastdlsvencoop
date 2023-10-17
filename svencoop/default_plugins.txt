@@ -49,8 +49,22 @@
 //{
 //	"name"			"Counter-Strike 1.6 Mod"
 //	"script"		"../maps/cs16/cs16_register"
-//	"concommandns"	"cs16"
+//	"concommandns"		"cs16"
 //}
+
+//	"plugin"
+//	{
+//		"name"		"Cry of Fear"
+//		"script"	"../maps/cof/cofregister"
+//	}
+
+	"plugin"
+	{
+		"name"      	"Insurgency Mod"
+		"script"    	"../maps/ins2/ins2_register"
+		"concommandns" 	"ins2"
+	}
+
 //	"plugin"
 //	{
 //		"name" "ClassicModeDeluxe"
@@ -109,12 +123,7 @@
 //        "name" "Msg"
 //        "script" "msg"
 //   }
-	"plugin"
-	{
-		"name"      	"Insurgency Mod"
-		"script"    	"../maps/ins2/ins2_register"
-		"concommandns" 	"ins2"
-	}
+
   "plugin"
   {
     "name" "emotes"

@@ -8,8 +8,11 @@
 array<ItemMapping@> g_ItemMappings = 
 {
   //ItemMapping('weapon_m16', 'weapon_9mmAR'),
-  ItemMapping('weapon_hlmp5', 'weapon_9mmAR'),
-  ItemMapping('weapon_hlshotgun', 'weapon_shotgun'),
+  //ItemMapping('weapon_hlmp5', 'weapon_9mmAR'),
+  //ItemMapping('weapon_hlshotgun', 'weapon_shotgun'),
+  ItemMapping('weapon_uzi', CEagle::GetName()),
+  ItemMapping('weapon_uziakimbo', CEagle::GetName()),
+  ItemMapping('weapon_mp5', 'weapon_9mmAR'),
   ItemMapping('weapon_m16', 'weapon_9mmAR'),
   ItemMapping('weapon_357', CPython::GetName()),
   ItemMapping('weapon_python', CPython::GetName()),
