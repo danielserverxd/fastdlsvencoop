@@ -1,41 +1,41 @@
 // HALF-LIFE SPEECH SYSTEM SENTENCES. DO NOT MODIFY THIS FILE! Max of 1023 sentences.
 
 // HUMAN GRUNTS
-HG_GREN0 sentences/HG_GREN0
-HG_GREN1 sentences/HG_GREN1
+HG_GREN0 hgrunt/clik(p120) grenade! clik
+HG_GREN1 hgrunt/(t30) clik take!(e75) cover!(s5) clik
 
-HG_ALERT0 sentences/HG_ALERT0
-HG_ALERT1 sentences/HG_ALERT1
+HG_ALERT0 hgrunt/clik(p110) target! clik
+HG_ALERT1 hgrunt/clik movement! clik
 
-HG_MONST0 sentences/HG_MONST0
-HG_MONST1 sentences/HG_MONST1
+HG_MONST0 hgrunt/clik(p110) (t50) bogies!(t0), my! sector!(t0) clik
+HG_MONST1 hgrunt/clik(p110) (t40) clik(p120) we!(e75) got! bogies! clik
 
-HG_COVER0 sentences/HG_COVER0
-HG_COVER1 sentences/HG_COVER1
+HG_COVER0 hgrunt/clik (t30) take! cover!(t0) clik
+HG_COVER1 hgrunt/clik (t45) (e75) I!(e80) need!(e80) suppressing!(t20) fire!(t10) clik
 
-HG_THROW0 sentences/HG_THROW0
-HG_THROW1 sentences/HG_THROW1
+HG_THROW0 hgrunt/clik(p120) (t40) fire!(e90) in!(e90) the!(e60) hole!(e100) clik
+HG_THROW1 hgrunt/clik (t30) take!(e75) this!(e100 t0) clik
  
-HG_TAUNT0 sentences/HG_TAUNT0
-HG_TAUNT1 sentences/HG_TAUNT1
+HG_TAUNT0 hgrunt/clik (t30 e75) uhh, we got heavy fire here clik
+HG_TAUNT1 hgrunt/clik(p120) (t40) roger, hold position clik
 
-HG_CHARGE0 sentences/HG_CHARGE0
-HG_CHARGE1 sentences/HG_CHARGE1
+HG_CHARGE0 hgrunt/clik (t40) go! recon! clik(p120)
+HG_CHARGE1 hgrunt/clik(p110) (t40) move!(e75) in! clik
 
-HG_IDLE0 sentences/HG_IDLE0
-HG_IDLE1 sentences/HG_IDLE1
+HG_IDLE0 hgrunt/gr_idle1
+HG_IDLE1 hgrunt/gr_idle2
 
-HG_QUEST0 sentences/HG_QUEST0
-HG_QUEST1 sentences/HG_QUEST1 
+HG_QUEST0 hgrunt/clik (t25) stay(e80) alert people clik(p120)
+HG_QUEST1 hgrunt/clik (t30) radio(e75) check, over clik(p120) 
 
-HG_ANSWER0 sentences/HG_ANSWER0
-HG_ANSWER1 sentences/HG_ANSWER1
+HG_ANSWER0 hgrunt/clik(p110) (t20) uhh roger(e75) that, clik(p120) clik
+HG_ANSWER1 hgrunt/clik(p120) (t10) yessir clik
 
-HG_CLEAR0 sentences/HG_CLEAR0
-HG_CLEAR1 sentences/HG_CLEAR1
+HG_CLEAR0 hgrunt/clik(p130) (t30) all(e75) clear sir, clik
+HG_CLEAR1 hgrunt/clik (t30) bravo(e75) post, clear clik(p120)
 
-HG_CHECK0 sentences/HG_CHECK0
-HG_CHECK1 sentences/HG_CHECK1
+HG_CHECK0 hgrunt/clik (t30) ok, check(e75) in clik
+HG_CHECK1 hgrunt/clik(p110) (t30) squad, are(e80) hostiles clear clik(p120)
 
 HOLO_PIPEDUCK holo/tr_holo_pipeduck
 
@@ -54,126 +54,126 @@ C1A0_8 warning, severe damage detected in ventillation systems under research la
 
 
 // doors, general
-NA0 sentences/NA0
-NA1 sentences/NA1
-NA2 sentences/NA2
-NA3 sentences/NA3
-NA4 sentences/NA4
-NA5 sentences/NA5
-NA6 sentences/NA6
-NA7 sentences/NA7
-NA8 sentences/NA8
-NA9 sentences/NA9
-NA10 sentences/NA10
-NA11 sentences/NA11
-NA12 sentences/NA12
-NA13 sentences/NA13
-NA14 sentences/NA14
-NA15 sentences/NA15
-NA16 sentences/NA16
-NA17 sentences/NA17
-NA18 sentences/NA18
-EA0 sentences/EA0
-EA1 sentences/EA1
-EA2 sentences/EA2
-EA3 sentences/EA3
-EA4 sentences/EA4
-EA5 sentences/EA5
-EA6 sentences/EA6
-EA7 sentences/EA7
-EA8 sentences/EA8
+NA0 access denied
+NA1 access is denied
+NA2 unauthorized access
+NA3 illegal access
+NA4 this door is locked
+NA5 unauthorized access
+NA6 entry forbidden
+NA7 entry not permitted
+NA8 no unauthorized personnel
+NA9 you do not have access to this facility
+NA10 (p102) sorry, you may not enter
+NA11 (p102) sorry, this door is locked
+NA12 (p102) please, move away from this area
+NA13 (p102) please, move away from door
+NA14 (p103) you will not get in
+NA15 (p103) entry is not an option
+NA16 (p104) will we do this all day
+NA17 (p104) move on immediately
+NA18 (p105) no, no, and no(p80)
+EA0 access granted
+EA1 access permitted
+EA2 entry granted
+EA3 entry permitted
+EA4 access authorized
+EA5 entry is permitted
+EA6 access authorized
+EA7 access to facility, granted
+EA8 access granted
 
 // doors, security lockout
-ND0 sentences/ND0
-ND1 sentences/ND1
-ND2 sentences/ND2
-ND3 sentences/ND3
-ND4 sentences/ND4
-ND5 sentences/ND5
-ND6 sentences/ND6
-ND7 sentences/ND7
-ED0 sentences/ED0
-ED1 sentences/ED1
-ED2 sentences/ED2
-ED3 sentences/ED3
-ED4 sentences/ED4
-ED5 sentences/ED5
-ED6 sentences/ED6
+ND0 security lock is engaged
+ND1 secure area, no entry
+ND2 security lockout, no entry
+ND3 secure door, no entry
+ND4 security system in force
+ND5 security system armed, no entry
+ND6 door is secured
+ND7 illegal access, move away
+ED0 security lock disengaged
+ED1 security clear, proceed
+ED2 security lockout, released
+ED3 secure override accepted
+ED4 security access acknowledged
+ED5 security system disengaged
+ED6 door security disengaged
 
 // blast doors
-NF0 sentences/NF0
-NF1 sentences/NF1
-NF3 sentences/NF3
-EF0 sentences/EF0
-EF1 sentences/EF1
-EF3 sentences/EF3
+NF0 emergency blast door activated
+NF1 emergency blast shield activated
+NF3 the blast containment shield is down
+EF0 emergency blast door, open
+EF1 emergency blast shield, deactivated
+EF3 blast containment shield is, open
 
 // fire door
-NFIRE0 sentences/NFIRE0
-EFIRE0 sentences/EFIRE0
+NFIRE0 fire containment door is down
+EFIRE0 fire containment door, open
 
 // chemical door
-NCHEM0 sentences/NCHEM0
-ECHEM0 sentences/ECHEM0
+NCHEM0 chemical leak containment door activated
+ECHEM0 chemical leak containment door, open
 
 // radiation door
-NRAD0 sentences/NRAD0
-ERAD0 sentences/ERAD0
+NRAD0 radiation containment door activated
+ERAD0 radiation containment door, open
 
 // generic containment door
-NCON0 sentences/NCON0
-ECON0 sentences/ECON0
+NCON0 emergency containment door engaged
+ECON0 emergency containment door disengaged
 
 // broken locked door
-NG0 sentences/NG0
-NG1 sentences/NG1
-NG2 sentences/NG2
+NG0 sorry, this door is inoperative
+NG1 sorry, door out of service
+NG2 door damage detected, please call service personnel
 
 // maintenance door
-NH0 sentences/NH0
-NH1 sentences/NH1
-EH0 sentences/EH0
-EH1 sentences/EH1
+NH0 no access, maintenance area
+NH1 no personnel permitted in maintenance area
+EH0 maintenance area access granted
+EH1 maintenance area door open
 
 // turrets, defensive systems
 
-T0 sentences/T0
-T1 sentences/T1
-T2 sentences/T2
-T3 sentences/T3
-T4 sentences/T4
-T5 sentences/T5
+T0 extreme hazard, defense system is armed in this zone
+T1 hazard area, defense system activated
+T2 danger, turret perimeter defense system armed
+T3 extreme hazard, nearest defense system engaged
+T4 danger, base defense turret system may power up
+T5 danger, automatic defense system activated
 
 // warnings
 
-WE0 sentences/WE0
-WE1 sentences/WE1
-WE2 sentences/WE2
-WE3 sentences/WE3
+WE0 warning, high voltage cable
+WE1 warning, high power cable
+WE2 warning, electric shock hazard
+WE3 warning, severe electric shock hazard
 
 // danger
 
-DR0 sentences/DR0
-DR1 sentences/DR1
-DR2 sentences/DR2
-DR3 sentences/DR3
-DR4 sentences/DR4
+DR0 danger, radiation leak detected
+DR1 danger, radiation hazard detected
+DR2 danger, high radiation level detected
+DR3 danger, severe radiation hazard, evacuate area immediately
+DR4 danger, safety violation, extreme radiation level detected
 
-DC0 sentences/DC0
-DC1 sentences/DC1
-DC2 sentences/DC2
-DC3 sentences/DC3
-DC4 sentences/DC4
+DC0 danger, chemical leak, area now a high health hazard
+DC1 danger, chemical coolant leak, health hazard zone
+DC2 danger, chemical containment breach, all personnel evacuate this area
+DC3 danger, supercooled chemical leak
+DC4 danger, supercooled helium leak
 
-DB0 sentences/DB0
-DB1 sentences/DB1
-DB2 sentences/DB2
-DB3 sentences/DB3
+DB0 danger, liquid biohazard leak in immediate area
+DB1 danger, coolant leak, severe biohazard now in this area
+DB2 danger, liquid biohazard released, evacuate area
+DB3 danger, biohazard detected in immediate area
 
 // training room
 
-TR_A sentences/TR_A
-TR_B sentences/deeoo TR_B
+TR_A three, two, one, deeoo(p110)
+TR_B deeoo(p110) (p102 t20) target system deactivated
 
 
 // HEV Suit
@@ -238,8 +238,8 @@ HEV_EGONPOWER fvox/blip
 
 // time
 
-//HEV_C1t sentences/bell HEV_C1t
-//HEV_C13t sentences/bell HEV_C13t
+//HEV_C1t fvox/bell time_is_now one AM
+//HEV_C13t fvox/bell time_is_now one PM
 
 // power levels
 

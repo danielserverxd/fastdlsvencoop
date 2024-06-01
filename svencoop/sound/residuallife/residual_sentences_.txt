@@ -101,93 +101,93 @@ ZK03_SCI_SPK1 scientist/c2a5_sci_boobie
 ZK03_SCI_SPK6 scientist/c2a3_sci_icky
 ZK03_SCI_SPK8 scientist/c1a4_sci_trust
 
-NA0 sentences/NA0
-NA1 sentences/NA1
-NA2 sentences/NA2
-NA3 sentences/NA3
-NA4 sentences/NA4
-NA5 sentences/NA5
-NA6 sentences/NA6
-NA7 sentences/NA7
-NA8 sentences/NA8
-NA9 sentences/NA9
-NA10 sentences/NA10
-NA11 sentences/NA11
-NA12 sentences/NA12
-NA13 sentences/NA13
-NA14 sentences/NA14
-NA15 sentences/NA15
-NA16 sentences/NA16
-NA17 sentences/NA17
-NA18 sentences/NA18
-EA0 sentences/EA0
-EA1 sentences/EA1
-EA2 sentences/EA2
-EA3 sentences/EA3
-EA4 sentences/EA4
-EA5 sentences/EA5
-EA6 sentences/EA6
-EA7 sentences/EA7
-ND0 sentences/ND0
-ND1 sentences/ND1
-ND2 sentences/ND2
-ND3 sentences/ND3
-ND4 sentences/ND4
-ND5 sentences/ND5
-ND6 sentences/ND6
-ND7 sentences/ND7
-ED0 sentences/ED0
-ED1 sentences/ED1
-ED2 sentences/ED2
-ED3 sentences/ED3
-ED4 sentences/ED4
-ED5 sentences/ED5
-ED6 sentences/ED6
-NF0 sentences/NF0
-NF1 sentences/NF1
-NF3 sentences/NF3
-EF0 sentences/EF0
-EF1 sentences/EF1
-EF3 sentences/EF3
-NCHEM0 sentences/NCHEM0
-ECHEM0 sentences/ECHEM0
-NFIRE0 sentences/NFIRE0
-EFIRE0 sentences/EFIRE0
-NRAD0 sentences/NRAD0
-ERAD0 sentences/ERAD0
-NCON0 sentences/NCON0
-ECON0 sentences/ECON0
-NG0 sentences/NG0
-NG1 sentences/NG1
-NG2 sentences/NG2
-NH0 sentences/NH0
-NH1 sentences/NH1
-EH0 sentences/EH0
-EH1 sentences/EH1
-T0 sentences/T0
-T1 sentences/T1
-T2 sentences/T2
-T3 sentences/T3
-T4 sentences/T4
-T5 sentences/T5
-WE0 sentences/WE0
-WE1 sentences/WE1
-WE2 sentences/WE2
-WE3 sentences/WE3
-DR0 sentences/DR0
-DR1 sentences/DR1
-DR2 sentences/DR2
-DR3 sentences/DR3
-DC0 sentences/DC0
-DC1 sentences/DC1
-DC2 sentences/DC2
-DC3 sentences/DC3
-DB0 sentences/DB0
-DB1 sentences/DB1
-DB2 sentences/DB2
-DB3 sentences/DB3
-TR_A sentences/TR_A deeoo
-TR_B sentences/deeoo TR_B
+NA0 access denied
+NA1 access is denied
+NA2 unauthorized access
+NA3 illegal access
+NA4 this door is locked
+NA5 unauthorized access
+NA6 entry forbidden
+NA7 entry not permitted
+NA8 no unauthorized personnel
+NA9 you do not have access to this facility
+NA10 (p102) sorry, you may not enter
+NA11 (p102) sorry, this door is locked
+NA12 (p102) please, move away from this area
+NA13 (p102) please, move away from door
+NA14 (p103) you will not get in
+NA15 (p103) entry is not an option
+NA16 (p104) will we do this all day
+NA17 (p104) move on immediately
+NA18 (p105) no, no, and no(p80)
+EA0 access granted
+EA1 access permitted
+EA2 entry granted
+EA3 entry permitted
+EA4 access authorized
+EA5 entry is permitted
+EA6 access is authorized
+EA7 access to facility, granted
+ND0 security lock is engaged
+ND1 secure area, no entry
+ND2 security lockout, no entry
+ND3 secure door, no entry
+ND4 security system in force
+ND5 security system armed, no entry
+ND6 door is secured
+ND7 illegal access, move away
+ED0 security lock disengaged
+ED1 security clear, proceed
+ED2 security lockout, released
+ED3 secure override accepted
+ED4 security access acknowledged
+ED5 security system disengaged
+ED6 door security disengaged
+NF0 emergency blast door activated
+NF1 emergency blast shield activated
+NF2 the blast containment shield is down
+EF0 emergency blast door, open
+EF1 emergency blast shield, deactivated
+EF2 blast containment shield is, open
+NCHEM0 chemical leak containment door activated
+ECHEM0 chemical leak containment door, open
+NFIRE0 fire containment door is down
+EFIRE0 fire containment door, open
+NRAD0 radiation containment door activated
+ERAD0 radiation containment door, open
+NCON0 emergency containment door engaged
+ECON0 emergency containment door disengaged
+NG0 sorry, this door is inoperative
+NG1 sorry, door out of service
+NG2 door damage detected, please call service personnel
+NH0 no access, maintenance area
+NH1 no personnel permitted in maintenance area
+EH0 maintenance area access granted
+EH1 maintenance area door open
+T0 extreme hazard, defense system is armed in this zone
+T1 hazard area, defense system activated
+T2 danger, turret perimeter defense system armed
+T3 extreme hazard, nearest defense system engaged
+T4 danger, base defense turret system may power up
+T5 danger, automatic defense system activated
+WE0 warning, high voltage cable
+WE1 warning, high power cable
+WE2 warning, electric shock hazard
+WE3 warning, severe electric shock hazard
+DR0 danger, radiation leak detected
+DR1 danger, radiation hazard detected
+DR2 danger, high radiation level detected
+DR3 danger, severe radiation hazard, evacuate area immediately
+DC0 danger, chemical leak, area now a high health hazard
+DC1 danger, chemical coolant leak, health hazard zone
+DC2 danger, chemical containment breach, all personnel evacuate this area
+DC3 danger, supercooled chemical leak
+DB0 danger, liquid biohazard leak in immediate area
+DB1 danger, coolant leak, severe biohazard now in this area
+DB2 danger, liquid biohazard released, evacuate area
+DB3 danger, biohazard detected in immediate area
+TR_A three, two, one, deeoo(p110)
+TR_B deeoo(p110) (p102 t20) target system deactivated
 TP_OFF buzwarn track power is not on
 C1A0_START dadeda vox_login
 SECURITY_BREACH security breach, open
@@ -209,16 +209,15 @@ OF7A0_INTR deeoo deeoo deeoo (p98 e95) alpha team zulu team move(t0) out, intrud
 OF7A0_PBCH deeoo deeoo deeoo (p98 e95) quebec team reports men down in storage one, medical help required
 OF7A0_SHDW deeoo deeoo deeoo (p98 e95) warning. emergency shut down detected in control room sub level c, all personnel go to sub level c immediately
 C1A0_0 bloop (e95) launch officer reports, alpha satellite deploy is(t0 s0 e100) nominal(e100)
-
-C1A0_1 C1A0_0
-C1A0_2 C1A0_8
-C1A0_3 C1A0_21
+C1A0_1 dadeda (e95) agent(t0) coomer(t0), report to(e70) topside tactical operations center(e100)
+C1A0_2 dadeda (e95) coded message for captain black, command and(s0 e100 t0) communication center(e100)
+C1A0_3 dadeda (e95 p104) sargeant guthrie, report to(e70) topside motorpool immediately(e100)
 C1A0_4 doop (e95) all military officer, prosecute code five immediately
 C1A0_5 doop (e95) attention. all military personnel, prosecute code five
 C1A0_6 doop (e95) doctor green, please call command and(s0 e100 t0) communication center(e100)
 C1A0_7 doop (e95) lieutenant collider, report to topside ammunition supply point
-C1A1_0 sentences/C1A1_10
-C1A1_1 sentences/C1A1_11
+C1A1_0 deeoo deeoo (p104) attention. any sector c science personnel, please report status immediately
+C1A1_1 deeoo deeoo (p104) attention. sector c science personnel please report status immediately
 C1A1_2 deeoo deeoo doctor adios reports men down in reactor level b, medical help required
 C1A1_3 deeoo deeoo doctor wilco reports unauthorized activity detected in anomalous materials test lab
 C1A2_0 deeoo (e95 p103) unauthorized door activity detected in supply sub level eight
@@ -241,7 +240,7 @@ C1A4_4 (p130) buzwarn buzwarn (p98 e95) medical team, central command reports ho
 C1A4_5 (p130) buzwarn buzwarn (p98 e95) observation officer reports evacuate personnel detected in hydro plant sector g
 C1A4_6 (p130) buzwarn buzwarn (p98 e95) security officer reports, perimeter breach, administration sub level one(e100)
 C1A4_7 (p130) buzwarn buzwarn (p98 e95) victor force to primary materials handling bay, kilo force reports men down in sector g
-C2A1_0 sentences/C2A1_0
+C2A1_0 buzwarn buzwarn. warning. track power failure. check lower level power plant.
 C2A1_1 buzwarn buzwarn hotel team to dimensional decontamination system canal, whiskey team to experimental zero point energy field reactor
 C2A1_2 buzwarn buzwarn inspection team to lower maintenance chamber(t0), primary core must be engaged to activate charlie bravo
 C2A1_3 buzwarn buzwarn (p98 e95) alert. squad in central complex, hostile alien inside your perimeter.
@@ -760,25 +759,25 @@ WILD2 ambience/des_wind1(v40 p105), wren1(v80)
 WILD3 ambience/des_wind2(v40 p98)
 HG_ALERT0 hgrunt/(t20) clik(p110) squad!, get!(e80) objective! clik(p110) clik
 HG_ALERT1 hgrunt/(t50) shit!(t20), lay! down! your! weapons!(t20) clik
-HG_ALERT2 sentences/HG_ALERT3
-HG_ALERT3 sentences/HG_ALERT0
-HG_ALERT4 sentences/HG_ALERT2
-HG_ALERT5 sentences/HG_ALERT1
-HG_CHARGE0 sentences/HG_CHARGE2
+HG_ALERT2 hgrunt/(t30) sir!(t20), we!(e80) got!(e80) hostiles!(p120 t0), clik(p110)
+HG_ALERT3 hgrunt/(t50) squad!, i! got! hostiles!(p120 t0) clik
+HG_ALERT4 hgrunt/clik movement! clik
+HG_ALERT5 hgrunt/clik(p110) target! clik
+HG_CHARGE0 hgrunt/clik go! clik(p120)
 HG_CHARGE1 hgrunt/clik here! clik(p120)
 HG_CHARGE2 hgrunt/clik lets! go! clik(p120)
 HG_CHARGE3 hgrunt/clik (t40) damn!, clik(p120) clik
-HG_CHARGE4 sentences/HG_CHARGE0
+HG_CHARGE4 hgrunt/clik (t40) go! recon! clik(p120)
 HG_CHARGE5 hgrunt/clik (t45) go! those!(p120) hell!, clik(p120)
-HG_CHARGE6 sentences/HG_COVER2
+HG_CHARGE6 hgrunt/clik (t45) we! need! backup!(t10) clik
 HG_CHARGE7 hgrunt/clik (p110 t40) go! go! go! clik
 HG_CHARGE8 hgrunt/clik(p110) (t40) request! backup! clik(p120) clik
 HG_CHARGE9 hgrunt/(t40) blow! away! clik(p120)
-HG_CHARGE10 sentences/HG_ALERT6
+HG_CHARGE10 hgrunt/(t30) clik clik move!(e75) in! clik(p120)
 HG_CHARGE11 hgrunt/(t20) clik(p110) get!(e80) some! clik(p110) clik
 HG_COVER0 hgrunt/clik (t30) cover! need!(e75 p95) clik(p120)
-HG_COVER1 sentences/HG_COVER7
-HG_COVER2 sentences/HG_COVER1
+HG_COVER1 hgrunt/clik (t40) cover!(e75) fire! clik
+HG_COVER2 hgrunt/clik (t50 e75) I!(e80) need!(e80) suppressing!(t20) fire!(t10) clik
 HG_COVER3 hgrunt/clik (t40 e80) we! got! heavy! fire! clik(p120)
 HG_COVER4 hgrunt/clik(p120) weird! hostiles! clik(p120)
 HG_COVER5 hgrunt/(t40) casualties! checking! clik(p120)
@@ -786,9 +785,9 @@ HG_GREN0 hgrunt/clik clik oh! shit! clik
 HG_GREN1 hgrunt/clik clik you!(t20) bastard! clik(p110)
 HG_GREN2 hgrunt/clik (t40) god! damn! clik
 HG_GREN3 hgrunt/clik(p110) (t40) of!(e75) hell! clik(p110)
-HG_GREN4 sentences/HG_COVER0
-HG_GREN5 sentences/HG_GREN0
-HG_MONST0 sentences/HG_MONST1
+HG_GREN4 hgrunt/(t30) clik take!(e75) cover!(s5) clik
+HG_GREN5 hgrunt/(t40) shit!(t20), grenade! clik
+HG_MONST0 hgrunt/clik(p110) (t40) clik(p120) we!(e75) got! bogies! clik
 HG_MONST1 hgrunt/clik (p110 t40) fire! team!, stay! alert!(p120 t0) clik
 HG_MONST2 hgrunt/(t40) shit!(t20), get!(e80) heavy!, clik(p110) clik
 HG_MONST3 hgrunt/(t40) shit!(t20), (t50) stay! alert!(p120 t0) clik
@@ -798,32 +797,32 @@ HG_TAUNT2 hgrunt/(t40) mother! shit! clik
 HG_TAUNT3 hgrunt/(t40) patrol! clik(p120)
 HG_TAUNT4 hgrunt/(t40) you! are! going! down! clik
 HG_TAUNT5 hgrunt/(t40) you! got! nothing! clik(p120)
-HG_THROW0 sentences/HG_THROW2
-HG_THROW1 sentences/HG_THROW1
-HG_THROW2 sentences/HG_THROW0
-HG_THROW3 sentences/HG_THROW3
+HG_THROW0 hgrunt/clik (t35) fire in the(e50) hole clik(p120)
+HG_THROW1 hgrunt/clik (t30) take!(e75) this!(e100 t0) clik
+HG_THROW2 hgrunt/clik(p120) (t40) fire!(e90) in!(e90) the!(e60) hole!(e100) clik
+HG_THROW3 hgrunt/clik(p110) (t35 e80) squad, stay down clik
 HG_IDLE0 hgrunt/gr_idle1
 HG_IDLE1 hgrunt/gr_idle2
 HG_IDLE2 hgrunt/gr_idle3
 HG_IDLE3 hgrunt/gr_alert1
 HG_ANSWER0 hgrunt/clik(p105) (t30) ok command clik
-HG_ANSWER1 sentences/HG_ANSWER6
-HG_ANSWER2 sentences/HG_ANSWER0
+HG_ANSWER1 hgrunt/clik(p105) (t30) that(e75) is, uhh, affirmative clik
+HG_ANSWER2 hgrunt/clik(p110) (t20) uhh roger(e75) that, clik(p120) clik
 HG_ANSWER3 hgrunt/clik(p105) (t30) yeah, affirmative clik
-HG_CLEAR0 sentences/HG_CLEAR5
-HG_CLEAR1 sentences/HG_CLEAR4
+HG_CLEAR0 hgrunt/clik (t30) no(e75) movement this level clik(p120)
+HG_CLEAR1 hgrunt/clik (t30) no(e80) sign objective sir, over clik(p120)
 HG_CLEAR2 hgrunt/clik (t30) fire(e75) team, in(e75) position, all quiet clik(p120)
-HG_CLEAR3 sentences/HG_CLEAR6
-HG_CHECK0 sentences/HG_CHECK2
-HG_CHECK1 sentences/HG_CHECK6
-HG_CHECK2 sentences/HG_CHECK7
+HG_CLEAR3 hgrunt/clik(p120) (t28) sector secure, sir, over clik(p120) clik(p120)
+HG_CHECK0 hgrunt/clik (t30) check(e80) in people clik
+HG_CHECK1 hgrunt/clik (t30) check your zone, over, clik
+HG_CHECK2 hgrunt/clik (t30) everything(e85) ok(e75) there, clik(p130)
 HG_CHECK3 hgrunt/clik (t30) fire(e75) team, check(e80) in clik(p120)
-HG_CHECK4 sentences/HG_CHECK0
-HG_CHECK5 sentences/HG_CHECK1
-HG_QUEST0 sentences/HG_QUEST2
+HG_CHECK4 hgrunt/clik (t30) ok, check(e75) in clik
+HG_CHECK5 hgrunt/clik(p110) (t30) squad, are(e80) hostiles clear clik(p120)
+HG_QUEST0 hgrunt/clik (t20) maintain lookout clik(p120)
 HG_QUEST1 hgrunt/clik (t30) radio(e75) weapons(e75) check, over clik(p120)
-HG_QUEST2 sentences/HG_QUEST0
-HG_QUEST3 sentences/HG_QUEST9
+HG_QUEST2 hgrunt/clik (t25) stay(e80) alert people clik(p120)
+HG_QUEST3 hgrunt/clik(p110) (t30) fire(e75) team, objective foxtrot niner clik(p120)
 HG_QUEST4 hgrunt/clik(p120) (t30) tango mission is go clik(p120) clik(p120)
 HG_QUEST5 hgrunt/clik(p120) (t30) uhh, go delta sweep formation clik(p120) clik(p120)
 HG_CANAL1 hgrunt/hg_canal1
