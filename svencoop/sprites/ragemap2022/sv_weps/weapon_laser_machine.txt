@@ -1,6 +1,0 @@
-6
-weapon				640		rage22_sv_hud1	170	271	170	45
-weapon_s			640		rage22_sv_hud1 	170	315	170	45
-ammo				640		640hud7		168	60	24	24
-crosshair			640		ofch1		0	48	24	24
-autoaim				640		crosshairs	24	72	24	24

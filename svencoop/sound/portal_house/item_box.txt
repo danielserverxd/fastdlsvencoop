@@ -1,1 +1,0 @@
-"items/suitchargeok1.wav"	"portal_house/items/gunpickup4.wav"

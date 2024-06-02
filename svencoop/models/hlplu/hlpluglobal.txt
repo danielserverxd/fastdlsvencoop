@@ -1,3 +1,0 @@
-"models/islavef.mdl" "models/islave.mdl"
-"models/agruntf.mdl" "models/agrunt.mdl"
-"models/gman.mdl" "models/hlplu/gman.mdl"
